@@ -16,11 +16,14 @@ def main():
     rows = []
     for path in sorted((root / "_manuscripts").rglob("*.yaml")):
         doc = yaml.safe_load(path.read_text(encoding="utf-8"))
-        described = doc["_publications"]["_described-in"][0]
+        descriptions = {d["id"]: d for d in doc["_publications"]["_described-in"]}
+        first = doc["_publications"]["_described-in"][0]
         for relation in ("_contains", "_contains-also"):
             for link in doc["_works"].get(relation, []):
                 if link.get("uncertain_fields"):
-                    rows.append((described["id"], link["item_no"], described["pages"], path.stem,
+                    # a link names its list (source) when the volume is described twice
+                    described = descriptions.get(link.get("source"), first)
+                    rows.append((described["id"], link.get("item_no", 0), described["pages"], path.stem,
                                  ", ".join(link["uncertain_fields"])))
     for publication, item, pages, volume, fields in sorted(rows):
         print(f"{publication}  no. {item:<4} pp. {','.join(map(str, pages)):<9} {volume:<22} {fields}")

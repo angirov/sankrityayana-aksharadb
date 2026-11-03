@@ -1,0 +1,18 @@
+vol_no: XLVI
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1938, pages: [146], heading: "IX Ṣhalu Monastery (continued from Vol. XXI, Part I, pp 8–10 and Vol. XXIII, Part I, pp 33–52)"}
+_works:
+  _contains:
+    - id: unidentified-1938-361
+      item_no: 361
+      name_as_printed: "(Astrology)"
+      script: "Maiṃthilī"
+      size_inches: "15×1"
+      leaves: "35"
+      lines_per_page: "3"
+      status: "Incomplete"
+      notes: "Script printed “maiṃthilī”. Footnote 1: name of the book and many leaves missing; a few leaves seem to belong to other Ms. Some of the chapters are: “tṛtīyodhyāyaḥ” (8a ?); “devapuruṣakārādhyāyaḥ pañcamaḥ” (3b ?); “vāraguṇādhyāyaḥ pañcamaḥ” (12b); “yātrāyāṃ lagnaniścayo'ṣṭamodhyāyaḥ” (16a); “drekkāṇādhyāyo navamaḥ” (?); “miśrikādhyāyo daśamaḥ” (?); “grahaśuddhirnāma daśamodhyāyaḥ” (18a); “utsavādyadhyāya ekādaśamaḥ” (22a); “svapnādhyāya pañcadaśamaḥ” (29a); “snānavidhiḥ ṣoḍaśodhyāyaḥ” (30b); “grahacakrādhyāyaḥ saptadaśamaḥ” (32a); “nirgamādhyāyo'ṣṭādaśaḥ” (32b); “ekonaviṃśādhyāyo hastīṅgitaṃ” (34b); “aśveṅgitaṃ viṃśatitamodhyāyaḥ” (36b); “nimittādhyāyo ekaviṃśatimaḥ”. An example of the verses: “yatho (?ccho)ktaṃ rāśyudaye dvādaśabhāgepi tat phalamvācyaṃ | yacca navāṃśakavihitaṃ triṃśāṃśasyodaye tat syāt ||” (drekkāṇādhyāye)."

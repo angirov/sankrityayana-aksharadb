@@ -20,6 +20,17 @@ Open questions are in `progress.md`.
 - “Miscellaneous leaves”, “Loose leaves” link to the work `miscellaneous-leaves` (not a real work).
 - A work named only in a footnote, not numbered in the list (1938, Pratyekabuddhabhūmi with
   no. 350), is a `_contains` link without `item_no`.
+- A volume described in two publications (Spos-khang I–III: 1935, and “some correction and
+  addition” in 1938) stays one manuscript with two `_described-in` links. Each `_contains` link
+  of such a volume names its list in `source`. Both lists are kept as printed, even where 1938
+  corrects 1935 (titles, numbers, the volume a title is in); notes point out the differences.
+  Where both lists name the same work, the entry of 1938 goes to `_contains-also` (see issue #11:
+  `source` plus `item_no` would be the discriminator).
+- In 1938 Spos-khang nos. 6–7 have no vol. no.; a new count (1) begins after vol. I, so they are
+  taken as vol. II (where 1935 has nos. 5–6).
+- Long quotations in footnotes (1938 Spos-khang, pp. 148–162: several pages of verse and prose)
+  are not transcribed into the records; the records say where they are. Their text is to come
+  with the page texts (`.md`) of those pages, a later step.
 - Quotations of a text's beginning and end ("Begins—", "In the end—") go into `incipit` and
   `explicit` (added for 1938); a colophon into `colophon`.
 

@@ -4,18 +4,46 @@ _locations:
     - id: spos-khang
 _publications:
   _described-in:
+    - {id: sankrtyayana1938, pages: [157, 158, 159, 160, 161, 162], heading: "SPOS-KHANG MONASTERY"}
     - {id: sankrtyayana1935, pages: [28], heading: "II. Spos-khang monastery (near Gyantse)"}
 _works:
   _contains:
     - id: sarvastivada-sutras-commentary
+      source: sankrtyayana1935
       item_no: 5
       name_as_printed: A Commentary on some Sarvāstivāda Sūtras
       author_as_printed: Aśvaghoṣa
       colophon: "sarvāstivādī śākyabhikṣu aśvaghoṣaḥ....|"
       notes: "Footnote 1 (on the author) gives the colophon. The other columns are printed “..”."
     - id: asvaghosa-parikatha
+      source: sankrtyayana1935
       item_no: 6
       name_as_printed: …parikathā
       author_as_printed: Aśvaghoṣa
       notes: "Author printed as a ditto mark; the other columns “..”. No vol. no. is printed: the title is taken to belong to vol. II."
       uncertain_fields: [author_as_printed]
+    - id: tridandamala
+      item_no: 6
+      no_in_volume: 1
+      name_as_printed: "Tridaṇḍamālā"
+      author_as_printed: "Aśvaghoṣa"
+      script: "Kuṭilā"
+      size_inches: "22×1¾"
+      leaves: "115"
+      lines_per_page: "5"
+      status: "Leaf 107 missing"
+      notes: "Page 157. No vol. no. is printed; a new count (1) begins, so this is taken as vol. II, where the list of 1935 has its no. 6 (…parikathā of Aśvaghoṣa). Footnote 1: on the front page “Tridaṇḍamālā” in Sanskrit, and “Rgyud-gsum-phreṅ-ba” and “Rgyud-phyag-3-pahi-phreṅ-ba”; it begins “namoratnatrayāya || yasyedaṃ sakalāmalendukiraṇaprakhyairyaśobhirjagad vyāptaṃ …” and quotes more (pp. 157–160), not transcribed here."
+  _contains-also:
+    - id: asvaghosa-parikatha
+      item_no: 7
+      no_in_volume: 2
+      name_as_printed: "Parikathā"
+      author_as_printed: "Aśvaghoṣa"
+      script: "Kuṭilā"
+      size_inches: "22×1¾"
+      leaves: "57"
+      lines_per_page: "5"
+      status: "complete"
+      notes: "Page 160. Author, script, size and lines printed as ditto marks. The list of 1935 has this title as no. 6 (“…parikathā”). Footnote 1 quotes the beginning (“… vakṣye parikathāścitrāḥ śaraṇādisamāśrayāḥ …”), names other Parikathās with their pages, among them “dānaparikathā” (p. 9a), “tadbhaktajanānugrahāya parikathā” (p. 36b), “tathāgatapratimācitrayituḥ saṃharṣaṇārthaṃ parikathā” (p. 42ab), “stūpasatkārādhikāre” (p. 45b), “śokavinodanārthaṃ … parikathā” (p. 49a), “tīrthābhiṣekaparīkṣā” (p. 54a), “agnipraveśādi dharmmaparīkṣā” (p. 55b), and the end (p. 57a); pp. 160–162, the long passages not transcribed here."
+      uncertain_fields: [author_as_printed]
+notes: "Described in 1935 and again, with corrections (“some correction and addition”), in 1938; the links say which list they come from (source). Where both lists name the same work, the entry of 1938 is in _contains-also."
