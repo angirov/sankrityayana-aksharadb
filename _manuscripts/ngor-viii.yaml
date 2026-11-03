@@ -4,7 +4,7 @@ _locations:
     - id: ngor
 _publications:
   _described-in:
-    - {id: sankrtyayana1935, pages: [33], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
+    - {id: sankrtyayana1935, pages: [33, 34], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
 _works:
   _contains:
     - id: astasahasrika-prajnaparamita
@@ -87,6 +87,17 @@ _works:
       lines_per_page: "8, 11"
       status: Incomplete
       notes: "Script, size and status printed as ditto marks."
+    - id: guhyasamaja
+      item_no: 72
+      no_in_volume: 10
+      name_as_printed: Guhyasamāja T
+      tibetan_translation: true
+      script: Kuṭila
+      size_inches: 21⅓×1⅔
+      leaves: "33"
+      lines_per_page: "6"
+      status: Incomplete
+      notes: Page 34.
   _contains-also:
     - id: astasahasrika-prajnaparamita
       item_no: 64

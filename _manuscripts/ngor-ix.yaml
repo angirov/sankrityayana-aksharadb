@@ -1,0 +1,20 @@
+vol_no: IX
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [34], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
+_works:
+  _contains:
+    - id: satasahasrika-prajnaparamita
+      item_no: 73
+      name_as_printed: Śatasāhasrikā prajñā pāramitā T
+      tibetan_translation: true
+      script: Rañjana
+      size_inches: 22⅔×2⅙
+      leaves: "639"
+      lines_per_page: "6"
+      status: Incomplete
+      notes: "Footnote 1: the last leaf and wooden cover have multi-colour paintings. Status printed as a ditto mark with footnote 2: begins from Chapter XXXVIII."
+notes: Painted last leaf and wooden cover.

@@ -1,0 +1,66 @@
+vol_no: XI
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [34], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
+_works:
+  _contains:
+    - id: mahamantranusarini
+      item_no: 76
+      no_in_volume: 1
+      name_as_printed: Mahāmaṃtrānusāriṇī mahāvidyārājñī T
+      tibetan_translation: true
+      script: Rañjana
+      size_inches: 21⅓×2
+      leaves: "1-10"
+      lines_per_page: "6"
+      status: Illustrated
+      notes: "Footnote 5: these are also called Paṃcarakṣā."
+    - id: mahasahasrapramardani
+      item_no: 77
+      no_in_volume: 2
+      name_as_printed: Mahāsahasrapramardanī T
+      tibetan_translation: true
+      script: Rañjana
+      size_inches: 21⅓×2
+      leaves: "-17"
+      lines_per_page: "6"
+      status: Illustrated
+      notes: "Footnote 5: these are also called Paṃcarakṣā. Script, size, lines and status printed as ditto marks."
+    - id: mahamayuri
+      item_no: 78
+      no_in_volume: 3
+      name_as_printed: Mahāmāyūrī vidyārājñī T
+      tibetan_translation: true
+      script: Rañjana
+      size_inches: 21⅓×2
+      leaves: "-40"
+      lines_per_page: "6"
+      status: Illustrated
+      notes: "Footnote 5: these are also called Paṃcarakṣā. Script, size, lines and status printed as ditto marks."
+    - id: sitavati
+      item_no: 79
+      no_in_volume: 4
+      name_as_printed: Sītavatī mahāvidyārājñī T
+      tibetan_translation: true
+      script: Rañjana
+      size_inches: 21⅓×2
+      leaves: "-42"
+      lines_per_page: "6"
+      status: Illustrated
+      notes: "Footnote 5: these are also called Paṃcarakṣā. Script, size, lines and status printed as ditto marks."
+    - id: mahapratisara
+      item_no: 80
+      no_in_volume: 5
+      name_as_printed: Mahāpratisarā mahāvidyārājñī T
+      tibetan_translation: true
+      script: Rañjana
+      size_inches: 21⅓×2
+      leaves: "-58"
+      lines_per_page: "6"
+      status: Illustrated
+      colophon: "śākyabhikṣoḥ sthavira ja yā ka ra gu pta sya... kalyāṇasahasrabhājanasya pa ra ma sau ga ta śrīmad govindacandradeva (1110-55 A. D.)sya pravarddhamāna vijayarā...samvatsare likhayamānaṃ śrāmaṇamāsi śuklapakṣe pañcamyāntithau bṛhaspativāre citranakṣatre śrīvikrama...|"
+      notes: "Footnote 5: these are also called Paṃcarakṣā. Script, size, lines and status printed as ditto marks. Footnote 6 gives the colophon of the volume; the spaced syllables are the source's."
+notes: "The five texts of the Pañcarakṣā (footnote 5); the leaves column gives where each one ends."

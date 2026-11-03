@@ -1,0 +1,31 @@
+vol_no: X
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [34], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
+_works:
+  _contains:
+    - id: dharmottarapradipa
+      item_no: 74
+      no_in_volume: 1
+      name_as_printed: Nyāyavindu anuṭīkā (Dharmottarapradīpa)
+      author_as_printed: Durvvekamiśra
+      script: Māgadhī
+      size_inches: 22⅔×2⅙
+      leaves: "84"
+      lines_per_page: "8"
+      status: Complete
+      notes: "Footnote 3: a sub-commentary on Dharmottara's gloss on Dharmakīrti's Nyāyavindu. Size printed as a ditto mark."
+    - id: hetubindu-anutika
+      item_no: 75
+      no_in_volume: 2
+      name_as_printed: (Hetuvindu-anuṭīkā)
+      author_as_printed: Durvvekamiśra
+      script: Māgadhī
+      size_inches: 22⅔×2⅙
+      leaves: "70"
+      lines_per_page: "8"
+      status: Complete
+      notes: "Footnote 4: a sub-commentary on Dharmākaradatta's gloss on Dharmakīrti's Hetuvindu. Author, script, size and status printed as ditto marks."
