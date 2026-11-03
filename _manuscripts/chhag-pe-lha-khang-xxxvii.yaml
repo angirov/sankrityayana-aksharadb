@@ -1,0 +1,28 @@
+vol_no: XXXVII
+_locations:
+  _kept-in:
+    - id: chhag-pe-lha-khang
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [32], heading: "VI. Chhag-pe-lha-khang in Lha-Khang-Chhenmo of Sa-skya Monastery. (Continued From Volume XXI, Part I)"}
+_works:
+  _contains:
+    - id: vessantarajataka
+      item_no: 234
+      name_as_printed: "Vessantarajātaka (?)"
+      script: "Sinhalese"
+      size_inches: "18¼×1¼"
+      leaves: "50"
+      lines_per_page: "7"
+      status: "Incomplete"
+      notes: "Footnote 3: these two MSS. (nos. 234–235) are in Sinhalese language. No. 234 has no first page, and the end I can read only “bhoginā vessantara |”. Status printed as a ditto mark."
+    - id: unidentified-1937-235
+      item_no: 235
+      name_as_printed: "......nusaṃsā"
+      script: "Sinhalese"
+      size_inches: "18¼×1¼"
+      leaves: "47"
+      lines_per_page: "7"
+      status: "Incomplete"
+      incipit: "namo tassa bhagavato arahato sammāsambuddhassa | sañjī(?)kādasānusaṃsā(?)"
+      notes: "Footnote 3: during the time of Grag-pa-rgyal-tshan (1182-1216 A.C.) Anantaśrī a Sinhalese monk visited Tibet and this MS. belonged to him. Script, size and status printed as ditto marks."

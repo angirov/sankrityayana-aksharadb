@@ -1,0 +1,38 @@
+vol_no: XXXV
+_locations:
+  _kept-in:
+    - id: chhag-pe-lha-khang
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [32], heading: "VI. Chhag-pe-lha-khang in Lha-Khang-Chhenmo of Sa-skya Monastery. (Continued From Volume XXI, Part I)"}
+_works:
+  _contains:
+    - id: siksasamuccaya
+      item_no: 227
+      name_as_printed: "Śikṣāsamuccaya"
+      author_as_printed: "(Śāntideva)"
+      tibetan_translation: true
+      script: "Māgadhī"
+      size_inches: "22½×2"
+      leaves: "1"
+      lines_per_page: "2"
+      status: "Incomplete"
+      colophon: "puṇyavṛddhiḥ samāptaḥ | samāptaścāyaṃ bodhisatvavinayaḥ || anekasūtroddhṛtaḥ || śikṣāsamuccaya iti || śrīmatkuma(ā)rapāladevarājye samvat 3 agrahaṇadine |"
+      notes: "Footnote 1: only 2 lines; it gives the colophon. Status printed as a ditto mark."
+    - id: posadhanusamsa
+      item_no: 228
+      name_as_printed: "Poṣadhānuśaṃsā etc."
+      script: "Kuṭilā, Māgadhī"
+      leaves: "6"
+      status: "Incomplete"
+      notes: "Status printed as a ditto mark; author “..”."
+    - id: miscellaneous-leaves
+      item_no: 229
+      name_as_printed: "Miscellaneous leaves"
+      leaves: "38"
+      notes: "Author “..”; other columns blank."
+    - id: tibetan-leaves
+      item_no: 230
+      name_as_printed: "Tibetan leaves."
+      leaves: "14"
+      notes: "Author “..”; other columns blank."

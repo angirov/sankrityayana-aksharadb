@@ -1,0 +1,20 @@
+vol_no: XXXVIII
+_locations:
+  _kept-in:
+    - id: chhag-pe-lha-khang
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [32], heading: "VI. Chhag-pe-lha-khang in Lha-Khang-Chhenmo of Sa-skya Monastery. (Continued From Volume XXI, Part I)"}
+_works:
+  _contains:
+    - id: vimalaprabha
+      item_no: 236
+      name_as_printed: "Kālacakraṭīkā (Vimalaprabhā)"
+      tibetan_translation: true
+      script: "Sinhalese"
+      size_inches: "18¼×1¼"
+      leaves: "47"
+      lines_per_page: "7"
+      status: "Incomplete"
+      notes: "Footnote 4: a paper MS. Script, size, leaves, lines and status are printed as ditto marks of no. 235 (Sinhalese), which is odd for a paper Kālacakraṭīkā; recorded as printed."
+      uncertain_fields: [script, size_inches, leaves, lines_per_page]

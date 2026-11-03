@@ -35,6 +35,7 @@ Open questions are in `progress.md`.
   unnumbered volume, keyed by location + first item number (`chhag-pe-lha-khang-186`).
 - A footnote whose number points to one row but whose content clearly describes another (1937, p. 28) is assigned by its content, said so in the notes, and the notes are flagged.
 - A work in several physical volumes given one entry and a range of vol. nos. (1937 no. 216, vols. XX–XXIII) is one manuscript record, `vol_no: XX-XXIII`.
+- Unidentified titles printed as ditto marks of each other in one volume (1937 nos. 231–233, “saṃskṛtapustaka”) are separate works, since nothing shows they are one text (and a third copy could not go into `_contains-also`, issue #11).
 - Long quotations in footnotes (1938 Spos-khang, pp. 148–162: several pages of verse and prose)
   are not transcribed into the records; the records say where they are. Their text is to come
   with the page texts (`.md`) of those pages, a later step.

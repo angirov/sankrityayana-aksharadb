@@ -65,3 +65,5 @@ Inventory and scans: the `pages` list of each `_publications/<key>.yaml` is the 
 | 27–29 | Chhag-pe-lha-khang vols. IX (end)–XIX, nos. 203–215 | done | Footnotes 1–2 of p. 28 seem shifted by one; assigned by content (decisions.md). |
 | 30 | Chhag-pe-lha-khang vols. XX–XXIII, no. 216 (Śatasāhasrikā, 4 vols.) | done | One record for the 4 volumes. |
 | 31 | Chhag-pe-lha-khang vols. XXIV–XXXIII, nos. 217–225 | done | Nos. 217–222: copies of the Śatasāhasrikā (ditto marks). |
+| 32 | Chhag-pe-lha-khang vols. XXXIV–XXXVIII, nos. 226–236 | done | Tamil Grantha and Sinhalese MSS.; dittos of no. 236 doubtful. |
+| 32 | Chhag-pe-lha-khang vols. XXXIV–XXXVIII, nos. 226–236 | done | Tamil Grantha and Sinhalese MSS.; dittos of no. 236 doubtful. |
