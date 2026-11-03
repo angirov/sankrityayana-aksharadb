@@ -1,0 +1,21 @@
+vol_no: XXXII
+_locations:
+  _kept-in:
+    - id: chhag-pe-lha-khang
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [31], heading: "VI. Chhag-pe-lha-khang in Lha-Khang-Chhenmo of Sa-skya Monastery. (Continued From Volume XXI, Part I)"}
+_works:
+  _contains:
+    - id: suddhacara
+      item_no: 223
+      name_as_printed: "Śuddhācāra"
+      author_as_printed: "Vācaspatimiśra"
+      script: "Maithilī"
+      size_inches: "15×1¾"
+      leaves: "113"
+      lines_per_page: "5"
+      status: "Complete"
+      colophon: "iti mahāmahopādhyāyasanmiśraśrīvācaspativiracitoyaṃ śuddhācāraḥ samāptaḥ || 0|| la saṃ 397 (=1517 A.C.) (Lakṣmaṇa Sena era=1119-20 A.C.) phālguna śudi 6 budhe vijayapuranagare sadupādhyāyaśrīmaṇḍanaśarmmaṇā lipiriyaṃ ||"
+      incipit: "muradviṣe namaskṛtya śrīvācaspatiśarmaṇā | dharmaśāstraṃ samālocya śuddhācāro vitanyate ||"
+      notes: "Footnote 4 gives the opening verse and the colophon."

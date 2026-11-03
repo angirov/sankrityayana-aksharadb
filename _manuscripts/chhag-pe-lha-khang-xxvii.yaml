@@ -1,0 +1,18 @@
+vol_no: XXVII
+_locations:
+  _kept-in:
+    - id: chhag-pe-lha-khang
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [31], heading: "VI. Chhag-pe-lha-khang in Lha-Khang-Chhenmo of Sa-skya Monastery. (Continued From Volume XXI, Part I)"}
+_works:
+  _contains:
+    - id: satasahasrika-prajnaparamita
+      item_no: 218
+      name_as_printed: "Śatasāhastrikā prajñāpāramitā"
+      script: "Rañjana (ordinary)"
+      size_inches: "21×1¾"
+      leaves: "1-260"
+      lines_per_page: "5"
+      status: "Incomplete"
+      notes: "Name printed as a ditto mark (Śatasāhasrikā prajñāpāramitā, no. 216); script, lines and status as ditto marks; author “..”. Footnote 1: character is similar to No. 215. Footnote 3: three kinds of numbering—(a) 1-121 in old numbers, (b) 1-69 in old numbers, (c) 1-67 in figures by later hand."

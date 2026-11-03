@@ -1,0 +1,24 @@
+vol_no: XXXIII
+_locations:
+  _kept-in:
+    - id: chhag-pe-lha-khang
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [31], heading: "VI. Chhag-pe-lha-khang in Lha-Khang-Chhenmo of Sa-skya Monastery. (Continued From Volume XXI, Part I)"}
+_works:
+  _contains:
+    - id: prajnaparamita-unspecified
+      item_no: 224
+      name_as_printed: "Prajñāpāramitā leaves"
+      script: "Māgadhī"
+      leaves: "32"
+      status: "Incomplete"
+      notes: "Author “..”; size and lines blank."
+  _contains-also:
+    - id: prajnaparamita-unspecified
+      item_no: 225
+      name_as_printed: "Prajñāpāramitā leaves"
+      script: "Rañjana, Kuṭilā, Māgadhī"
+      leaves: "10"
+      status: "Incomplete"
+      notes: "Name and status printed as ditto marks; author “..”. Leaves in three scripts."

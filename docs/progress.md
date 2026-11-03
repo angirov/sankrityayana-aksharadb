@@ -64,3 +64,4 @@ Inventory and scans: the `pages` list of each `_publications/<key>.yaml` is the 
 | 24–26 | Chhag-pe-lha-khang vols. VI–IX, nos. 196–202 | done | Footnote 3 of no. 200 gives 103 leaves, which is the count of no. 201; recorded as printed. Long verse quotations not transcribed. |
 | 27–29 | Chhag-pe-lha-khang vols. IX (end)–XIX, nos. 203–215 | done | Footnotes 1–2 of p. 28 seem shifted by one; assigned by content (decisions.md). |
 | 30 | Chhag-pe-lha-khang vols. XX–XXIII, no. 216 (Śatasāhasrikā, 4 vols.) | done | One record for the 4 volumes. |
+| 31 | Chhag-pe-lha-khang vols. XXIV–XXXIII, nos. 217–225 | done | Nos. 217–222: copies of the Śatasāhasrikā (ditto marks). |
