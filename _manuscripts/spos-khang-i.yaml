@@ -1,0 +1,15 @@
+vol_no: I
+_locations:
+  _kept-in:
+    - id: spos-khang
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [28], heading: "II. Spos-khang monastery (near Gyantse)"}
+_works:
+  _contains:
+    - id: astasahasrika-prajnaparamita
+      item_no: 4
+      name_as_printed: Aṣṭasāhasrikā-prajñāpāramitā T and others
+      tibetan_translation: true
+      status: Incomplete
+      notes: "“and others”: the volume holds further texts that the list does not name. The other columns are printed “..”."

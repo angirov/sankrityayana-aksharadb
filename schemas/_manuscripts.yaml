@@ -46,6 +46,7 @@ $defs:
     properties:
       id: {type: string}
       item_no: {type: integer, description: "Running number of the title in the section"}
+      no_in_volume: {type: integer, description: "Number of the title inside its volume, as printed"}
       sub_item_no: {type: integer, description: "Number inside a bundle of miscellaneous leaves"}
       subject: {type: string, description: "Subject heading, e.g. Logic (list of 1937)"}
       name_as_printed: {type: string, description: "IAST; editorial marks kept as printed"}

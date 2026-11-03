@@ -1,0 +1,16 @@
+vol_no: I
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [28], heading: "III. Ṣa-lu monastery ( near Śi-ga-rtse )"}
+_works:
+  _contains:
+    - id: samadhirajasutra
+      item_no: 10
+      name_as_printed: Samādhirājasūtra
+      tibetan_translation: true
+      size_inches: 10×2⅓
+      status: Incomplete
+      notes: "Footnote 3: this book originally belonged to Bya-yul-lo-tsa-va (1201 A.D.)."

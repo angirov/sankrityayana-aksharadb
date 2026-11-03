@@ -1,0 +1,21 @@
+vol_no: II
+_locations:
+  _kept-in:
+    - id: spos-khang
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [28], heading: "II. Spos-khang monastery (near Gyantse)"}
+_works:
+  _contains:
+    - id: sarvastivada-sutras-commentary
+      item_no: 5
+      name_as_printed: A Commentary on some Sarvāstivāda Sūtras
+      author_as_printed: Aśvaghoṣa
+      colophon: "sarvāstivādī śākyabhikṣu aśvaghoṣaḥ....|"
+      notes: "Footnote 1 (on the author) gives the colophon. The other columns are printed “..”."
+    - id: asvaghosa-parikatha
+      item_no: 6
+      name_as_printed: …parikathā
+      author_as_printed: Aśvaghoṣa
+      notes: "Author printed as a ditto mark; the other columns “..”. No vol. no. is printed: the title is taken to belong to vol. II."
+      uncertain_fields: [author_as_printed]

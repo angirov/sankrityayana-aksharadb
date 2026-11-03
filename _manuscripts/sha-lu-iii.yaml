@@ -1,0 +1,19 @@
+vol_no: III
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [28], heading: "III. Ṣa-lu monastery ( near Śi-ga-rtse )"}
+_works:
+  _contains:
+    - id: bhiksuprakirnakavinaya
+      item_no: 12
+      no_in_volume: 3
+      name_as_printed: Bhikṣuprakīrṇakavinaya
+      script: Vartula
+      size_inches: 21⅓×2⅛
+      status: Complete
+      colophon: "āryamahāsāṃghikānāṃ lokottaravādinām |"
+      notes: "Footnote 4 gives the colophon. Author printed “..”; script as a ditto mark. As in vol. II, a number (3) is printed before 12."
+      uncertain_fields: [size_inches]
