@@ -28,6 +28,11 @@ Open questions are in `progress.md`.
   `source` plus `item_no` would be the discriminator).
 - In 1938 Spos-khang nos. 6–7 have no vol. no.; a new count (1) begins after vol. I, so they are
   taken as vol. II (where 1935 has nos. 5–6).
+- 1937: item numbers 180–184 of section VI (Chhag-pe-lha-khang, Sa-skya) repeat the numbers of
+  1935 (Gu-rim-lha-khang, nos. 180–184): the list of 1937 restarts its count at 180. Numbers are
+  only unique within a publication; `item_no` is read together with the publication.
+- A run of numbered titles that starts a new count (1, 2, ...) without a printed vol. no. is an
+  unnumbered volume, keyed by location + first item number (`chhag-pe-lha-khang-186`).
 - Long quotations in footnotes (1938 Spos-khang, pp. 148–162: several pages of verse and prose)
   are not transcribed into the records; the records say where they are. Their text is to come
   with the page texts (`.md`) of those pages, a later step.

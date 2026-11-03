@@ -1,0 +1,46 @@
+vol_no: I
+_locations:
+  _kept-in:
+    - id: chhag-pe-lha-khang
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [21], heading: "VI. Chhag-pe-lha-khang in Lha-Khang-Chhenmo of Sa-skya Monastery. (Continued From Volume XXI, Part I)"}
+_works:
+  _contains:
+    - id: pramanavarttikavrtti
+      item_no: 180
+      no_in_volume: 1
+      name_as_printed: "Pramāṇavārttika-vṛtti*"
+      author_as_printed: "Dharmakīrtti"
+      tibetan_translation: true
+      script: "Māgadhī"
+      size_inches: "22¼×2⅛"
+      leaves: "11"
+      lines_per_page: "7,8"
+      status: "Incomplete"
+      notes: "Footnote *: in the press."
+    - id: pramanavarttikavrttitika
+      item_no: 181
+      no_in_volume: 2
+      name_as_printed: "Pramāṇavārttikavṛtti-ṭīkā*"
+      author_as_printed: "Karṇṇakagomī"
+      script: "Māgadhī"
+      size_inches: "32½×2"
+      leaves: "215"
+      lines_per_page: "7"
+      status: "12,37 missing"
+      notes: "Footnote *: in the press. Script printed as a ditto mark."
+  _contains-also:
+    - id: pramanavarttikavrttitika
+      item_no: 182
+      no_in_volume: 3
+      name_as_printed: "Pramāṇavārttikavṛtti-ṭīkā"
+      author_as_printed: "Karṇṇakagomī"
+      tibetan_translation: true
+      script: "Māgadhī"
+      size_inches: "21½×2"
+      leaves: "6"
+      lines_per_page: "7"
+      status: "Incomplete"
+      notes: "Name, author and script printed as ditto marks; a T stands by the ditto. Footnote 1: left side damaged by water. A second copy (fragment) of the work of no. 181 in the same volume."
+      uncertain_fields: [tibetan_translation]

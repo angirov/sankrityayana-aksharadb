@@ -1,0 +1,19 @@
+vol_no: II
+_locations:
+  _kept-in:
+    - id: chhag-pe-lha-khang
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [21], heading: "VI. Chhag-pe-lha-khang in Lha-Khang-Chhenmo of Sa-skya Monastery. (Continued From Volume XXI, Part I)"}
+_works:
+  _contains:
+    - id: pramanavarttikabhasya
+      item_no: 183
+      name_as_printed: "Pramāṇavārttikabhāṣya*"
+      author_as_printed: "Prajñākaragupta"
+      script: "Māgadhī"
+      size_inches: "22×2⅛"
+      leaves: "314"
+      lines_per_page: "6,7,8"
+      status: "Complete"
+      notes: "Footnote *: in the press. Footnote 2: this MS. originally belonged to Dānaśrī who accompanied Śākyaśrībhadra to Tibet in 1203 A. C. Script printed as a ditto mark."

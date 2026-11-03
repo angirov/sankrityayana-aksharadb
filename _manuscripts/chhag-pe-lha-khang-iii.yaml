@@ -1,0 +1,20 @@
+vol_no: III
+_locations:
+  _kept-in:
+    - id: chhag-pe-lha-khang
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [21], heading: "VI. Chhag-pe-lha-khang in Lha-Khang-Chhenmo of Sa-skya Monastery. (Continued From Volume XXI, Part I)"}
+_works:
+  _contains:
+    - id: arthaviniscayadharmaparyaya
+      item_no: 184
+      name_as_printed: "Arthaviniścayadharmaparyāya"
+      tibetan_translation: true
+      script: "Kuṭilā"
+      size_inches: "21×1¾"
+      leaves: "108"
+      lines_per_page: "7"
+      status: "108,109 miss."
+      colophon: "deyadharmoyaṃ sā (?śā) kyabhikṣuḥ (sic) dhīraśānteryadatra puṇya ......... |"
+      notes: "Footnote 3 gives the colophon and adds: it is different from the Arthaviniścayasūtra (47, 87, Vol. XXI, Part I). Author printed “..”."

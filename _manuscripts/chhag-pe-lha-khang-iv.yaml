@@ -1,0 +1,20 @@
+vol_no: IV
+_locations:
+  _kept-in:
+    - id: chhag-pe-lha-khang
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [21], heading: "VI. Chhag-pe-lha-khang in Lha-Khang-Chhenmo of Sa-skya Monastery. (Continued From Volume XXI, Part I)"}
+_works:
+  _contains:
+    - id: kavikamadhenu
+      item_no: 185
+      name_as_printed: "Amarakośaṭīkā (Kāmadhenu)"
+      author_as_printed: "(Subhūticaṃdra)"
+      tibetan_translation: true
+      script: "Māgadhī"
+      size_inches: "23×2¼"
+      leaves: "17"
+      lines_per_page: "7"
+      status: "Incomplete"
+      notes: "Footnote 4: the latter portion of this MS. is found in the Ngor monastery (ibid 150), i.e. the list of 1935, no. 150 (Ngor XXVII)."

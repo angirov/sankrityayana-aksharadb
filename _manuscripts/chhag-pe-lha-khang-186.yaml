@@ -1,0 +1,85 @@
+_locations:
+  _kept-in:
+    - id: chhag-pe-lha-khang
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [21,22], heading: "VI. Chhag-pe-lha-khang in Lha-Khang-Chhenmo of Sa-skya Monastery. (Continued From Volume XXI, Part I)"}
+_works:
+  _contains:
+    - id: navaslokaprajnaparamita
+      item_no: 186
+      no_in_volume: 1
+      name_as_printed: "Navaślokaprajñāpāramitā"
+      tibetan_translation: true
+      script: "Māgadhī"
+      size_inches: "22×2"
+      leaves: "1"
+      lines_per_page: "5"
+      status: "Complete"
+      notes: "Page 21. Author printed “..”."
+    - id: astasahasrikapindartha
+      item_no: 187
+      no_in_volume: 2
+      name_as_printed: "Aṣṭasāhastrikāpiṇḍārtha"
+      author_as_printed: "Kambalapāda"
+      script: "Māgadhī"
+      size_inches: "22×2"
+      leaves: "3"
+      lines_per_page: "5"
+      status: "Complete"
+      colophon: "kṛtiriyaṃ śrīkambalācāryapādānāmiti ||"
+      notes: "Page 22. Footnote 1 gives the colophon. Script and size printed as ditto marks."
+    - id: hevajrasadhanopayika-ratnakarasanti
+      item_no: 188
+      no_in_volume: 3
+      name_as_printed: "Hevajrasādhanopayika"
+      author_as_printed: "Ratnākaraśānti"
+      script: "Kuṭilā"
+      size_inches: "22×2"
+      leaves: "1–5a"
+      lines_per_page: "6"
+      status: "Complete"
+      colophon: "kṛtiriyaṃ mahāpaṇḍitaratnākaraśāntipādānām ||"
+      incipit: "padabharanamitorvvīvegavikṣiptasindhupralayaghanasamānairānanairmuktanādaṃ | bhujabanapavanāstraprasthavandhaṃ giriṇāṃ bhavatu bhayaharaṃ vastāṇḍavaṃ herukasya || aṣṭānanasya racayāmi sādhanaṃ pratimukhaṃ trinayanasya | hevajrasya catuścaraṇacāriṇaḥ ṣoḍaśa bhujasya ||"
+      notes: "Page 22. Footnote 2 gives the beginning and the colophon. Status printed as a ditto mark."
+    - id: astasmasana
+      item_no: 189
+      no_in_volume: 4
+      name_as_printed: "Aṣṭaśmaśāna"
+      script: "Kuṭilā"
+      size_inches: "22×2"
+      leaves: "–5b"
+      lines_per_page: "6"
+      status: "Complete"
+      notes: "Page 22. Script, size, lines and status printed as ditto marks."
+    - id: aryanguli-dharani
+      item_no: 190
+      no_in_volume: 5
+      name_as_printed: "Āryāṃgulīdhāraṇī"
+      script: "Kuṭilā"
+      size_inches: "22×2"
+      leaves: "–6a"
+      lines_per_page: "6"
+      status: "Complete"
+      notes: "Page 22. Script, size, lines and status printed as ditto marks."
+    - id: aryangulikalpa
+      item_no: 191
+      no_in_volume: 6
+      name_as_printed: "Āryāṃgulīkalpa"
+      script: "Kuṭilā"
+      size_inches: "22×2"
+      leaves: "–6b"
+      lines_per_page: "6"
+      status: "Complete"
+      notes: "Page 22. Script, size, lines and status printed as ditto marks."
+    - id: manjusriguhyacakra
+      item_no: 192
+      no_in_volume: 7
+      name_as_printed: "Maṃjuśrīguhyacakra"
+      script: "Kuṭilā"
+      size_inches: "22×2"
+      leaves: "–16b"
+      lines_per_page: "6"
+      status: "Incomplete"
+      notes: "Page 22. Script, size and lines printed as ditto marks."
+notes: "No vol. no. is printed: a new count (1–7) begins after vol. IV, so nos. 186–192 are taken as one unnumbered volume between vols. IV and V."

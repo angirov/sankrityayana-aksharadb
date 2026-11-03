@@ -6,7 +6,7 @@ Inventory and scans: the `pages` list of each `_publications/<key>.yaml` is the 
 | Publication | Inventory | Scans | Texts (.md) | Tables |
 |---|---|---|---|---|
 | sankrtyayana1935 | done (PDF pp. 1–15: 2 front, 6 text, 2 plates, 17 tables, 3 blanks) | done | done (pp. 21–26, front matter) | pp. 27–43 done |
-| sankrtyayana1937 | only pp. 54–57 | not started | not started | not started |
+| sankrtyayana1937 | done (PDF pp. 1–36: contents, pp. 1–57, 6 plates, a chart in 2 parts) | done | not started (pp. 1–20) | pp. 21–22 done |
 | sankrtyayana1938 | done (PDF pp. 1–14: contents p. vi, pp. 137–163) | done | done (pp. 137–142, contents) | pp. 143–163 done (long quotations pending) |
 
 ## Tables of 1935
@@ -54,3 +54,9 @@ Inventory and scans: the `pages` list of each `_publications/<key>.yaml` is the 
 | 145 | Ṣhalu vols. XL (end)–XLV, nos. 351–360 and unnumbered leaves | done | From here the author stands in the name column. |
 | 146 | Ṣhalu vol. XLVI, no. 361 (astrology) | done | |
 | 147–163 | Spos-khang (correction and addition to 1935): vol. I nos. 4, 5, 362; vol. II nos. 6, 7; vol. III nos. 8, 363, 9 | done | Merged into the volumes of 1935 (see decisions.md). Vol. II not printed for nos. 6–7. Long quotations (pp. 148–162) not transcribed yet. |
+
+## Tables of 1937
+
+| Page | Contents | Status | Notes |
+|---|---|---|---|
+| 21–22 | VI. Chhag-pe-lha-khang (Sa-skya), vols. I–V, nos. 180–194 | done | Nos. 186–192: unnumbered volume. No. 185 continues 1935 no. 150 (Ngor). |
