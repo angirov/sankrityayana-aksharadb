@@ -1,0 +1,21 @@
+vol_no: X
+_locations:
+  _kept-in:
+    - id: chhag-pe-lha-khang
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [27], heading: "VI. Chhag-pe-lha-khang in Lha-Khang-Chhenmo of Sa-skya Monastery. (Continued From Volume XXI, Part I)"}
+_works:
+  _contains:
+    - id: dasarasayana
+      item_no: 203
+      name_as_printed: "Dāsarasāyanaṃ"
+      author_as_printed: "Nāgārjuna"
+      script: "Kuṭilā"
+      size_inches: "22×2"
+      leaves: "4"
+      lines_per_page: "5"
+      status: "Complete"
+      incipit: "dāsarasāyanaṃ jñātvā rogavārddhakyanāśanaṃ | tasya sukha(vi)bodhārthaṃ ṭīkāṃ vacmi yathāśruti || prathamaṃ tāvadācāryanāgārjunapādāḥ karuṇāparavasa(?śa)tayā satvānāṃ siddhiṃ samīhamānāḥ sveṣṭadevatānamaskārapūrvvakaṃ dāsarasāyanaṃ kurvvanti sma || vahniri tyādi"
+      explicit: "satvahitaṃ kathitaṃ paramārthaṃ kalpavaraṃ kathitaṃ śu(?su)karañca | tena bhavatvacireṇa janoyaṃ rogavimukto jineṣu ca bhaktaḥ || iti dāsarasāyanaṃ samāptam ||7||"
+      notes: "Footnote 1 gives the opening and the last verse; the opening shows the MS. is a commentary (ṭīkā) on the Dāsarasāyana. Script printed as a ditto mark."

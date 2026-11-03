@@ -1,0 +1,20 @@
+vol_no: XVI
+_locations:
+  _kept-in:
+    - id: chhag-pe-lha-khang
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [29], heading: "VI. Chhag-pe-lha-khang in Lha-Khang-Chhenmo of Sa-skya Monastery. (Continued From Volume XXI, Part I)"}
+_works:
+  _contains:
+    - id: saddharmapundarika-sutra
+      item_no: 212
+      name_as_printed: "Saddharmapuṇḍarīkasūtra"
+      script: "Rañjana"
+      size_inches: "22×2"
+      leaves: "158"
+      lines_per_page: "5"
+      status: "Complete"
+      colophon: "pūrṇe vedha (?ṣaḍga) yuto (?   ) varṣe śate śāradasaṅgate | māse mṛ ṣṭā (?   ) ṅkite ramye mṛgāṅkakaramaṇḍane | navamyāṃ rohiṇe ṛkṣe prabhātārkke dine śubhe | kṛtārivaladevākhye kṣitiṃ rakṣati kṣmādhipe | vārttakalyāṇa guptena kārite sugatālaye | māhendramativikhyātā buddhadharmāṅkadhāriṇī || saddharmapuṇḍarīkandaśabalagaditaṃ sūtrarājaṃ variṣṭaṃ yānaikasyānumaṃsañjinasutapravaraiḥ sevitannaikakalpam | samprāptā dharmā me parahitaniratairyasya sandarśanena (…) śrīmatsaddharmaratnapravaramalikhatsarvasatvārthakṛtyairiti |"
+      notes: "Name printed as a ditto mark (no. 211); status printed as a ditto mark; author “..”. Footnote 1 gives the colophon; a blot hides a word before “śrīmat”."
+      uncertain_fields: [colophon]

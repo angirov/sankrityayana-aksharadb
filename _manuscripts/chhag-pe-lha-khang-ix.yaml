@@ -4,7 +4,7 @@ _locations:
     - id: chhag-pe-lha-khang
 _publications:
   _described-in:
-    - {id: sankrtyayana1937, pages: [25,26], heading: "VI. Chhag-pe-lha-khang in Lha-Khang-Chhenmo of Sa-skya Monastery. (Continued From Volume XXI, Part I)"}
+    - {id: sankrtyayana1937, pages: [25, 26, 27], heading: "VI. Chhag-pe-lha-khang in Lha-Khang-Chhenmo of Sa-skya Monastery. (Continued From Volume XXI, Part I)"}
 _works:
   _contains:
     - id: saratama
@@ -30,4 +30,5 @@ _works:
       status: "Complete"
       incipit: "sarvadā sarvathā sarve yasya doṣā na santi ha | sarvve sarvvātisāreṇa yatra vyavasthitā guṇāḥ || tameva śaraṇaṃ gantuṃ taṃ stotuntamupāsituṃ | tasyaiva śāsane sthātuṃ nyāyyaṃ yadyasti cetanā ||"
       explicit: "na te guṇāṃśāvayavopi kīrttitaḥ parā ca na stuṣṭiravasthitā hṛdi | akarṣaṇenaiva mahāhradāmbhasāṃ janasya tarṣāḥ prasa(?śa)maṃ vrajanti ha || (152) phalodayenāsya śubhasya karmaṇo munipraprasādapratibhed (sic) bhavasya me | asadvitarkkākulamāruteritaṃ prayātu cittaṃ jagato vidheyatāṃ || (153)"
-      notes: "Page 26. No vol. no. printed; taken as the second title of vol. IX. Footnote 1: on the cover leaf “vṛttaśatakastotra”; there are 153 verses divided into 13 chapters: 1. upodghātapariccheda 9 verses, 2. hetustava 17, 3. nirupamastava 15, 4. adbhutastava 10, 5. rūpastava 6, 6. karuṇāstava 9, 7. vacanastava 15, 8. śāsanastava 10, 9. praṇidhistava 10, 10. mārgāvatārastava 11, 11. duṣkarastava 11, 12. kauśalastava 11, 13. ānṛṇyastava 19. All but the last two verses are in anuṣṭubh."
+      colophon: "adhyarddhaśatakaṃ samāptam || kṛtirācāryamātṛceṭasya || ye dharmā......|| deyadharmmoyaṃ pravaramahāyānajā(?yā)yināṃ paramaśākyabhikṣu(su) na ya śrī mi tra (sya....A.C.) yadatra puṇya......||"
+      notes: "Page 26; the colophon is on p. 27. No vol. no. printed; taken as the second title of vol. IX. Footnote 1: on the cover leaf “vṛttaśatakastotra”; there are 153 verses divided into 13 chapters: 1. upodghātapariccheda 9 verses, 2. hetustava 17, 3. nirupamastava 15, 4. adbhutastava 10, 5. rūpastava 6, 6. karuṇāstava 9, 7. vacanastava 15, 8. śāsanastava 10, 9. praṇidhistava 10, 10. mārgāvatārastava 11, 11. duṣkarastava 11, 12. kauśalastava 11, 13. ānṛṇyastava 19. All but the last two verses are in anuṣṭubh."

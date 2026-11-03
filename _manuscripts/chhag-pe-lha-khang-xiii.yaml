@@ -1,0 +1,20 @@
+vol_no: XIII
+_locations:
+  _kept-in:
+    - id: chhag-pe-lha-khang
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [28], heading: "VI. Chhag-pe-lha-khang in Lha-Khang-Chhenmo of Sa-skya Monastery. (Continued From Volume XXI, Part I)"}
+_works:
+  _contains:
+    - id: dasabhumikasutra
+      item_no: 209
+      name_as_printed: "Daśabhūmikasūtra"
+      tibetan_translation: true
+      script: "Kuṭilā"
+      size_inches: "24×2½"
+      leaves: "57"
+      lines_per_page: "7"
+      status: "Incomplete"
+      notes: "Script and status printed as ditto marks; author “..”. Of footnote 2, printed here, only the last paragraph seems to belong to this MS. (57 leaves): “The first three and the 58th leaves are missing, but there is a numberless torn leaf which is either no. 2 or 3.” (see no. 208)."
+      uncertain_fields: [notes]

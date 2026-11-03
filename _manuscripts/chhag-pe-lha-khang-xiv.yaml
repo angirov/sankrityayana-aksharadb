@@ -1,0 +1,20 @@
+vol_no: XIV
+_locations:
+  _kept-in:
+    - id: chhag-pe-lha-khang
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [28], heading: "VI. Chhag-pe-lha-khang in Lha-Khang-Chhenmo of Sa-skya Monastery. (Continued From Volume XXI, Part I)"}
+_works:
+  _contains:
+    - id: gandavyuhasutra
+      item_no: 210
+      name_as_printed: "Gaṇḍavyūhasūtra"
+      tibetan_translation: true
+      size_inches: "24⅝×2¼"
+      leaves: "481"
+      lines_per_page: "6"
+      status: "Incomplete"
+      colophon: "deyadharmoyaṃ pravaramahāyānayāyinaḥ sasthyamahāvihārasamāvāsita-śrīkīrttidhvaja (1182-1216 A.C.) sya yadatra......| mahārājādhirājaparameśvararaghuvaṃśatilakaśrīnadanantamalladevasya rājye likhāpitamiti samvat 402 (?N. E.=1282 A. C. ?) bhādrapadaśuklapañcamyāntithāviti ||"
+      notes: "Footnote 3: only 12th leaf is missing; it gives the colophon. Script column blank; status printed as a ditto mark; author “..”."
+      uncertain_fields: [colophon]

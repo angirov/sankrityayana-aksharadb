@@ -1,0 +1,43 @@
+vol_no: XII
+_locations:
+  _kept-in:
+    - id: chhag-pe-lha-khang
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [27, 28], heading: "VI. Chhag-pe-lha-khang in Lha-Khang-Chhenmo of Sa-skya Monastery. (Continued From Volume XXI, Part I)"}
+_works:
+  _contains:
+    - id: astasahasrika-tika-1937-206
+      item_no: 206
+      name_as_printed: "(Aṣṭasāhastrikāprajñāpāramitāṭīkā)"
+      author_as_printed: "?"
+      script: "Māgadhī"
+      size_inches: "21×2"
+      leaves: "8"
+      lines_per_page: "6"
+      status: "Incomplete"
+      notes: "Footnote 4: from 3 to 10 leaves. Status printed as a ditto mark."
+    - id: yuktipradipa
+      item_no: 207
+      name_as_printed: "Yuktipradīpa"
+      script: "Kuṭilā"
+      size_inches: "22×2"
+      leaves: "3"
+      lines_per_page: "7"
+      status: "Complete"
+      incipit: "śrīmadgurościcaraṇa nīrajareṇuvṛndaṃ bhaktyā sadā a(?)mala guṇaṃ śirasā praṇamya || kalyāṇa salya (sic) varasātana (sic) siddhyupāyaṃ vakṣye vipakṣatimirāpahayukti pra(?)dīpaṃ |"
+      notes: "No vol. no. printed; taken as the second title of vol. XII. Footnote 5: it is a small treatise on Vajrayāna; it gives the opening verse and then “ye tāvad vadanti bālāḥ sakalavikalpajālajaḍīkṛtā vi (sic) samyaggurūpadeśaprāptimātreṇa buddhatvaṃ siddhaṃ bhavati |”. Author “..”. Continued on p. 28 by an unnumbered paragraph: the names of Nāgārjuna (pp. 1b, 2a), śrī Indrabhūtipāda (p. 2b) and Bhadrapāda (p. 3a) are cited as authority; there are also quotations from the Bodhicaryāvatāra (p. 1b) and the Māyājālamahātantra (p. 2a). Footnote 1 of p. 28, printed against no. 208, seems to belong here too: on page 2b one song of Saraha (“viṇu jhāṇeṃ viṇu pāthājjeṃ gehavasante samaghara bhajje | jai baḍha viṣaya ramante na muccai | bhaṇai saraha pari āṇa ko vuccai ||”); the last verse “kṛtvā vimārgapatitān prati yuktidīpaṃ mithyābhimānatamasāvihitāndhakārān | prāptaṃ mayā yadamalaṃ sukṛtaṃ samāsāt satvāstatośanibhṛto nikhilā bhavantu ||7||” names the yuktidīpa."
+      uncertain_fields: [notes]
+    - id: guhyasamajamandalopayika
+      item_no: 208
+      name_as_printed: "Guhyasamājamaṇḍalopāyikā"
+      author_as_printed: "Bhadrapāda"
+      script: "Kuṭilā"
+      size_inches: "22×2"
+      leaves: "1"
+      lines_per_page: "6"
+      status: "Incomplete"
+      colophon: "ye dharmā° || deyadharmoyaṃ pravaramahāyānayāyinaḥ paropāśakaśrīnārāyaṇasya |......|| śrīmadvigrahapāladeva (III, 1050-76 A.C. ?) sya rājye samvat 8 phālguna di (12)"
+      explicit: "anuṣṭupchandasā ślokaiḥ śataiḥ sārddhacatuṣṭayaiḥ | kṛteyaṃ maṇḍalopayikā loke ālokakārikā ||......kṛtirācāryabhadrapādānāṃ ||"
+      notes: "Page 28. Script and size printed as ditto marks. The footnotes of p. 28 seem shifted by one: footnote 2, printed against no. 209, is about this MS. (“in the end only last leaf is found where the author says …”), and footnote 1, printed here, about no. 207. They are assigned by their content."
+      uncertain_fields: [explicit, colophon]

@@ -1,0 +1,32 @@
+vol_no: XI
+_locations:
+  _kept-in:
+    - id: chhag-pe-lha-khang
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [27], heading: "VI. Chhag-pe-lha-khang in Lha-Khang-Chhenmo of Sa-skya Monastery. (Continued From Volume XXI, Part I)"}
+_works:
+  _contains:
+    - id: candravyakarana
+      item_no: 204
+      name_as_printed: "Cāndravyākaraṇa"
+      author_as_printed: "Candragomī"
+      tibetan_translation: true
+      script: "Kuṭilā"
+      size_inches: "22¾×2"
+      leaves: "57"
+      lines_per_page: "6"
+      status: "Incomplete"
+      colophon: "cāndravyākaraṇe dvitīyodhyāyasamāptaḥ ||0|| samvat 246 (N. E.=1126 A. C.) āṣāḍhamāse aṣṭamyām ||"
+      notes: "Footnote 2: the last two leaves are not numbered, and they belong to a later chapter; in the 57th leaf the second chapter ends; it gives the colophon. Script printed as a ditto mark."
+  _contains-also:
+    - id: candravyakarana
+      item_no: 205
+      name_as_printed: "Cāndravyākaraṇa"
+      author_as_printed: "Candragomī"
+      script: "Kuṭilā"
+      size_inches: "22½×2"
+      leaves: "14"
+      lines_per_page: "6,7"
+      status: "Incomplete"
+      notes: "Name, author, script and status printed as ditto marks. Footnote 3: a portion of second chapter (212-14)."

@@ -1,0 +1,20 @@
+vol_no: XIX
+_locations:
+  _kept-in:
+    - id: chhag-pe-lha-khang
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [29], heading: "VI. Chhag-pe-lha-khang in Lha-Khang-Chhenmo of Sa-skya Monastery. (Continued From Volume XXI, Part I)"}
+_works:
+  _contains:
+    - id: astasahasrika-prajnaparamita
+      item_no: 215
+      no_in_volume: 1
+      name_as_printed: "Aṣṭasāhastrikā prajñāpāramitā"
+      script: "Rañjana (ordinary)"
+      size_inches: "22×2"
+      leaves: "228"
+      lines_per_page: "6"
+      status: "Complete"
+      colophon: "samvat atote (119 N.E.=999 A.C.) mārgaśiraśukladivā pūrṇamāśyāṃ pratiṣṭhāpitaḥ śrīgaṇḍīgulmakanivāsinasuvarṇṇakāraśrīrāṇakasya yadatraṃ.....|| mahārājādhirājaparameśvaraśrīnarendradevabhaṭārakasya śrī udayadevayo bhaṭārakayo ubhayarājya likhitamiti | jayadevakṛte ramye duṃpīvī sakta(?)ke śubhe | vidyāguptasya hastena likhitvā śāstraratnama iti ||"
+      notes: "Name, script, size and status printed as ditto marks; author “..”. Footnote 3 gives the colophon."

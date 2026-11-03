@@ -1,0 +1,20 @@
+vol_no: XVII
+_locations:
+  _kept-in:
+    - id: chhag-pe-lha-khang
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [29], heading: "VI. Chhag-pe-lha-khang in Lha-Khang-Chhenmo of Sa-skya Monastery. (Continued From Volume XXI, Part I)"}
+_works:
+  _contains:
+    - id: pancaraksa
+      item_no: 213
+      name_as_printed: "Paṃcarakṣā"
+      tibetan_translation: true
+      script: "Māgadhī"
+      size_inches: "22×2"
+      leaves: "77"
+      lines_per_page: "5"
+      status: "Incomplete"
+      colophon: "śrīmatrājādhirājaparameśvaraḥ śrīmāṇadevasyavijayarājye samvat ā 58 (258 N. E.=1138 A.C.) pauṣakṛṣṇatrayodaśyāṃ soma........nakṣatre yogasiddhisubhānukūlenalikhita samāptīkṛtam || deyadharmoyaṃ pravaramahāyānayāyino paramopāśakaḥ vaṭṭāhuṭhakuranāmnasya yadatra......|"
+      notes: "Footnote 2 gives the colophon. Author “..”."

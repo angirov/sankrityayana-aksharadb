@@ -1,0 +1,20 @@
+vol_no: XV
+_locations:
+  _kept-in:
+    - id: chhag-pe-lha-khang
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [28,29], heading: "VI. Chhag-pe-lha-khang in Lha-Khang-Chhenmo of Sa-skya Monastery. (Continued From Volume XXI, Part I)"}
+_works:
+  _contains:
+    - id: saddharmapundarika-sutra
+      item_no: 211
+      name_as_printed: "Saddharmapuṃḍarīkasūtra"
+      tibetan_translation: true
+      script: "Kuṭilā"
+      size_inches: "23×2"
+      leaves: "137"
+      lines_per_page: "6"
+      status: "Complete"
+      colophon: "samvat ā 2 (202 N. E.=1082 A.C.) caitraśukla divā pūrṇamāsyāṃ | vṛhaspatidine | hastanakṣatre ||0|| paramabhaṭṭārakamahārājādhirājaparameśvaraśrīmatśaṅkaradevasya vijayarājye varttamāne | deya dharmoyaṃ pravaramahāyānayāyinī śrīcakravāṭīmahādevīmahāvihāryaśākyabhikṣuṇīyemendranāthāyā yadatra......| ye dharmā...| śrī indramūlasthānādhivāsī ama(ā)tya paramopāsaka śrīguṇākarajīvabhallokenasvayaṃ likhitamiti ||0||0||"
+      notes: "Footnote 4 (pp. 28–29) gives the colophon and adds: “It is one of the most beautifully written Kuṭila MSS.” Author “..”."

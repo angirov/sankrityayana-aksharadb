@@ -1,0 +1,19 @@
+vol_no: XVIII
+_locations:
+  _kept-in:
+    - id: chhag-pe-lha-khang
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [29], heading: "VI. Chhag-pe-lha-khang in Lha-Khang-Chhenmo of Sa-skya Monastery. (Continued From Volume XXI, Part I)"}
+_works:
+  _contains:
+    - id: astasahasrika-prajnaparamita
+      item_no: 214
+      name_as_printed: "Aṣṭasāhastrikā prajñāpāramitā"
+      tibetan_translation: true
+      script: "Rañjana (ordinary)"
+      size_inches: "22×2"
+      leaves: "206"
+      lines_per_page: "6"
+      status: "Complete"
+      notes: "Author “..”."

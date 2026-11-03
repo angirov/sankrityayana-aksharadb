@@ -62,3 +62,4 @@ Inventory and scans: the `pages` list of each `_publications/<key>.yaml` is the 
 | 21–22 | VI. Chhag-pe-lha-khang (Sa-skya), vols. I–V, nos. 180–194 | done | Nos. 186–192: unnumbered volume. No. 185 continues 1935 no. 150 (Ngor). |
 | 23 | Chhag-pe-lha-khang vol. V (end), no. 195 | done | Long quotation of leaf 62 not transcribed. |
 | 24–26 | Chhag-pe-lha-khang vols. VI–IX, nos. 196–202 | done | Footnote 3 of no. 200 gives 103 leaves, which is the count of no. 201; recorded as printed. Long verse quotations not transcribed. |
+| 27–29 | Chhag-pe-lha-khang vols. IX (end)–XIX, nos. 203–215 | done | Footnotes 1–2 of p. 28 seem shifted by one; assigned by content (decisions.md). |
