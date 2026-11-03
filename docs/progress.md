@@ -7,7 +7,7 @@ Inventory and scans: the `pages` list of each `_publications/<key>.yaml` is the 
 |---|---|---|---|---|
 | sankrtyayana1935 | done (PDF pp. 1–15: 2 front, 6 text, 2 plates, 17 tables, 3 blanks) | done | done (pp. 21–26, front matter) | pp. 27–43 done |
 | sankrtyayana1937 | only pp. 54–57 | not started | not started | not started |
-| sankrtyayana1938 | not started | not started | not started | not started |
+| sankrtyayana1938 | done (PDF pp. 1–14: contents p. vi, pp. 137–163) | done | not started (pp. 137–142) | pp. 143–144 done |
 
 ## Tables of 1935
 
@@ -39,3 +39,9 @@ Inventory and scans: the `pages` list of each `_publications/<key>.yaml` is the 
 
 - 1935: the scan ends with p. 43, but the article goes on (the footnote of no. 184 breaks off and refers to footnotes 3–6). We need pp. 44 ff. of JBORS XXI, Pt. I.
 - 1937: the photographed list ends with no. 55 on p. 57; does it go on?
+
+## Tables of 1938
+
+| Page | Contents | Status | Notes |
+|---|---|---|---|
+| 143–144 | IX. Ṣhalu (continued), vol. XXXIX (Jñānaśrīmitra, nos. 337–349), vol. XL (no. 350) | done | Heading refers to “Vol. XXI, Part I, pp 8–10” for the Ṣhalu list of 1935, which is on pp. 28–31 of our scan: an offprint pagination? |

@@ -1,0 +1,164 @@
+vol_no: XXXIX
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1938, pages: [143, 144], heading: "IX Ṣhalu Monastery (continued from Vol. XXI, Part I, pp 8–10 and Vol. XXIII, Part I, pp 33–52)"}
+_works:
+  _contains:
+    - id: ksanabhangadhyaya
+      item_no: 337
+      no_in_volume: 1
+      name_as_printed: "Kṣaṇabhaṃgādhyāya"
+      author_as_printed: "(Jñāna Śrīmitra)"
+      script: "Māgadhī"
+      size_inches: "22″×2″"
+      leaves: "62"
+      lines_per_page: "7"
+      status: "complete"
+      colophon: "granthasaṃkhyā 640"
+      notes: "Footnote 1: see also Ṣhalu Vol. XIII. 3. In the colophon granthasaṃkhyā 640."
+    - id: vyapticarca
+      item_no: 338
+      no_in_volume: 2
+      name_as_printed: "Vyāpticarcā"
+      author_as_printed: "(Jñāna Śrīmitra)"
+      script: "Māgadhī"
+      size_inches: "22″×2″"
+      leaves: "9"
+      lines_per_page: "7"
+      status: "complete"
+      colophon: "kṛtiriyaṃ mahāpaḍitajñānaśrīmitrapādānām |"
+      notes: "Footnote 2 gives the colophon (“mahāpaḍita” is printed so). Author, script, size, lines and status printed as ditto marks."
+    - id: bhedabhedapariksa
+      item_no: 339
+      no_in_volume: 3
+      name_as_printed: "Bhedābhedaparīkṣā"
+      author_as_printed: "(Jñāna Śrīmitra)"
+      script: "Māgadhī"
+      size_inches: "22″×2″"
+      leaves: "1–2"
+      lines_per_page: "7"
+      status: "complete"
+      incipit: "pratyekapakṣopanipātidūṣaṇaparijihīrṣayā kaiścidāśrīyamāṇo bhedābhedapakṣaḥ parīkṣyate |"
+      notes: "Footnote 3 gives the beginning. Author printed as a ditto mark in brackets; script, size, lines and status as ditto marks."
+    - id: anupalabdhirahasya
+      item_no: 340
+      no_in_volume: 4
+      name_as_printed: "Anupalabdhirahasya"
+      author_as_printed: "(Jñāna Śrīmitra)"
+      script: "Māgadhī"
+      size_inches: "22″×2″"
+      leaves: "2–6/2"
+      lines_per_page: "7"
+      status: "complete"
+      incipit: "siddhānte viprakīrṇasyānupalambhasya yādṛśī | rūpaniṣṭheha tādṛśyāḥ saṃgrahaḥ kriyate sphuṭaḥ"
+      notes: "Footnote 4 gives the beginning. Author printed as a ditto mark in brackets; script, size, lines and status as ditto marks. The leaves “2–6/2” are printed so (from leaf 2 to the second side of leaf 6?)."
+    - id: sarvasabdabhavacarca
+      item_no: 341
+      no_in_volume: 5
+      name_as_printed: "Sarvaśabdābhāvacarcā"
+      author_as_printed: "(Jñāna Śrīmitra)"
+      script: "Māgadhī"
+      size_inches: "22″×2″"
+      leaves: "6/2–8"
+      lines_per_page: "7"
+      status: "complete"
+      notes: "Author printed as a ditto mark in brackets; script, size, lines and status as ditto marks."
+    - id: apohaprakarana
+      item_no: 342
+      no_in_volume: 6
+      name_as_printed: "Apohaprakaraṇa"
+      author_as_printed: "(Jñāna Śrīmitra)"
+      script: "Māgadhī"
+      size_inches: "22″×2″"
+      leaves: "8–20"
+      lines_per_page: "7"
+      status: "complete"
+      incipit: "apohaḥ śabdaliṅgābhyāṃ prakāśyata iti sthitiḥ | sādhyate sarvadharmāṇāmavācyatvaprasiddhaye ||"
+      notes: "Footnote 5 gives the beginning. Author printed as a ditto mark in brackets; script, size, lines and status as ditto marks."
+    - id: isvaradusana
+      item_no: 343
+      no_in_volume: 7
+      name_as_printed: "Īśvaradūṣaṇa"
+      author_as_printed: "(Jñāna Śrīmitra)"
+      script: "Māgadhī"
+      size_inches: "22″×2″"
+      leaves: "20–33"
+      lines_per_page: "7"
+      status: "complete"
+      incipit: "karmanirmitavaicitryamanīśaṃ yo jagajjagau | praṇamāmi pramāṇena tamavyāhataśāsanaṃ ||"
+      notes: "Footnote 6 gives the beginning. Author printed as a ditto mark in brackets; script, size, lines and status as ditto marks."
+    - id: isvaravadadhikaravyakhya
+      item_no: 344
+      no_in_volume: 8
+      name_as_printed: "Īśvaravādādhikāravyākhyā"
+      author_as_printed: "(Jñāna Śrīmitra)"
+      script: "Māgadhī"
+      size_inches: "22″×2″"
+      leaves: "33–54"
+      lines_per_page: "7"
+      status: "complete"
+      explicit: "īśvaravādādhikāre vārttikasaptaślokīvyākhyānaṃ samāptaṃ |"
+      notes: "Footnote 7 (pp. 143–144) gives the end, “which shows that it is a commentary on the pramāṇavārttika ch. II, 8–14”. Author printed as a ditto mark in brackets; script, size, lines and status as ditto marks."
+    - id: karyakaranabhavasiddhi
+      item_no: 345
+      no_in_volume: 9
+      name_as_printed: "Kāryakāraṇabhāvasiddhi"
+      author_as_printed: "(Jñāna Śrīmitra)"
+      script: "Māgadhī"
+      size_inches: "22″×2″"
+      leaves: "54–56"
+      lines_per_page: "7"
+      status: "complete"
+      notes: "Page 144."
+    - id: yoginirnaya
+      item_no: 346
+      no_in_volume: 10
+      name_as_printed: "Yoginirṇaya"
+      author_as_printed: "(Jñāna Śrīmitra)"
+      script: "Māgadhī"
+      size_inches: "22″×2″"
+      leaves: "56–65"
+      lines_per_page: "7"
+      status: "complete"
+      notes: "Page 144. Author printed as a ditto mark in brackets; script, size, lines and status as ditto marks."
+    - id: advaitabinduprakarana
+      item_no: 347
+      no_in_volume: 11
+      name_as_printed: "Advaitavinduprakaraṇa"
+      author_as_printed: "(Jñāna Śrīmitra)"
+      script: "Māgadhī"
+      size_inches: "22″×2″"
+      leaves: "65–72"
+      lines_per_page: "7"
+      status: "complete"
+      notes: "Page 144. Author printed as a ditto mark in brackets; script, size, lines and status as ditto marks."
+    - id: sakarasiddhi
+      item_no: 348
+      no_in_volume: 12
+      name_as_printed: "Sākārasiddhi"
+      author_as_printed: "Jñāna Śrīmitra"
+      script: "Māgadhī"
+      size_inches: "22″×2″"
+      leaves: "72–122"
+      lines_per_page: "7"
+      status: "complete"
+      incipit: "vidhūtakalpanā jāla° (see pramāṇavārttika ch. I, 1) | jīyānmunīndramatavārttikabhāṣyakāraḥ sākārasiddhinayanāṭakasūtradhāraḥ | saṃsāranirvṛtipathaprathamānagarvvasarvārivīraduratikramavikramaśrīḥ || vijñaptimātramakhilaṃ sthitametajjagat trayaṃ | tatrāvāntarabhedasya balābalamihocyate ||"
+      explicit: "samāptañcedaṃ balābalaparīkṣāmukhaśāratvaṃ (?) sākārasiddhiśāstraṃ kṛtirmahāpaṇḍitaśrījñānaśrīmitrapādānāmiti ||"
+      notes: "Page 144. Footnote 1 gives the beginning and the end (“śāratvaṃ” is underlined in the print). Author printed as a ditto mark without brackets; script, size, lines and status as ditto marks."
+    - id: sakarasamgrahasutra
+      item_no: 349
+      no_in_volume: 13
+      name_as_printed: "Sākārasaṃgrahasūtra"
+      author_as_printed: "Jñāna Śrīmitra"
+      script: "Māgadhī"
+      size_inches: "22″×2″"
+      leaves: "122–37"
+      lines_per_page: "7"
+      status: "complete"
+      incipit: "prajñā yena khalīkṛtā'mbaradaśāmākṛṣya naḥ preyasī sāsūyaṃ sadasi sthiteṣu kṛtiṣu prakhyātakīrtiṣvapi | krūranyāyamayo nirākṛtinayo duḥśāsanaḥ sāṃprataṃ soyaṃ madbhujapañjare nipatitaḥ saṃrakṣatāṃ kauravāḥ ||"
+      explicit: "granthapramāṇaṃ 766 |"
+      notes: "Page 144. Footnote 2 gives the beginning and the end. Author printed as a ditto mark without brackets; script, size, lines and status as ditto marks."
+notes: "Works of Jñānaśrīmitra in one volume; the leaves column gives each work's leaves. The author in brackets (“(”)”) is printed so for nos. 339–347."

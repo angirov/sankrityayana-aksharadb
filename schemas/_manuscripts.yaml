@@ -61,6 +61,8 @@ $defs:
       page_range: {type: string}
       status: {type: string, description: "As printed: Complete, Incomplete, ..."}
       colophon: {type: string, description: "IAST, from the footnote"}
+      incipit: {type: string, description: "How the text begins, as quoted by the list (IAST)"}
+      explicit: {type: string, description: "How the text ends, as quoted by the list (IAST)"}
       notes: {type: string}
       uncertain_fields:
         type: array
