@@ -48,5 +48,6 @@ pages:
   - {tag: p042, page: 42, pdf_page: 15, side: left, rotated: true, kind: table, notes: "Ngor, nos. 168–178; V. Gu-rim-lha-khang library of Sa-skya, no. 179"}
   - {tag: p043, page: 43, pdf_page: 15, side: right, rotated: true, kind: table, notes: "Gu-rim-lha-khang, nos. 180–184, with a long colophon in verse"}
 notes: >
-  The scan ends with p. 43, the list with no. 184. A footnote on p. 42 announces appendices in the
-  next issues; whether the list goes on after p. 43 is to be checked in a full copy of the issue.
+  The scan ends with p. 43, but the article does not: footnote 1 of p. 43 breaks off in the middle
+  of a verse and refers to footnotes 3-6, which must be on p. 44 or later. Whether the list goes on
+  after no. 184 is to be checked in a full copy of the issue.

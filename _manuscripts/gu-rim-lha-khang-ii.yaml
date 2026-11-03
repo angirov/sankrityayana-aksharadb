@@ -1,0 +1,60 @@
+vol_no: II
+_locations:
+  _kept-in:
+    - id: gu-rim-lha-khang
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [43], heading: "V. Gu-rim-lha-khang library of Sa-skya"}
+_works:
+  _contains:
+    - id: kavikamadhenu
+      item_no: 180
+      no_in_volume: 1
+      name_as_printed: Amarakośaṭīkā (Kāmadhenu)
+      author_as_printed: Subhūticandra
+      script: Māgadhī
+      size_inches: 22½×2½
+      leaves: "9"
+      lines_per_page: "7, 8"
+      notes: "The status column reads “1–8, 10 pages”: the leaves the manuscript holds."
+    - id: unidentified-1935-181
+      item_no: 181
+      no_in_volume: 2
+      name_as_printed: (Vyākaraṇaṭīkā)
+      script: Māgadhī
+      size_inches: 22½×2½
+      leaves: "1"
+      lines_per_page: "7"
+      notes: "Script and size printed as ditto marks. The status column reads “16th page”."
+    - id: unidentified-1935-182
+      item_no: 182
+      no_in_volume: 3
+      name_as_printed: (Vinayaṭīkā)
+      script: Māgadhī
+      size_inches: 23×2½
+      leaves: "3"
+      lines_per_page: "7, 8"
+      status: Incomplete
+      notes: "Script printed as a ditto mark."
+    - id: pancaraksa
+      item_no: 183
+      no_in_volume: 4
+      name_as_printed: (Paṃcarakṣā) Mahāmāyāvidyārājñī etc.
+      script: Rañjana
+      size_inches: 22×2½
+      leaves: "43"
+      lines_per_page: "6"
+      status: Incomplete
+      notes: "The status column reads “46–68 pages Incomplete”."
+    - id: astasahasrika-prajnaparamita
+      item_no: 184
+      no_in_volume: 5
+      name_as_printed: Aṣṭasāhasrikāprajñāpāramitā
+      script: Māgadhī
+      size_inches: 21¾×2
+      leaves: "137"
+      lines_per_page: "7"
+      status: Incomplete
+      colophon: "deyadharmoyaṃ pravaramahāyānayāyinaḥ mahāsāmantādhipati mahārājādhirāja mahāmāṇḍalika śrī rudramāṇasuta paramopāsaka rājaputra śrī vikramāṇasya yadatra[3]puṇyantadbhavatvācāryopādhyāya mātā pitṛ pūrvaṅgamaṃ kṛtvā sakalasatvarāśeranuttara jñāna phalāvāptaya iti || || śrīmanmadanapāladevasya (1134-53 A.D.) rājya samvat 17 / namostu ratnatritayāya nityaṃ | lokatrayedhvāntavināśanāya | sarvāśramāṇāmapi maṇḍanāya divāpi rātrāvapi bhāsvarāya ||[4] / vaṅśocchedo na keṣāmabhavadiha mahīmaṇḍale pārthivānām (|) etasminmānavaṅśe svayamadhikalasatkarmmanirmāṇaramye | satyatyāgapratāpābhyudayanayadayācāraniḥsīmasaumye (|) maryādārakṣitakṣmāvalayamukhaśataṃ sārddhamāsannarendrāḥ | śrīballamāna nṛpate (r)nnaptā śrīrudramānanṛpateśca |[5] śrīdharmmamāṇanṛpatirbbabhūva tanayo nayanipuṇaḥ || ucchedamatrāpi kuṭumvabhedādāśaṅkya saubhrātraviśuddhasiddhiḥ | vyājena yasya kṣitirakṣaṇārthaṃ dharmāvatāraṃ punarapyakārṣīt || tasyānujo vikramamāṇanāmā śatrūnsamutsārya bhṛśaṃ bhujābhyām | āveṣṭayanbhūmimimāmakā[6]"
+      notes: "Footnote 1 gives the colophon (manuscript page 68b), prose and then verse; the slashes mark the source's line breaks before the verses, and [3] to [6] are the source's own footnote marks, whose footnotes are not in the scan. The footnote breaks off at the end of p. 43 in the middle of a verse."
+      uncertain_fields: [colophon]

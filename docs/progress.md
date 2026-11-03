@@ -5,7 +5,7 @@ Inventory and scans: the `pages` list of each `_publications/<key>.yaml` is the 
 
 | Publication | Inventory | Scans | Texts (.md) | Tables |
 |---|---|---|---|---|
-| sankrtyayana1935 | done (PDF pp. 1–15: 2 front, 6 text, 2 plates, 17 tables, 3 blanks) | done | not started (pp. 21–26) | pp. 27–42 done; p. 43 not started |
+| sankrtyayana1935 | done (PDF pp. 1–15: 2 front, 6 text, 2 plates, 17 tables, 3 blanks) | done | not started (pp. 21–26) | pp. 27–43 done |
 | sankrtyayana1937 | only pp. 54–57 | not started | not started | not started |
 | sankrtyayana1938 | not started | not started | not started | not started |
 
@@ -29,7 +29,7 @@ Inventory and scans: the `pages` list of each `_publications/<key>.yaml` is the 
 | 40 | Ngor, nos. 142–155 | done | |
 | 41 | Ngor, nos. 156–167 | done | No. 167: “Tamil” in the author column; size printed 51⅓×1⅓. |
 | 42 | Ngor, nos. 168–178; V. Gu-rim-lha-khang, no. 179 | done | No. 169: “Rañjana” printed in the author column. |
-| 43 | Gu-rim-lha-khang, nos. 180–184 | not started | p. 43 has a long colophon in verse |
+| 43 | Gu-rim-lha-khang, nos. 180–184 | done | The colophon of no. 184 breaks off at the end of the page; its footnotes 3–6 are not in the scan. |
 
 ## Open questions
 
@@ -37,5 +37,5 @@ Inventory and scans: the `pages` list of each `_publications/<key>.yaml` is the 
 
 - “Miscellaneous leaves” is kept as a work (`_works/miscellaneous-leaves`) so that a volume can link to it.
 
-- 1935: the scan ends with p. 43 and the list with no. 184; does it go on in the issue?
+- 1935: the scan ends with p. 43, but the article goes on (the footnote of no. 184 breaks off and refers to footnotes 3–6). We need pp. 44 ff. of JBORS XXI, Pt. I.
 - 1937: the photographed list ends with no. 55 on p. 57; does it go on?
