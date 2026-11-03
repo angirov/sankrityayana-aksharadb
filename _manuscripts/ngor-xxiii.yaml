@@ -1,0 +1,19 @@
+vol_no: XXIII
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [37], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
+_works:
+  _contains:
+    - id: vimalaprabha
+      item_no: 113
+      name_as_printed: Kālacakraṭīkā T Vimalaprabhā
+      author_as_printed: (Avalokiteśvara)
+      tibetan_translation: true
+      script: Māgadhī
+      size_inches: 10×2
+      lines_per_page: "5"
+      status: Complete (?)
+      notes: "Footnote 5: Nepal Darbar Library (New S.) te 600. Script and status printed as ditto marks; leaves “..”."
