@@ -7,7 +7,7 @@ Inventory and scans: the `pages` list of each `_publications/<key>.yaml` is the 
 |---|---|---|---|---|
 | sankrtyayana1935 | done (PDF pp. 1–15: 2 front, 6 text, 2 plates, 17 tables, 3 blanks) | done | done (pp. 21–26, front matter) | pp. 27–43 done |
 | sankrtyayana1937 | only pp. 54–57 | not started | not started | not started |
-| sankrtyayana1938 | done (PDF pp. 1–14: contents p. vi, pp. 137–163) | done | not started (pp. 137–142) | pp. 143–163 done (long quotations pending) |
+| sankrtyayana1938 | done (PDF pp. 1–14: contents p. vi, pp. 137–163) | done | done (pp. 137–142, contents) | pp. 143–163 done (long quotations pending) |
 
 ## Tables of 1935
 
@@ -32,6 +32,9 @@ Inventory and scans: the `pages` list of each `_publications/<key>.yaml` is the 
 | 43 | Gu-rim-lha-khang, nos. 180–184 | done | The colophon of no. 184 breaks off at the end of the page; its footnotes 3–6 are not in the scan. |
 
 ## Open questions
+
+- 1938 p. 139: the Parikathā (Spos-khang, 1935 no. 6, 1938 no. 7) is “by a later author”, not Aśvaghoṣa; the work is still linked to Aśvaghoṣa as in 1935. To decide.
+- Long quotations in the footnotes of 1938 (pp. 148–162) are not yet transcribed (decisions.md).
 
 - 1938: the heading of Ṣhalu refers to “Vol. XXI, Part I, pp 8–10” and Spos-khang to “Page 8” for the list of 1935, which in our scan is on pp. 28–31: the reprint (offprint) pagination? Check against the issue.
 - 1938 Spos-khang corrects 1935 (no. 4 is a Sūtra-dhāraṇīsaṃgraha, not an Aṣṭasāhasrikā; no. 5 a grammatical commentary in vol. I; no. 8 a Dharmadharmatāvibhāga). Both are kept as printed; which is right is for the owner to judge.

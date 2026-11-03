@@ -1,0 +1,7 @@
+one hundred and five paintings in so-called Tibetan banners which were executed by a famous artist of the time (Stag-rtse-mkhas-pa) Rab-bratan-Kun-bsang under the patronage of king Kun-dzang-rabtan of the 15th century. There is also one small plaster-cast statue of Śākyaśrī which was moulded by (Dbus-kyi--rgya-ma-rin-cheṅ-rgang Rza-mkhan) Bkra-sis-ḥod-ḥvar possibly during the life-time of the Indian teacher.
+
+After staying for a few weeks at Shigartse we went to Ngor on the 31st July. The monastery of Ngor is one of the three monasteries in Tibet which have got the largest collection of Sanskrit MSS. In subject-matter the collection of this monastery is more important. We did not give previous information of our arrival. We feared that the chief custodian may play a trick by absenting himself as his predecessors did last time. During the months of June, July and August the climate is agreeable since cold is not intense, but at the same time, the rain which is rare and the clouds which are always there in the sky obstruct the work of taking photographs. It took sixteen days to finish our work.
+
+Narthang is not very far from the monastery of Ngor. Though there was no possibility of finding any Sanskrit MS. in this ancient monastery which is famous for its wooden block-prints of Kanjur and Tanjur, it has got some very old paintings which were imported to Tibet from Nepal or were executed under the direction of Indian or Nepali master-artists. The work seems to belong to the 13th century.
+
+From Narthang we proceeded to Śākya where
