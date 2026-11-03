@@ -1,0 +1,19 @@
+vol_no: XLIV
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1938, pages: [145], heading: "IX Ṣhalu Monastery (continued from Vol. XXI, Part I, pp 8–10 and Vol. XXIII, Part I, pp 33–52)"}
+_works:
+  _contains:
+    - id: balitattva
+      item_no: 357
+      name_as_printed: "Balitattva"
+      author_as_printed: "Ratnaśīla"
+      script: "Māgadhī"
+      size_inches: "22×1¾"
+      leaves: "16"
+      lines_per_page: "5"
+      status: "Complete"
+      notes: "The author stands in the name column."

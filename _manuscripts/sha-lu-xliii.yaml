@@ -1,0 +1,39 @@
+vol_no: XLIII
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1938, pages: [145], heading: "IX Ṣhalu Monastery (continued from Vol. XXI, Part I, pp 8–10 and Vol. XXIII, Part I, pp 33–52)"}
+_works:
+  _contains:
+    - id: advayasamatakalparaja
+      item_no: 354
+      no_in_volume: 1
+      name_as_printed: "Advayasamatākalparāja"
+      script: "Kuṭilā"
+      size_inches: "21×2"
+      leaves: "22"
+      lines_per_page: "7"
+      status: "Incomplete"
+      notes: "Footnote 2: only first leaf missing. Status printed as a ditto mark."
+    - id: caturyoginisamputatantraraja
+      item_no: 355
+      no_in_volume: 2
+      name_as_printed: "Caturyoginīsaṃpuṭataṃtrarāja"
+      script: "Kuṭilā"
+      size_inches: "21×2"
+      leaves: "6"
+      lines_per_page: "6"
+      status: "Complete"
+      notes: "Script and size printed as ditto marks."
+    - id: vajradakatantratika
+      item_no: 356
+      no_in_volume: 3
+      name_as_printed: "Vajraḍākataṃtraṭīkā"
+      script: "Kuṭilā"
+      size_inches: "21×2"
+      leaves: "24"
+      lines_per_page: "7"
+      status: "Incomplete"
+      notes: "Footnote 3: leaves 9 and 27 and after are missing. Script and size printed as ditto marks."

@@ -1,0 +1,19 @@
+vol_no: XLI
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1938, pages: [145], heading: "IX Ṣhalu Monastery (continued from Vol. XXI, Part I, pp 8–10 and Vol. XXIII, Part I, pp 33–52)"}
+_works:
+  _contains:
+    - id: bodhisattvabhumi
+      item_no: 352
+      name_as_printed: "Bodhisattvabhūmi"
+      author_as_printed: "Asaṃga"
+      script: "Kuṭilā"
+      size_inches: "12×2"
+      leaves: "226"
+      lines_per_page: "7"
+      status: "Complete"
+      notes: "Footnote 1: a chapter of the Yogācārabhūmi. The author stands in the name column. Script printed as a ditto mark."

@@ -1,0 +1,54 @@
+vol_no: XLV
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1938, pages: [145], heading: "IX Ṣhalu Monastery (continued from Vol. XXI, Part I, pp 8–10 and Vol. XXIII, Part I, pp 33–52)"}
+_works:
+  _contains:
+    - id: pancakramatippani
+      item_no: 358
+      no_in_volume: 1
+      name_as_printed: "Paṃcakramaṭippaṇī*"
+      author_as_printed: "Muniśrībhadra"
+      script: "Kuṭilā"
+      size_inches: "13×2"
+      leaves: "50"
+      lines_per_page: "5"
+      status: "Complete"
+      colophon: "kṛtiriyaṃ magadhadeśīyapaṇḍitaśākyabhikṣumuniśrībhadrasya |"
+      notes: "Footnote *: paper MS. Footnote 4: for 42 and 43 there is only one leaf; it gives the colophon. Status printed as a ditto mark."
+    - id: vajrasattvasadhana-lilavajra
+      item_no: 359
+      no_in_volume: 2
+      name_as_printed: "Vajrasattva sādhana*"
+      author_as_printed: "Līlāvajra"
+      script: "Kuṭilā"
+      size_inches: "13½×2"
+      leaves: "4"
+      lines_per_page: "7"
+      status: "Complete"
+      colophon: "likhi (taṃ) vibhūtinā yadatra puṇyamityādi |"
+      notes: "Footnote *: paper MS. Footnote 5 gives the colophon. Script and status printed as ditto marks."
+    - id: yogaratnamalatippani
+      item_no: 360
+      no_in_volume: 3
+      name_as_printed: "Yogaratnamālāṭippaṇī"
+      author_as_printed: "Bandhukīrti"
+      script: "Māgadhī"
+      size_inches: "12½×2"
+      leaves: "22"
+      lines_per_page: "3"
+      status: "Incomplete"
+      notes: "Footnote 6: leaf 8 missing."
+    - id: miscellaneous-leaves
+      no_in_volume: 4
+      name_as_printed: "Leaves*"
+      script: "Kuṭilā"
+      size_inches: "13½×2"
+      leaves: "5"
+      lines_per_page: "5"
+      status: "Incomplete"
+      notes: "No running number is printed. Footnote *: paper MS. Status printed as a ditto mark."
+notes: "Nos. 358, 359 and the leaves are paper MSS. (footnote *)."

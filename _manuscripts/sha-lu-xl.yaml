@@ -4,7 +4,7 @@ _locations:
     - id: sha-lu
 _publications:
   _described-in:
-    - {id: sankrtyayana1938, pages: [144], heading: "IX Ṣhalu Monastery (continued from Vol. XXI, Part I, pp 8–10 and Vol. XXIII, Part I, pp 33–52)"}
+    - {id: sankrtyayana1938, pages: [144, 145], heading: "IX Ṣhalu Monastery (continued from Vol. XXI, Part I, pp 8–10 and Vol. XXIII, Part I, pp 33–52)"}
 _works:
   _contains:
     - id: sravakabhumi
@@ -25,3 +25,13 @@ _works:
       incipit: "pratyekabuddhabhūmiḥ katamā (|) sā pañcākārā"
       explicit: "samāptā ca pratyekabuddhabhūmiḥ |"
       notes: "Not a numbered entry: named only in footnote 3 to no. 350, which quotes its beginning (p. 129a) and end (p. 129b)."
+    - id: abhiprayika-gathanirdesa
+      item_no: 351
+      no_in_volume: 2
+      name_as_printed: "Ābhiprāyika gāthānirdeśa"
+      script: "Kuṭilā"
+      size_inches: "20½″×2⅛″"
+      leaves: "4"
+      lines_per_page: "7, 9"
+      status: "Incomplete"
+      notes: "Page 145."
