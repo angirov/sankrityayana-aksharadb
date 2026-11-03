@@ -60,3 +60,4 @@ Inventory and scans: the `pages` list of each `_publications/<key>.yaml` is the 
 | Page | Contents | Status | Notes |
 |---|---|---|---|
 | 21–22 | VI. Chhag-pe-lha-khang (Sa-skya), vols. I–V, nos. 180–194 | done | Nos. 186–192: unnumbered volume. No. 185 continues 1935 no. 150 (Ngor). |
+| 23 | Chhag-pe-lha-khang vol. V (end), no. 195 | done | Long quotation of leaf 62 not transcribed. |
