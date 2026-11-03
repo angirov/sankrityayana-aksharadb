@@ -1,0 +1,22 @@
+vol_no: VII
+_locations:
+  _kept-in:
+    - id: chhag-pe-lha-khang
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [24], heading: "VI. Chhag-pe-lha-khang in Lha-Khang-Chhenmo of Sa-skya Monastery. (Continued From Volume XXI, Part I)"}
+_works:
+  _contains:
+    - id: yogacarabhumi
+      item_no: 199
+      name_as_printed: "Yogacārabhūmi"
+      author_as_printed: "(Asaṃga)"
+      tibetan_translation: true
+      script: "Kuṭilā"
+      size_inches: "22¼×1⅝"
+      leaves: "156"
+      lines_per_page: "7"
+      status: "Complete (?)"
+      incipit: "... (about 18 letters missing) saptadaśa bhūmayo draṣṭavyā (:|) katamā saptadaśa | piṇḍoddānam | pañca vijñānasaṃyuktā manobhūmistridhā parā | savitarkavicārābhyāṃ samādhisahitā nava || sacittā cāpyacittā ca śrutacintā sabhāvanā | tathā yānatrayopetā sopadhyanupadhā parā || pañca vijñānakāyasaṃprayuktā bhūmiḥ manobhū(miḥ savitarkasavicārā bhūmiḥ |"
+      explicit: "idamucyate nirvṛtiparyāyaprajñaptivyavasthānaṃ || yogācārabhūmau nirupādhikā bhūmiḥ samāptā ||0||"
+      notes: "Footnote 2: the first and last 3 leaves are partially damaged; it gives the beginning and the last line of the last page. Script and status printed as ditto marks."

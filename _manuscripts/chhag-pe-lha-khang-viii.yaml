@@ -1,0 +1,22 @@
+vol_no: VIII
+_locations:
+  _kept-in:
+    - id: chhag-pe-lha-khang
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [24,25], heading: "VI. Chhag-pe-lha-khang in Lha-Khang-Chhenmo of Sa-skya Monastery. (Continued From Volume XXI, Part I)"}
+_works:
+  _contains:
+    - id: saratama
+      item_no: 200
+      name_as_printed: "Aṣṭasāhastrikāprajñāpāramitāpaṃjikā (Sāratamā)"
+      author_as_printed: "Ratnākaraśānti"
+      tibetan_translation: true
+      size_inches: "23½×2"
+      leaves: "53"
+      lines_per_page: "7"
+      status: "Incomplete"
+      colophon: "? samvat ā to 3 (213 N. E.=1093 A. C.) śrīharṣadevarāje śrīgaṇḍigulmaviṣaye | kulaputrakāyasthaḥ śrījīvadharasiṃhasya pustakoyamiti ||0||"
+      incipit: "yā sarvajñatayā° | sarvākāramidaṃ° (as usual) | māyārūpasamānabhāvaviduṣāṃ muktiṃ parāṃ yogināṃ (|) saṃsārodaravarttidoṣanicaye sammūrcchitāṃ dehinaḥ | maitreyeṇa dayāvatā bhagavatā netuṃ svayaṃ sarvathā (|) prajñāpāramitānaye sphuṭatarā ṭīkākṛtā kārikā ||"
+      notes: "Script column blank. Footnote 3 (pp. 24–25): “Out of 103 leaves 48 (2-21, 51-55, 57-79) are missing” (103 is the leaf count printed for no. 201, 53 for this one); it gives the beginning, then the Abhidharmakośakārikās (Ch. III) follow; “it seems the first portion is taken from Haribhadra’s commentary, and second portion is from some commentary on the Abhidharmakośa. Here MS. no. 201 is correct.” It quotes the last page (verses, not transcribed here) and the colophon."
+      uncertain_fields: [colophon]

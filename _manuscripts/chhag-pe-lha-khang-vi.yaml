@@ -1,0 +1,40 @@
+vol_no: VI
+_locations:
+  _kept-in:
+    - id: chhag-pe-lha-khang
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [24], heading: "VI. Chhag-pe-lha-khang in Lha-Khang-Chhenmo of Sa-skya Monastery. (Continued From Volume XXI, Part I)"}
+_works:
+  _contains:
+    - id: bodhicaryavatara
+      item_no: 196
+      name_as_printed: "Bodhicaryāvatāra"
+      author_as_printed: "(Śāntideva)"
+      tibetan_translation: true
+      script: "Māgadhī"
+      size_inches: "22×2"
+      leaves: "23"
+      lines_per_page: "6"
+      status: "Complete"
+      colophon: "deyadharmoyaṃ pravaramahāyānayāyino bhikṣurāryaśrīmitrasya......|| śrīmadvigrahapālīyasamvat 26 śrāvaṇa dine 2"
+      notes: "Footnote 1 gives the colophon."
+    - id: triskandhadesana
+      item_no: 197
+      name_as_printed: "Triskandhadeśanā"
+      script: "Kuṭilā"
+      size_inches: "22×2"
+      leaves: "2"
+      lines_per_page: "5"
+      status: "Complete"
+      notes: "Size and status printed as ditto marks; author “..”."
+    - id: mahamayatantratika
+      item_no: 198
+      name_as_printed: "Mahāmāyātantraṭīkā"
+      tibetan_translation: true
+      script: "Kuṭilā"
+      size_inches: "23×2"
+      leaves: "10"
+      lines_per_page: "6,7"
+      status: "Complete (?)"
+      notes: "Script printed as a ditto mark; status as a ditto mark with “(?)”; author “..”."
