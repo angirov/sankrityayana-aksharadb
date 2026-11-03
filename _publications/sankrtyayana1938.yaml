@@ -1,0 +1,37 @@
+author: Rāhula Sāṅkṛtyāyana
+year: 1938
+title: Search for Sanskrit MSS. in Tibet
+journal: Journal of the Bihar and Orissa Research Society
+volume: XXIV
+part: IV
+citation: "Sāṅkṛtyāyana, Rāhula. 1938. “Search for Sanskrit MSS. in Tibet.” Journal of the Bihar and Orissa Research Society 24 (4): 137–163."
+scan: sāṅkṛtyāyana_1938_search_for_sanskrit_mss._in_tibet.pdf
+pages:
+  - {tag: front1, pdf_page: 1, side: left, kind: front, notes: "Contents of the issue, p. vi"}
+  - {tag: p137, page: 137, page_printed: false, pdf_page: 1, side: right, kind: text, notes: "Title of the journal issue and first page of the article"}
+  - {tag: p138, page: 138, pdf_page: 2, side: left, kind: text}
+  - {tag: p139, page: 139, pdf_page: 2, side: right, kind: text}
+  - {tag: p140, page: 140, pdf_page: 3, side: left, kind: text}
+  - {tag: p141, page: 141, pdf_page: 3, side: right, kind: text}
+  - {tag: p142, page: 142, pdf_page: 4, side: left, kind: text}
+  - {tag: p143, page: 143, pdf_page: 4, side: right, rotated: true, kind: table}
+  - {tag: p144, page: 144, pdf_page: 5, side: left, rotated: true, kind: table}
+  - {tag: p145, page: 145, pdf_page: 5, side: right, rotated: true, kind: table}
+  - {tag: p146, page: 146, pdf_page: 6, side: left, rotated: true, kind: table}
+  - {tag: p147, page: 147, pdf_page: 6, side: right, rotated: true, kind: table}
+  - {tag: p148, page: 148, pdf_page: 7, side: left, rotated: true, kind: table}
+  - {tag: p149, page: 149, pdf_page: 7, side: right, rotated: true, kind: table}
+  - {tag: p150, page: 150, pdf_page: 8, side: left, rotated: true, kind: table}
+  - {tag: p151, page: 151, pdf_page: 8, side: right, rotated: true, kind: table}
+  - {tag: p152, page: 152, pdf_page: 9, side: left, rotated: true, kind: table}
+  - {tag: p153, page: 153, pdf_page: 9, side: right, rotated: true, kind: table}
+  - {tag: p154, page: 154, pdf_page: 10, side: left, rotated: true, kind: table}
+  - {tag: p155, page: 155, pdf_page: 10, side: right, rotated: true, kind: table}
+  - {tag: p156, page: 156, pdf_page: 11, side: left, rotated: true, kind: table}
+  - {tag: p157, page: 157, pdf_page: 11, side: right, rotated: true, kind: table}
+  - {tag: p158, page: 158, pdf_page: 12, side: left, rotated: true, kind: table}
+  - {tag: p159, page: 159, pdf_page: 12, side: right, rotated: true, kind: table}
+  - {tag: p160, page: 160, pdf_page: 13, side: left, rotated: true, kind: table}
+  - {tag: p161, page: 161, pdf_page: 13, side: right, rotated: true, kind: table}
+  - {tag: p162, page: 162, pdf_page: 14, side: left, rotated: true, kind: table}
+  - {tag: p163, page: 163, pdf_page: 14, side: right, rotated: true, kind: table}
