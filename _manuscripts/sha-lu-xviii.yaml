@@ -1,0 +1,23 @@
+vol_no: XVIII
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [38], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
+_works:
+  _contains:
+    - id: katantrapanjika
+      item_no: 261
+      no_in_volume: 1
+      name_as_printed: "Kātantrapañjikā"
+      author_as_printed: "Trilocanadāsa"
+      tibetan_translation: true
+      script: "Māgadhī"
+      size_inches: "12½×1⅞"
+      leaves: "122"
+      lines_per_page: "5"
+      status: "Incomplete"
+      incipit: "yuṣmad || nanu kathaṃ yuṣmadasmadoḥ padamucyate | yāvatā prakṛtivibhaktyoḥ samudāyaḥ padaṃ |"
+      explicit: "iti trilocanadāsaviracitāyāṃ kātantravṛttipañjikāyāṃ samāsaḥ pādaḥ samāptaḥ ||"
+      notes: "Footnote 4 gives the beginning and the end. Script and status printed as ditto marks."

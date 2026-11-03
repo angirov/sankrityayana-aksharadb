@@ -1,0 +1,77 @@
+vol_no: XVII
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [38], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
+_works:
+  _contains:
+    - id: svadhisthanakramavivrti
+      item_no: 255
+      no_in_volume: 1
+      name_as_printed: "Svādhiṣṭhānakramavivṛti"
+      script: "Kuṭilā & Māgadhī"
+      size_inches: "12¼×2"
+      leaves: "8½"
+      lines_per_page: "8"
+      status: "Complete"
+      incipit: "kalādvitīyamityādinā andhakāroddhārapūrvakaṃ kamalodarapatita bodhicittavindunijāta triṭha(?)tvakathanadvāreṇa utpattikramaṃ dyotayati |"
+      notes: "Footnote 1: it is a commentary on utpatti krama (1b), piṇḍīkrama (2a), vajrajāpa (3b), cittaviśuddhikrama (5a), svādhiṣṭhānakrama (7a), prabhāsvarapadakrama (7b), yuganaddhakrama (8a); it gives the beginning."
+    - id: abhisambodhikrama
+      item_no: 256
+      no_in_volume: 2
+      name_as_printed: "Abhisambodhikrama"
+      author_as_printed: "(Āryadeva)"
+      tibetan_translation: true
+      script: "Māgadhī"
+      size_inches: "12¼×2"
+      leaves: "2"
+      lines_per_page: "8"
+      status: "Complete"
+      notes: "Size, lines and status printed as ditto marks."
+    - id: pancakramavivrti-1937-257
+      item_no: 257
+      no_in_volume: 3
+      name_as_printed: "Paṃcakramavivṛti"
+      tibetan_translation: true
+      script: "Māgadhī"
+      size_inches: "12¼×2"
+      leaves: "2"
+      lines_per_page: "8"
+      status: "Complete"
+      notes: "Script, size, lines and status printed as ditto marks."
+    - id: anuttarasattvavivrti
+      item_no: 258
+      no_in_volume: 4
+      name_as_printed: "Anuttarasatva vivṛti"
+      script: "Māgadhī"
+      size_inches: "12¼×2"
+      leaves: "3½"
+      lines_per_page: "8"
+      status: "Complete"
+      notes: "Script, size, lines and status printed as ditto marks."
+    - id: pancakramavivrti-kuloka
+      item_no: 259
+      no_in_volume: 5
+      name_as_printed: "Paṃcakramavivṛti"
+      author_as_printed: "Kuloka"
+      tibetan_translation: true
+      script: "Māgadhī"
+      size_inches: "12¼×2"
+      leaves: "10"
+      lines_per_page: "8"
+      status: "Complete"
+      incipit: "ācāryanāgārjunanītisaṅgrahe ya āryadevena kṛtaḥ prayatnaḥ | tatrātigambhīratare padānāṃ mayā parārthaṃ kriyate nibandhaḥ |"
+      notes: "Footnote 2: it is a commentary on Āryadeva's Pañcakrama; it has 11 Paricchedas; the text deals with Yoga. Size printed as a ditto mark."
+    - id: svapnadhyaya
+      item_no: 260
+      no_in_volume: 6
+      name_as_printed: "Svapnādhyāya"
+      script: "Māgadhī"
+      size_inches: "12¼×2"
+      leaves: "2"
+      lines_per_page: "6"
+      status: "Incomplete"
+      incipit: "svapnādhyāyaṃ pravakṣyāmi vṛhaspativinirmmitaṃ | yena vijñāyate puṃsāṃ svapneṣu ca śubhāśubhaṃ |"
+      notes: "Footnote 3: it has only first two leaves. Script and size printed as ditto marks."
