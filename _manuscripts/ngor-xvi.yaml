@@ -1,0 +1,18 @@
+vol_no: XVI
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [35], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
+_works:
+  _contains:
+    - id: bhasavrtti
+      item_no: 90
+      name_as_printed: Bhāṣāvṛtti
+      author_as_printed: Puruṣottamadeva
+      script: Maithilī
+      size_inches: 12×2
+      lines_per_page: "7, 8"
+      status: Complete (?)
+      notes: Script printed as a ditto mark; leaves “..”.

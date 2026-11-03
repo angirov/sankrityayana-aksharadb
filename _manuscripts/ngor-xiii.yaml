@@ -1,0 +1,21 @@
+vol_no: XIII
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [35], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
+_works:
+  _contains:
+    - id: kriyasamuccaya
+      item_no: 84
+      name_as_printed: Kriyāsamuccaya
+      author_as_printed: Maṃjuga...
+      script: Nevārī
+      size_inches: 13⅓×2⅓
+      leaves: "333"
+      lines_per_page: "7"
+      status: Complete
+      colophon: "samvat 425 (N. E.=1305 A. D.) phālguṇasuddhi triyodasyā titho ādityavatsare maghanakhate...( donor ) svayambhūvajra bhagavata parirnivṛte'ṣṭādhikāṣṭādaśaśate trayoviṃśati (1823 ?) varasādhike divasādhike ṣaṇmāsādhike paramopāsaka śrīmuktidāsena likhitam |"
+      notes: "Footnote 1 (on title and author): “mahāmaṃḍalācārya paṃḍita”, then the colophon; “( donor )” is the source's."
+      uncertain_fields: [colophon]

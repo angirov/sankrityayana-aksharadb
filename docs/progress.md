@@ -5,7 +5,7 @@ Inventory and scans: the `pages` list of each `_publications/<key>.yaml` is the 
 
 | Publication | Inventory | Scans | Texts (.md) | Tables |
 |---|---|---|---|---|
-| sankrtyayana1935 | done (PDF pp. 1–15: 2 front, 6 text, 2 plates, 17 tables, 3 blanks) | done | not started (pp. 21–26) | pp. 27–34 done; pp. 35–43 not started |
+| sankrtyayana1935 | done (PDF pp. 1–15: 2 front, 6 text, 2 plates, 17 tables, 3 blanks) | done | not started (pp. 21–26) | pp. 27–35 done; pp. 36–43 not started |
 | sankrtyayana1937 | only pp. 54–57 | not started | not started | not started |
 | sankrtyayana1938 | not started | not started | not started | not started |
 
@@ -21,7 +21,8 @@ Inventory and scans: the `pages` list of each `_publications/<key>.yaml` is the 
 | 32 | Ngor, nos. 50–59 | done | Vol. I runs over pp. 31–32. Colophons of nos. 58 (“hca (?)”) and 59 to be checked. |
 | 33 | Ngor, nos. 60–71 | done | Size of no. 61 printed 22×2 2/9. |
 | 34 | Ngor, nos. 72–80 | done | |
-| 35–42 | Ngor, nos. 81–178 | not started | |
+| 35 | Ngor, nos. 81–90 | done | Colophon of no. 84 to be checked. |
+| 36–42 | Ngor, nos. 91–178 | not started | |
 | 42–43 | V. Gu-rim-lha-khang library of Sa-skya, nos. 179–184 | not started | p. 43 has a long colophon in verse |
 
 ## Open questions

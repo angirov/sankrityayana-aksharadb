@@ -4,7 +4,7 @@ _locations:
     - id: ngor
 _publications:
   _described-in:
-    - {id: sankrtyayana1935, pages: [34], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
+    - {id: sankrtyayana1935, pages: [34, 35], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
 _works:
   _contains:
     - id: mahamantranusarini
@@ -63,4 +63,15 @@ _works:
       status: Illustrated
       colophon: "śākyabhikṣoḥ sthavira ja yā ka ra gu pta sya... kalyāṇasahasrabhājanasya pa ra ma sau ga ta śrīmad govindacandradeva (1110-55 A. D.)sya pravarddhamāna vijayarā...samvatsare likhayamānaṃ śrāmaṇamāsi śuklapakṣe pañcamyāntithau bṛhaspativāre citranakṣatre śrīvikrama...|"
       notes: "Footnote 5: these are also called Paṃcarakṣā. Script, size, lines and status printed as ditto marks. Footnote 6 gives the colophon of the volume; the spaced syllables are the source's."
-notes: "The five texts of the Pañcarakṣā (footnote 5); the leaves column gives where each one ends."
+    - id: mahakalatantra
+      item_no: 81
+      no_in_volume: 6
+      name_as_printed: Mahākālataṃtra T
+      tibetan_translation: true
+      script: Māgadhī
+      size_inches: 21⅓×2
+      leaves: "37"
+      lines_per_page: "6"
+      status: Incomplete
+      notes: "Page 35. Size and lines printed as ditto marks."
+notes: "Nos. 76–80 are the five texts of the Pañcarakṣā (footnote 5); for them the leaves column gives where each one ends. No. 81 follows on p. 35."

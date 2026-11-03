@@ -1,0 +1,19 @@
+vol_no: XIV
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [35], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
+_works:
+  _contains:
+    - id: kalacakratantra
+      item_no: 85
+      name_as_printed: Kālacakrataṃtra T
+      tibetan_translation: true
+      size_inches: 12⅔×2
+      leaves: "120"
+      lines_per_page: "6"
+      status: Complete
+      colophon: "samvat 310 (310 N. E.=1190A. D.) śrāvaṇa śukla ...|"
+      notes: "Footnote 2 gives the colophon and adds: “It is preserved in Nepal Darbar Library (New Series) te. 292,602.” Script printed “..”; status as a ditto mark."
