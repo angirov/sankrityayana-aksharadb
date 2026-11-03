@@ -35,5 +35,8 @@ are kept as printed there; the linked work and author carry the normalised forms
 - Ditto marks are expanded to the value they repeat; a doubtful reading goes into `uncertain_fields`.
 - A field the source leaves blank or prints as `..` is left out.
 - Page numbers are printed pages; a two-page spread of the scan is cut into its two pages.
+- A page's text (`<key>_p021.md`) is the text as printed, without the running head: diacritics,
+  spelling and misprints kept, Devanagari kept as Devanagari, paragraphs joined into lines, words
+  broken at a line end joined. A word or paragraph cut by the page break stays cut.
 
 The source scans are not in the repository. Details of the work: `docs/CLAUDE.md` (the method), `docs/progress.md`.

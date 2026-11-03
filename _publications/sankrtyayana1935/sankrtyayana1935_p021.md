@@ -1,0 +1,7 @@
+# SANSKRIT PALM-LEAF MSS. IN TIBET
+
+*By Tripiṭakâcharya Rāhula Sāṅkṛityāyana*
+
+During my last journey to Tibet in 1929-30, I was able to collect a mass of Tibetan works, either originally translated from Sanskrit or Indian Vernaculars, or original works composed by Tibetan scholars themselves. Though I had heard numerous rumours about the existence of Sanskrit Palm-leaf MSS, but after search I found them unfounded. After several trials I drew the conclusion, that there was hardly much of a possibility of getting Palm-leaf MSS. in Tibet. But on my return, while studying the materials thus collected there for my little monograph in Hindi entitled “A Short History of Buddhism in Tibet” ( तिब्बतमें बौद्धधर्म ), I felt convinced about the existence of them, at least a hundred in number.
+
+Last time, after my return from Tibet, I felt it necessary to restore some of the great works of the Buddhist logicians, from Tibetan to Sanskrit. In fact I was restoring the Pramāṇa-Vārtika of Dharmakīrti, when a friend of mine wrote to me that the work in original Sanskrit was discovered by the Royal Preceptor Paṇḍita Hemarāja Śarman of Nepal, whose knowledge of Sanskrit is encyclopædic and love for it, proverbial; so I gave up the tasks and thought it prudent to see first those Sanskrit MSS. which were still preserved in Tibet, before taking any restoration work, lest it might prove an useless labour after the discovery of the original MSS. One thing that prompted me to under
