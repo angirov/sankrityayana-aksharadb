@@ -1,0 +1,28 @@
+vol_no: XL
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [53], heading: "IX. Ngor Monastery (Continued from JBORS., XXI, Part I)"}
+_works:
+  _contains:
+    - id: abhidharmakosabhasya
+      item_no: 335
+      name_as_printed: "Abhidharmakośabhāṣya"
+      author_as_printed: "Vasubandhu"
+      tibetan_translation: true
+      script: "Māgadhī"
+      size_inches: "12×2½"
+      status: "Complete"
+      notes: "Leaves and lines blank. Compare the text of p. 18: “a complete copy of Abhidharmakośa-bhāṣya by Vasubandhu” found at Ngor."
+    - id: dohakosa
+      item_no: 336
+      name_as_printed: "Dohākośa"
+      author_as_printed: "Saraha"
+      tibetan_translation: true
+      script: "Kuṭilā"
+      size_inches: "10×2½"
+      status: "Complete"
+      notes: "Printed with vol. no. XL again, like no. 335: either two titles of one volume or a misprint for XLI; kept in vol. XL. Status printed as a ditto mark; leaves and lines blank. Compare p. 18: “a copy of Sarahapa’s Dohākośa”."
+      uncertain_fields: [vol_no]

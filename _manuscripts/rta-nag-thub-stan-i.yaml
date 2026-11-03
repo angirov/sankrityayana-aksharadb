@@ -1,0 +1,20 @@
+vol_no: I
+_locations:
+  _kept-in:
+    - id: rta-nag-thub-stan
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [53], heading: "VIII. Rta-nag Thub-stan Monastery (Tsang)"}
+_works:
+  _contains:
+    - id: lankavatarasutra
+      item_no: 331
+      name_as_printed: "(Laṃkāvatāra ?) sūtra"
+      tibetan_translation: true
+      script: "Rañjana"
+      size_inches: "22×2"
+      leaves: "250"
+      lines_per_page: "6"
+      status: "Incomplete"
+      notes: "The identification is the list's own, with a query. Author “..”."
+      uncertain_fields: [id]

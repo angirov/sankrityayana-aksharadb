@@ -4,7 +4,7 @@ _locations:
     - id: sha-lu
 _publications:
   _described-in:
-    - {id: sankrtyayana1937, pages: [50], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
+    - {id: sankrtyayana1937, pages: [50, 51, 52], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
 _works:
   _contains:
     - id: manjusrinamasamgiti
@@ -30,3 +30,70 @@ _works:
       lines_per_page: "4,5"
       status: "Incomplete"
       notes: "Author “..”."
+    - id: tarastutitika
+      item_no: 325
+      no_in_volume: 3
+      name_as_printed: "Tārāstuti (Candradāsa) ṭīkā"
+      script: "Kuṭilā"
+      size_inches: "9×1¾"
+      leaves: "6"
+      lines_per_page: "9"
+      status: "Incomplete"
+      incipit: "ādimadhyāvasānaśrīraprameyaguṇākaraṃ | yo hi tasmai namo buddhadharmasaṅghāgravarttine || bhagavatyāryatārāyā yābhiṣṭutirudāhṛtā | āca(ā)rya ca ndra dā sena taṭṭīkā khyāyate mayā ||"
+      notes: "Page 51. Size and status printed as ditto marks. Footnote 1 (pp. 51–52) gives the beginning, the story of Candradāsa at sea (the island Candradvīpa), and the prayer in the form of dvipadī Gīti, verses 1–6 with leaf numbers; not transcribed here."
+    - id: trimsika
+      item_no: 326
+      no_in_volume: 4
+      name_as_printed: "Triṃśikā"
+      author_as_printed: "Vasubaṃdhu"
+      tibetan_translation: true
+      script: "Kuṭilā"
+      size_inches: "12¼×2"
+      leaves: "81"
+      lines_per_page: "8"
+      status: "Complete"
+      notes: "Page 52. 81 leaves for the Triṃśikā is printed so (with a commentary?)."
+    - id: prajnaparamitapindartha
+      item_no: 327
+      no_in_volume: 5
+      name_as_printed: "Prajñāpāramitāpiṇḍārtha"
+      author_as_printed: "Diṅnāga"
+      script: "Māgadhī"
+      size_inches: "12¼×2"
+      leaves: "2"
+      lines_per_page: "8"
+      status: "Complete"
+      notes: "Page 52. Size and status printed as ditto marks."
+    - id: trisatikakarika
+      item_no: 328
+      no_in_volume: 6
+      name_as_printed: "Triśatikā......kārikā"
+      author_as_printed: "Asaṃga"
+      script: "Māgadhī"
+      size_inches: "12¼×2"
+      leaves: "3"
+      lines_per_page: "8"
+      status: "Incomplete"
+      notes: "Page 52. Footnote 1: a few letters missing. Script, size and lines printed as ditto marks."
+    - id: unidentified-1937-329
+      item_no: 329
+      no_in_volume: 7
+      name_as_printed: "(Guṇāparyanta.....T)"
+      author_as_printed: "(Diṅnāga)"
+      tibetan_translation: true
+      script: "Māgadhī"
+      size_inches: "12¼×2"
+      leaves: "1"
+      lines_per_page: "8"
+      status: "Incomplete"
+      notes: "Page 52. Script, size, lines and status printed as ditto marks."
+    - id: guhyendratilakakalparaja
+      item_no: 330
+      no_in_volume: 8
+      name_as_printed: "Guhyendratilakakalparāja"
+      script: "Kuṭilā"
+      size_inches: "11¾×2"
+      leaves: "37"
+      lines_per_page: "8"
+      status: "Incomplete"
+      notes: "Page 52. Status printed as a ditto mark; author “..”."

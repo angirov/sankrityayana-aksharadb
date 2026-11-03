@@ -81,3 +81,4 @@ Inventory and scans: the `pages` list of each `_publications/<key>.yaml` is the 
 | 48 | Ṣhalu vol. XXXVII, nos. 311–313 | done | |
 | 49 | Ṣhalu vol. XXXVII (end), nos. 314–318 | done | |
 | 50 | Ṣhalu vols. XXXVII (end)–XXXVIII, nos. 319–324 | done | |
+| 51–53 | Ṣhalu vol. XXXVIII (end), nos. 325–330; VIII. Rta-nag Thub-stan, nos. 331–334; IX. Ngor vol. XL, nos. 335–336 | done | Ngor “XL” printed for both 335 and 336. |
