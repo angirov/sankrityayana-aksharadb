@@ -1,0 +1,34 @@
+vol_no: XII
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [33], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
+_works:
+  _contains:
+    - id: pramanavarttikavrtti-manorathanandin
+      item_no: 237
+      no_in_volume: 1
+      name_as_printed: "Pramāṇavārttikavṛtti"
+      author_as_printed: "Manorathanandī"
+      script: "Kuṭilā"
+      size_inches: "26½×2"
+      leaves: "105"
+      lines_per_page: "7"
+      status: "Complete"
+      colophon: "ācārya śrī ma no ra tha na ndi kṛtāyāṃ vārttikavṛttau caturthaḥ paricchedaḥ samāptaḥ || likhiteyaṃ paṃḍi(ta) vi bhū ti ca ndre ṇa (1203 A. C.)......"
+      incipit: "vimuktāvaraṇakleśaṃ dīptākhilaguṇaśriyaṃ | svaikavedyātmasampattiṃ namasyāmi mahāmunim || svayamapi kṛtināmahetuyanyairapi gamito bahuvistarairnnayoyam | tadapi ca sugamo na madvidhānāmiti vivṛticchalataḥ karomi cintām || [ahamapi na nijaikalābhalubdho na ca parakṛtyarasābhilāṣayuktaḥ | phalati punariyaṃ parārthavāñchāvratatirabhīṣṭaphalāni puṇyabhājām ||] na yadiha tanna nyāyyaṃ tenoditena ca kiṃ phalaṃ | yadiha bahuśastasyā vṛttau guṇaḥ kathaṃ kasya kaḥ | yadi paramasau vyākhyeyārthagrahasya virodhinī (|) vivṛtiracanāmātre tasmāt kṛtotra mayādaraḥ ||"
+      notes: "Footnote 1: “The paper MS. begins”; it gives the opening verses and the colophon, written by Vibhūticandra. The bracketed verse is the source's."
+    - id: nyayabindupanjika
+      item_no: 238
+      no_in_volume: 2
+      name_as_printed: "Nyāyavindupaṃjikā"
+      author_as_printed: "Dharmottara"
+      tibetan_translation: true
+      script: "Māgadhī"
+      size_inches: "24½×2⅛"
+      leaves: "43"
+      lines_per_page: "6"
+      status: "Complete"
+      notes: "Status printed as a ditto mark."
