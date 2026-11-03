@@ -19,6 +19,7 @@ _works:
       status: Complete ?
       colophon: "uttarāpathika carkhaladeśajanmā prajñāvarmaṇaḥ |... kaśmīrādhiṣṭhāne...śrī tiṃḍiṇī (?) grāme harivanadharmavihāre samvat 458(?) luti (?) śrīmanmahīpāladeva vijayini |"
       notes: "Footnote 2 (on the author) gives the colophon."
+      uncertain_fields: [colophon]
     - id: unidentified-1935-108
       item_no: 108
       no_in_volume: 2
@@ -39,6 +40,7 @@ _works:
       lines_per_page: "5"
       colophon: "lakṣmaṇadevaṣaṭpañcāśatābdīya rājye...56 śrīmadvīrasiṃhadevastanyamānāyāṃ tīrabhuktau śālmalīpāṭake sthitvā likhitamidaṃ chātraśrīśubhaṅkadāśena ...mārga śudi 14 kaliṃgeśvaraguruvyākhyāt mahāpaṃḍita sthavira sādhukīrticaraṇaiḥ |"
       notes: "Footnote 3 gives the colophon. The status column reads “(Pāṇini 1.1)”, the part of the grammar the manuscript covers."
+      uncertain_fields: [colophon]
     - id: bodhicaryavatara
       item_no: 110
       no_in_volume: 4

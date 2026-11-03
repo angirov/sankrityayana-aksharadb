@@ -26,8 +26,10 @@ Both must pass before a commit.
    from a list without vol. no.: list + number, `photographed-1937-12`). Each title is one
    `_contains` link with the attributes of `schemas/_manuscripts.yaml`; create the work and the
    author if they are new. Footnotes go to the entry they annotate.
-3. IAST for all Sanskrit; marks of the source kept; ditto marks expanded; doubts in
-   `uncertain_fields`; blanks and `..` left out.
+3. IAST for all Sanskrit; marks of the source kept; ditto marks expanded; blanks and `..` left
+   out. Every reading of ours that needs a look at the scan (a blurred figure, an unclear
+   ditto, a hard colophon) goes into `uncertain_fields`, and the reason into `notes`. A doubt
+   the source itself prints, such as “(?)”, is kept in the text and is not ours to flag.
 4. Cite the printed page(s) of the row and its footnotes in `_described-in`.
 5. Run the checks; update `docs/progress.md` (status, doubts for a manual check).
 

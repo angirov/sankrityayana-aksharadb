@@ -4,3 +4,4 @@
   and counts listed pages that have no scan yet.
 - `cut_pages.py`: cuts a publication's scan into one PNG per page (the attachments), from the
   `pages` list of `_publications/<key>.yaml`.
+- `doubts.py`: lists every title with `uncertain_fields`, for a check against the scans.
