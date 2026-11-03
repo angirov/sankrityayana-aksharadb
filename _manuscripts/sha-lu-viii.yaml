@@ -1,0 +1,69 @@
+vol_no: VIII
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [29], heading: "III. Ṣa-lu monastery ( near Śi-ga-rtse )"}
+_works:
+  _contains:
+    - id: sarvajnasiddhi
+      item_no: 21
+      no_in_volume: 1
+      name_as_printed: Sarvajñasiddhi
+      author_as_printed: Ratnakīrti
+      script: Purāṇamaithilī
+      size_inches: 21⅓×2⅓
+      leaves: "1-17"
+      status: Complete
+    - id: apohasiddhi
+      item_no: 22
+      no_in_volume: 2
+      name_as_printed: Apohasiddhiprakaraṇa*
+      author_as_printed: Ratnakīrti
+      script: Purāṇamaithilī
+      size_inches: 21⅓×2⅓
+      leaves: "18-36"
+      status: Complete
+      notes: "Author, script, size and status printed as ditto marks. Footnote *: already published in the Bibliotheca Indica."
+    - id: ksanabhangasiddhi
+      item_no: 23
+      no_in_volume: 3
+      name_as_printed: Kṣaṇabhaṃgasiddhi*
+      author_as_printed: Ratnakīrti
+      script: Purāṇamaithilī
+      size_inches: 21⅓×2⅓
+      leaves: "37-45"
+      status: Complete
+      notes: "Author, script, size and status printed as ditto marks. Footnote *: already published in the Bibliotheca Indica."
+    - id: pramanantarbhavaprakarana
+      item_no: 24
+      no_in_volume: 4
+      name_as_printed: Pramāṇāntarbhāvaprakaraṇa
+      author_as_printed: Ratnakīrti
+      script: Purāṇamaithilī
+      size_inches: 21⅓×2⅓
+      leaves: "45-47"
+      status: Complete
+      notes: "Author, script, size and status printed as ditto marks."
+    - id: vyaptinirnaya
+      item_no: 25
+      no_in_volume: 5
+      name_as_printed: Vyāptinirṇaya
+      author_as_printed: Ratnakīrti
+      script: Purāṇamaithilī
+      size_inches: 21⅓×2⅓
+      leaves: "47-59"
+      status: Complete
+      notes: "Author, script, size and status printed as ditto marks."
+    - id: sthirasiddhidusana
+      item_no: 26
+      no_in_volume: 6
+      name_as_printed: Sthirasiddhidūṣaṇa
+      author_as_printed: Ratnakīrti
+      script: Purāṇamaithilī
+      size_inches: 21⅓×2⅓
+      leaves: "59-69"
+      status: Complete
+      notes: "Author, script, size and status printed as ditto marks."
+notes: "One volume of works of Ratnakīrti; the leaves column gives each work's leaves in the volume."

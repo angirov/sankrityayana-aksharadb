@@ -1,0 +1,17 @@
+vol_no: IV
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [29], heading: "III. Ṣa-lu monastery ( near Śi-ga-rtse )"}
+_works:
+  _contains:
+    - id: miscellaneous-leaves
+      item_no: 13
+      no_in_volume: 4
+      name_as_printed: Miscellaneous leaves
+      script: Vartula
+      size_inches: 21⅓×2⅓
+      notes: "Script printed as a ditto mark (Vartula, from no. 12). The number 4 before 13 is printed as for vol. II (2) and III (3)."
+      uncertain_fields: [script]

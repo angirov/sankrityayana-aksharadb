@@ -1,0 +1,26 @@
+vol_no: VII
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [29], heading: "III. Ṣa-lu monastery ( near Śi-ga-rtse )"}
+_works:
+  _contains:
+    - id: astasahasrika-prajnaparamita
+      item_no: 19
+      no_in_volume: 1
+      name_as_printed: Aṣṭasāhasrikā prajñāpāramitā T
+      tibetan_translation: true
+      script: Rañjana
+      size_inches: 20×2
+      status: Incomplete
+    - id: abhisamayalankaravivrti
+      item_no: 20
+      no_in_volume: 2
+      name_as_printed: Abhisamayālaṃkāravivṛti T(?)
+      tibetan_translation: true
+      script: Vartula
+      size_inches: 20×2
+      status: Incomplete
+      notes: "“T(?)”: the Tibetan translation is doubtful in the source. Size and status printed as ditto marks."

@@ -1,0 +1,18 @@
+vol_no: V
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [29], heading: "III. Ṣa-lu monastery ( near Śi-ga-rtse )"}
+_works:
+  _contains:
+    - id: pancaraksa
+      item_no: 14
+      no_in_volume: 5
+      name_as_printed: Mahāpratisarā vidyārājñīkalpa etc. T (Pañcarakṣā)
+      tibetan_translation: true
+      script: Nevārī
+      size_inches: 23⅓×2
+      colophon: "samvat 402 (N. E.=1282 A. D.) pauṣyakṛṣṇadaśamyāṃ somavāśare śrīmahārājaparameśvara paramabhaṭārika śrī śrī annantamalladevasya vijayarāje |"
+      notes: "Footnote 1 (on vidyārājñīkalpa) gives the colophon; “annanta” is printed so."
