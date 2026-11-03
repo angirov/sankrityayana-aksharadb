@@ -1,0 +1,20 @@
+vol_no: XXXII
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [42], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
+_works:
+  _contains:
+    - id: pancavimsatisahasrika-prajnaparamita
+      item_no: 292
+      name_as_printed: "Paṃcaviṃśatisāhastrikā prajñāpāramitā"
+      tibetan_translation: true
+      script: "Māgadhī"
+      size_inches: "23¼×2¼"
+      leaves: "252"
+      lines_per_page: "7"
+      status: "Incomplete"
+      colophon: "āryapañcaviṃśatisāhasrikāyāṃ prajñāpāramitāyāṃ prathamakhaṇḍasamāptā ||....5...deyadharmoyaṃ pravaramahāyānayāyina | paramārthabhikṣuḥ śrīrājendrasya......|"
+      notes: "Footnote 4 gives the colophon. Script and lines printed as ditto marks; author “..”."

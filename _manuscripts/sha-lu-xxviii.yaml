@@ -1,0 +1,18 @@
+vol_no: XXVIII
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [42], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
+_works:
+  _contains:
+    - id: astasahasrika-prajnaparamita
+      item_no: 288
+      name_as_printed: "Aṣṭasāhastrikā prajñāpāramitā"
+      script: "Rañjana"
+      size_inches: "23×2"
+      leaves: "199"
+      lines_per_page: "6"
+      status: "Complete (?)"
+      notes: "Name and script printed as ditto marks; author “..”. Footnote 1: calligraphy of this MS. is not so good, but it is beautifully illustrated; MS. is worn out, and at the end few leaves are missing."

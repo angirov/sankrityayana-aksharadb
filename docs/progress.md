@@ -72,3 +72,4 @@ Inventory and scans: the `pages` list of each `_publications/<key>.yaml` is the 
 | 38–39 | Ṣhalu vols. XVII–XXII, nos. 255–268 | done | Size of no. 265 printed “½×2”. |
 | 40 | Ṣhalu vols. XXII (end)–XXIV, nos. 269–276 | done | “N.” after Bhāskarācārya (no. 271) unexplained. |
 | 41 | Ṣhalu vols. XXIV (end)–XXVII, nos. 277–287 | done | No. 283 numbered 10 in vol. XXV; footnote of no. 280 does not fit the title. |
+| 42 | Ṣhalu vols. XXVIII–XXXIII, nos. 288–293 | done | |

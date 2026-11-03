@@ -1,0 +1,22 @@
+vol_no: XXX
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [42], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
+_works:
+  _contains:
+    - id: cakrasamvaravivrti-bhavabhatta
+      item_no: 290
+      name_as_printed: "Cakrasaṃvaravivṛti"
+      author_as_printed: "Bhavabhaṭa"
+      tibetan_translation: true
+      script: "Kuṭilā"
+      size_inches: "22¼×2"
+      leaves: "54"
+      lines_per_page: "7"
+      status: "Complete (?)"
+      colophon: "iti śrīcakrasamvaravivṛtāvekapañcāśattamaḥ paṭalaḥ saptā(?mā)ptaḥ || kṛtiriyaṃ paṇḍitācāryabhavabhaṭapādānām || deyadharmmoyaṃ pravaramahāyānayāyinaḥ paramaśākyabhikṣudharmmakīrtteryadatra puṇyaṃ........|| mahārājādhirājaparameśvaraparamabhaṭāraka śrīmacchūrapāladevapādīya samvat 1 kārttikadina 4 || likhitamidaṃ pustakaṃ kārttabodhibaleneti || granthapramāṇamasya sahasra 3sa5 ||"
+      incipit: "mārāṃ..rāgasandhau madanaharahare māyayoddhe(?) sarppammāsthāḥ sammohajāle grahiṇavalaripo gūhamāmatsarāgniṃ | nairātmye hetvabhāve praṇidhivigamane cittamātre ramadhvam (|) vaktrairevañcaturbhirjagadavatu diśana herukaśrīśarīraṃ ||"
+      notes: "Footnote 3 gives the beginning and the end (verses not all transcribed). Status printed as a ditto mark."

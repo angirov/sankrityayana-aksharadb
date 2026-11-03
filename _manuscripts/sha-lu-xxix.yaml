@@ -1,0 +1,19 @@
+vol_no: XXIX
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [42], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
+_works:
+  _contains:
+    - id: satasahasrika-prajnaparamita
+      item_no: 289
+      name_as_printed: "Śatasāhastrikā prajñāpāramitā"
+      tibetan_translation: true
+      script: "Māgadhī"
+      size_inches: "24×2¼"
+      leaves: "276"
+      lines_per_page: "7"
+      status: "Complete (?)"
+      notes: "Footnote 2: it seems to be a part of the Śatasāhasrikā of Sa-skya (XX-XXIII), i.e. no. 216. Status printed as a ditto mark; author “..”."

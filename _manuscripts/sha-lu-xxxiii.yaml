@@ -1,0 +1,21 @@
+vol_no: XXXIII
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [42], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
+_works:
+  _contains:
+    - id: katantravrttipanjika
+      item_no: 293
+      no_in_volume: 1
+      name_as_printed: "Kātantravṛttipaṃjikā"
+      author_as_printed: "Trilocanadāsa"
+      tibetan_translation: true
+      script: "Māgadhī"
+      size_inches: "22¼×2"
+      leaves: "6"
+      lines_per_page: "6"
+      status: "Incomplete"
+      notes: "Page 42."
