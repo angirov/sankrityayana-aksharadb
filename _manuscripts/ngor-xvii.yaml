@@ -1,0 +1,41 @@
+vol_no: XVII
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [36], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
+_works:
+  _contains:
+    - id: hevajratippana
+      item_no: 91
+      no_in_volume: 1
+      name_as_printed: Hevajraṭippaṇa
+      author_as_printed: Saroruvavajra
+      script: Māgadhī
+      size_inches: 11⅓×2⅙
+      leaves: "31"
+      lines_per_page: "7"
+      status: Complete
+      notes: "Author printed so (for Saroruha°)."
+    - id: hevajratika
+      item_no: 92
+      no_in_volume: 2
+      name_as_printed: Hevajraṭīkā
+      script: Māgadhī
+      size_inches: 11⅓×2⅙
+      leaves: "31"
+      lines_per_page: "7"
+      status: Complete
+      colophon: "samvatsara 210 (? 1090 A. D.) māghamāse śrī ra u dharmamahāvihārasthāne tasmin varṣe saṃghabhaṭṭārakaiḥ pañcāśatam śuddha dhānyamānikāḥ pradattā aṅkatopi dhānyamāni 50 || dvitīyavarṣe śivakā taṇḍuladhānye pañcāśanmānikāḥ | aṅkatopi dhānyamāni 50 || tṛtīyavarṣe ārdradhānyamānikāḥ sārddhadaśa jaṭṭulagrāmasya bhūpamusaṃjñāgrāmasya dhānyamāni sapta[daśa] | aṅkatopi dhānyamāni 17 || caturthe jaṭṭulagrāmasya dhānyamānikā daśa ...|"
+      notes: "Footnote 1 gives the colophon, a record of grants of grain. Script, size and status printed as ditto marks."
+    - id: hevajrasadhana-tattvavatara
+      item_no: 93
+      no_in_volume: 3
+      name_as_printed: Hevajrasādhana (tattvāvatāra)
+      script: Māgadhī
+      size_inches: 11⅓×2⅙
+      leaves: "13"
+      lines_per_page: "7"
+      status: Complete
+      notes: "Script, size and status printed as ditto marks."

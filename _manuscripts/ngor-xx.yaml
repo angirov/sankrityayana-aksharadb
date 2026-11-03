@@ -1,0 +1,20 @@
+vol_no: XX
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [36, 37], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
+_works:
+  _contains:
+    - id: tyadyantaprakriya
+      item_no: 104
+      no_in_volume: 1
+      name_as_printed: Tyādyantaprakriyā (kalāpa) T
+      author_as_printed: Sarvadhara
+      tibetan_translation: true
+      script: Māgadhī
+      size_inches: 12⅔×2⅙
+      lines_per_page: "6"
+      status: Complete (?)
+      notes: "Script and status printed as ditto marks; leaves “..”."
