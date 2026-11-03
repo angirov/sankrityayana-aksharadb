@@ -34,6 +34,7 @@ Open questions are in `progress.md`.
 - A run of numbered titles that starts a new count (1, 2, ...) without a printed vol. no. is an
   unnumbered volume, keyed by location + first item number (`chhag-pe-lha-khang-186`).
 - A footnote whose number points to one row but whose content clearly describes another (1937, p. 28) is assigned by its content, said so in the notes, and the notes are flagged.
+- A work in several physical volumes given one entry and a range of vol. nos. (1937 no. 216, vols. XX–XXIII) is one manuscript record, `vol_no: XX-XXIII`.
 - Long quotations in footnotes (1938 Spos-khang, pp. 148–162: several pages of verse and prose)
   are not transcribed into the records; the records say where they are. Their text is to come
   with the page texts (`.md`) of those pages, a later step.

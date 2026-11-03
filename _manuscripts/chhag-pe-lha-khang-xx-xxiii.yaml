@@ -1,0 +1,21 @@
+vol_no: XX-XXIII
+_locations:
+  _kept-in:
+    - id: chhag-pe-lha-khang
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [30], heading: "VI. Chhag-pe-lha-khang in Lha-Khang-Chhenmo of Sa-skya Monastery. (Continued From Volume XXI, Part I)"}
+_works:
+  _contains:
+    - id: satasahasrika-prajnaparamita
+      item_no: 216
+      name_as_printed: "Śatasāhastrikā prajñāpāramitā"
+      tibetan_translation: true
+      script: "Kuṭilā"
+      size_inches: "24×2¼"
+      leaves: "1160"
+      lines_per_page: "7,6"
+      status: "Complete"
+      colophon: "(vol. II, p. 262a) deyadharmoyampravaramahāyānayāyināṃ śrīuttarāpatha saskya adhivāśina paṇḍitaśrīkīrttidhvajasya yadatra....|| śrīnepālamaṇḍalakāṣṭhamaṇḍapādhivāsina ratna upādhyāyena likhitaṃ || śreyo'stu || samvat 403 (N. E.=1283 A. C.) phālguṇaśuklapūrṇamāsyāṃ śaniścaravāśare || śrīmahārājādhirājaparameśvaraparamabhaṭārakaḥ śrīśrīanantamāladevasya vijayarāje likhitaṃ pustakamidaṃ || — (vol. III, p. 345a) deyadharmoyaṃ pravaramahā(yāna)yāyina śrī [blank] || śrī lalitapuryāmmahānagaryāṃ śrīnavamlake śrīmadendriyadevarājasaṃskārita śrīya(?ja)ya manoharavarmma mahāvihārāddhivāśī gṛhāśramabhikṣvācāryakāyastha sugatarakhitena likhitamidaṃ......|| śrīnepāla hāyaṇa 404 (N. E.=1284 A. C.) phālgunī śuklapakṣe triyodaśyāntithauḥ maghanakṣatre | dhṛtiyoge vṛhaspatidine likhiteti || śrīmataḥ rājāddhirājyaragavaṃsāvatāraśrīśrīma(da)nantamāllarāje likhitamiti || — (vol. IV, p. 270a) ......parivarttaḥ saptatriṃśatitamaḥ samāptamiti || || udakānalacaurebhyo mūṣikebhyastathaiva ca | rakṣitavyamprayatnena mayā kaṣṭena lekhitaḥ || deyadharmoyampravarapravaramahāyānayāyinaḥ himavaṃtapārśve śākyabhikṣuśrīkīrttidhvajapaṇḍitasya paramakalyāṇamitrasyā |...| samvat 403 (N. E.=1283 A. C.) prathamāṣāḍhaśuklapūrṇamāsyāṃ śaniścaravāśare | mahārājādhirājaparameśvaraparamabhaṭṭāraka śrīma(da)nantamalledevasyavijayarāje | śrīne(pā)lamaṇḍalakāṣṭamaṇḍapa nāmādhivāśina upāśakanārāyaṇena likhitaṃ ||"
+      notes: "One entry for four volumes (vols. XX–XXIII), kept here as one manuscript. Footnote 1: in four volumes which are separately paged (I, 286; II, 259; III, 345; IV, 270); except the third volume which has 6 lines, in all other volumes there are 7 lines in each page. On page 186a “śrīkīrttidhvajena śoddhite (? śodhitaṃ) pustaku(?ka)midaṃ”: this book was specially written for Kīrttidhvaja (Tibetan Grags-pa-rgyal-mtshan, the third Sa-skya hierarch, 1182–1216 A. C.), and the above writing is by his own hand; perhaps he compared this MS. with some other one, as there are corrections by the same hand. It gives the colophons of the second, third and fourth volumes; the fourth volume is written in good hand. Author “..”."
+      uncertain_fields: [colophon]
