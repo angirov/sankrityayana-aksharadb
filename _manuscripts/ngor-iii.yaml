@@ -1,0 +1,20 @@
+vol_no: III
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [32], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
+_works:
+  _contains:
+    - id: astasahasrika-prajnaparamita
+      item_no: 57
+      name_as_printed: Aṣṭasāhasrikāprajñāpāramitā T
+      tibetan_translation: true
+      script: Rañjana
+      size_inches: 22⅔×2
+      leaves: "174"
+      lines_per_page: "6"
+      status: Complete
+      notes: "Title and script printed as ditto marks. Footnote 5: beautiful paintings on three leaves and two wooden covers."
+notes: Paintings on three leaves and two wooden covers.

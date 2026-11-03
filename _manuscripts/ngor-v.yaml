@@ -1,0 +1,20 @@
+vol_no: V
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [32], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
+_works:
+  _contains:
+    - id: astasahasrika-prajnaparamita
+      item_no: 59
+      name_as_printed: Aṣṭasāhasrikāprajñāpāramitā T
+      tibetan_translation: true
+      script: Rañjana
+      size_inches: 21⅓×2⅙
+      lines_per_page: "5"
+      status: Incomplete
+      colophon: "saurājabhadrasutasya paramopāsakarisokasya yadatrapuṇyaṃ... mahārājādhirāja ...ka paramasaugata śrīmadrāmapāladeva (1078-1120 A. D.) prabarddhamānavijayarājasamvat 8 jeṣṭhadine 6 keṃṅagalakodo likhiteyaṃ ...|"
+      notes: "Footnote 8 gives the colophon. Leaves printed “..”."
+      uncertain_fields: [colophon]

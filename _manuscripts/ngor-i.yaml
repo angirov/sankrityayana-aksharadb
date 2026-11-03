@@ -4,7 +4,7 @@ _locations:
     - id: ngor
 _publications:
   _described-in:
-    - {id: sankrtyayana1935, pages: [31], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
+    - {id: sankrtyayana1935, pages: [31, 32], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
 _works:
   _contains:
     - id: arthaviniscayasutra
@@ -37,3 +37,60 @@ _works:
       leaves: "23"
       status: Incomplete
       notes: Script and size printed as ditto marks.
+    - id: bhutadamarabhattarakasadhana
+      item_no: 50
+      no_in_volume: 4
+      name_as_printed: Bhūtaḍāmarabhaṭṭārakasādhana
+      script: Vartula
+      size_inches: 22⅔×2
+      leaves: "8"
+      status: Complete
+      notes: "Page 32. Script printed as a ditto mark."
+    - id: bhutadamaramandalopayika
+      item_no: 51
+      no_in_volume: 5
+      name_as_printed: Bhūtaḍāmaramaṇḍalopayika
+      author_as_printed: Subhūtipālita
+      script: Vartula
+      size_inches: 22⅔×2
+      leaves: "13"
+      status: Complete
+      colophon: "...samvat 51 pauṣadinaṃ pustakeyaṃ bhikṣuśīlākaraguptasya |"
+      notes: "Page 32. Footnote 1 gives the colophon; footnote 2 on the author: “mahāpaṃḍitamahāmaṃḍalācārya |”. Script, size and status printed as ditto marks."
+    - id: kurukullakalpa
+      item_no: 52
+      no_in_volume: 6
+      name_as_printed: Kurukullākalpa
+      script: Vartula
+      size_inches: 22⅔×2
+      leaves: "10"
+      status: Complete
+      notes: "Page 32. Script, size and status printed as ditto marks."
+    - id: adikarmavatara
+      item_no: 53
+      no_in_volume: 7
+      name_as_printed: Ādikarmāvatāra
+      author_as_printed: Mañjukīrti
+      script: Māgadhī
+      size_inches: 22⅔×2
+      leaves: "13"
+      status: Complete
+      notes: "Page 32. Footnote 3 on the author: “paṇḍitasthavira |”. Size and status printed as ditto marks."
+    - id: buddha-pujavidhi
+      item_no: 54
+      no_in_volume: 8
+      name_as_printed: Buddha... (pūjāvidhi)
+      author_as_printed: Mañjukīrti
+      size_inches: 22⅔×2
+      leaves: "10"
+      status: Complete
+      notes: "Page 32. Author, size and status printed as ditto marks; script “..”."
+    - id: adikarmavatarapratibaddha
+      item_no: 55
+      no_in_volume: 9
+      name_as_printed: Ādikarmāvatārapratibaddha
+      author_as_printed: Mañjukīrti
+      size_inches: 22⅔×2
+      leaves: "5"
+      status: Complete
+      notes: "Page 32. Author, size and status printed as ditto marks; script “..”."

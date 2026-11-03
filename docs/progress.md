@@ -5,7 +5,7 @@ Inventory and scans: the `pages` list of each `_publications/<key>.yaml` is the 
 
 | Publication | Inventory | Scans | Texts (.md) | Tables |
 |---|---|---|---|---|
-| sankrtyayana1935 | done (PDF pp. 1–15: 2 front, 6 text, 2 plates, 17 tables, 3 blanks) | done | not started (pp. 21–26) | pp. 27–31 done; pp. 32–43 not started |
+| sankrtyayana1935 | done (PDF pp. 1–15: 2 front, 6 text, 2 plates, 17 tables, 3 blanks) | done | not started (pp. 21–26) | pp. 27–32 done; pp. 33–43 not started |
 | sankrtyayana1937 | only pp. 54–57 | not started | not started | not started |
 | sankrtyayana1938 | not started | not started | not started | not started |
 
@@ -18,7 +18,8 @@ Inventory and scans: the `pages` list of each `_publications/<key>.yaml` is the 
 | 29 | Ṣa-lu, nos. 13–26 | done | Status column printed below the titles, read in order. Size of no. 13's script is a ditto from p. 28. |
 | 30 | Ṣa-lu, nos. 27–37 | done | Vol. VIII (Ratnakīrti) runs over pp. 29–30. No. 27 printed Cittādvaitaprakaraṇavāda; no. 34's author printed Āryakuddāliyāda. |
 | 31 | Ṣa-lu, nos. 38–46; IV. Ngor, nos. 47–49 | done | No. 41 has no title. Statuses of vol. XI are dittos of no. 38 (Incomplete). |
-| 32–42 | Ngor, nos. 50–178 | not started | |
+| 32 | Ngor, nos. 50–59 | done | Vol. I runs over pp. 31–32. Colophons of nos. 58 (“hca (?)”) and 59 to be checked. |
+| 33–42 | Ngor, nos. 60–178 | not started | |
 | 42–43 | V. Gu-rim-lha-khang library of Sa-skya, nos. 179–184 | not started | p. 43 has a long colophon in verse |
 
 ## Open questions
