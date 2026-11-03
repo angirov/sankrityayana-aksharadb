@@ -1,0 +1,19 @@
+vol_no: XXVII
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [41], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
+_works:
+  _contains:
+    - id: astasahasrika-prajnaparamita
+      item_no: 287
+      name_as_printed: "Aṣṭasāhastrikā prajñāpāramitā"
+      tibetan_translation: true
+      script: "Rañjana"
+      size_inches: "22×2"
+      leaves: "393"
+      lines_per_page: "4"
+      status: "Complete"
+      notes: "Status printed as a ditto mark; author “..”."

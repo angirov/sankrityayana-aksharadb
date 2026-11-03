@@ -1,0 +1,21 @@
+vol_no: XXV
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [41], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
+_works:
+  _contains:
+    - id: mahamayatantra
+      item_no: 283
+      no_in_volume: 10
+      name_as_printed: "Mahāmāyātantra"
+      tibetan_translation: true
+      script: "Kuṭilā"
+      size_inches: "11½×1¾"
+      leaves: "29"
+      lines_per_page: "4,5"
+      status: "Complete"
+      notes: "Printed with number 10 in the volume, continuing the count of vol. XXIV (1–9): perhaps it belongs to vol. XXIV, or the count runs on."
+      uncertain_fields: [no_in_volume]

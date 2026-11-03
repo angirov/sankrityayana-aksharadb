@@ -4,7 +4,7 @@ _locations:
     - id: sha-lu
 _publications:
   _described-in:
-    - {id: sankrtyayana1937, pages: [40], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
+    - {id: sankrtyayana1937, pages: [40, 41], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
 _works:
   _contains:
     - id: vimalaprabha
@@ -43,3 +43,64 @@ _works:
       incipit: "śrīvajrabhairavaṃ vīraṃ natvā śrīvajrabhairave tantre kumāracandreṇa pañjikā kriyate laghu || athetyādi | ata iti vṛhanmañjuśrītantre sarvavajrabhairavasādhanāt |"
       explicit: "iti saptakalpapañjikā || iti śrīvajrabhairavamahātantrapañjikā samāptā || kumāracandravatpuṇyaṃ yatprāptaṃ pañcikākṛteḥ | āstāṃ samastalokoyaṃ tena śrīvajrabhairave |"
       notes: "Footnote 5 gives the beginning and the end; there is another copy of it, XXXV. 4. Script printed as a ditto mark."
+    - id: mahavajrabhairavatantraraja
+      item_no: 277
+      no_in_volume: 4
+      name_as_printed: "Mahāvajrabhairavatantrarāja"
+      script: "Māgadhī"
+      size_inches: "11×2¼"
+      leaves: "7"
+      lines_per_page: "7"
+      status: "Incomplete"
+      colophon: "likhitamidaṃ paṇḍitavimalacandreṇa......|"
+      notes: "Page 41. Footnote 1: first 7 leaves are missing; it gives the colophon. Script and size printed as ditto marks; author “..”."
+    - id: muladevavakyasastra
+      item_no: 278
+      no_in_volume: 5
+      name_as_printed: "Mūladevavākyaśāstra"
+      script: "Kuṭilā"
+      size_inches: "12×1¾"
+      leaves: "10"
+      lines_per_page: "5,6"
+      status: "Incomplete"
+      colophon: "mūladevasya vākyaśāstra samāptaḥ || || samvat ā (? 200 N. E.=1080 A. C.) ......niśukla tṛtīyāyāṃ śrī manmahārājaparameśvaraśrīsiṃhadevavijayarājye ||"
+      notes: "Page 41. Footnote 2: one leaf is missing; it gives the end. Status printed as a ditto mark; author “..”."
+    - id: unidentified-1937-279
+      item_no: 279
+      no_in_volume: 6
+      name_as_printed: "(Kāmaśāstra)"
+      script: "Māgadhī"
+      size_inches: "11¾×2¼"
+      leaves: "3"
+      lines_per_page: "8"
+      status: "Incomplete"
+      incipit: "idānīṃ yena punarbuddhatvamiṣyate sa upāya ucyate |"
+      notes: "Page 41. Footnote 3 gives the beginning. Status printed as a ditto mark; author “..”."
+    - id: sadangayogatika
+      item_no: 280
+      no_in_volume: 7
+      name_as_printed: "Ṣaḍaṃgayogaṭīkā"
+      tibetan_translation: true
+      script: "Kuṭilā"
+      size_inches: "12×1½"
+      leaves: "7"
+      lines_per_page: "4,5"
+      status: "Complete"
+      notes: "Page 41. Author “..”. Footnote 4 (“Begins—avadhāritasamastālaṅkāraśāstraḥ suparīśīlitāśeṣakalākalāpo brahmādvaitavādī kaviratu evādau namaskṛtinna cakāra || parāmṛśati sākṣātkaroti ......||”) describes a commentary on a poem by an Advaita author, not a Ṣaḍaṅgayoga text: it may belong to another row."
+      uncertain_fields: [incipit]
+    - id: vasudharadharani
+      item_no: 281
+      no_in_volume: 8
+      name_as_printed: "Vasudhārādhāraṇī"
+      script: "Kuṭilā"
+      size_inches: "12½×2"
+      leaves: "8"
+      lines_per_page: "5"
+      status: "Incomplete"
+      notes: "Page 41. Script printed as a ditto mark; author “..”."
+    - id: miscellaneous-leaves
+      item_no: 282
+      no_in_volume: 9
+      name_as_printed: "Miscellaneous leaves"
+      leaves: "8"
+      notes: "Page 41."

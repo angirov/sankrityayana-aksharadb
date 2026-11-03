@@ -1,0 +1,42 @@
+vol_no: XXVI
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [41], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
+_works:
+  _contains:
+    - id: astadhyayi-taddhita
+      item_no: 284
+      no_in_volume: 1
+      name_as_printed: "(Taddhita)"
+      author_as_printed: "Pāṇini"
+      script: "Maithilī"
+      size_inches: "11¼×1¾"
+      leaves: "27"
+      lines_per_page: "6"
+      notes: "Status blank."
+    - id: candravyakaranavrtti
+      item_no: 285
+      no_in_volume: 2
+      name_as_printed: "Cāndravyākaraṇavṛtti"
+      author_as_printed: "Candragomī"
+      tibetan_translation: true
+      script: "Māgadhī"
+      size_inches: "12¾×2"
+      leaves: "11"
+      lines_per_page: "6"
+      status: "Incomplete"
+    - id: candravyakarana-unadi
+      item_no: 286
+      no_in_volume: 3
+      name_as_printed: "Cāndravyākaraṇa (Uṇādi)"
+      author_as_printed: "Candragomī"
+      tibetan_translation: true
+      script: "Kuṭilā"
+      size_inches: "13½×2¼"
+      leaves: "45"
+      lines_per_page: "6"
+      status: "Complete"
+      notes: "Footnote 5: paper MS. Author printed as a ditto mark."
