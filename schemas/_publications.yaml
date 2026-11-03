@@ -1,0 +1,37 @@
+type: object
+additionalProperties: false
+required: [author, year, title, journal, volume, pages]
+
+properties:
+  author: {type: string}
+  year: {type: integer}
+  title: {type: string}
+  journal: {type: string}
+  volume: {type: string, description: "As printed, e.g. XXI"}
+  part: {type: string}
+  citation: {type: string, description: "The full reference, ready to quote"}
+  scan:
+    type: string
+    description: "File name of the source scan (kept outside the repository)"
+  pages:
+    description: >
+      Every printed page of the article, in order. A page's scan and text are the
+      attachments <key>_p<NNN>.png and <key>_p<NNN>.md.
+    type: array
+    minItems: 1
+    items:
+      type: object
+      additionalProperties: false
+      required: [page, pdf_page, kind]
+      properties:
+        page: {type: integer, minimum: 1, description: "Printed page number"}
+        pdf_page: {type: integer, minimum: 1}
+        side: {enum: [left, right, single]}
+        rotated: {type: boolean, description: "Printed sideways (wide tables)"}
+        kind:
+          description: >
+            text: prose; table: a list of manuscripts; plate: photographs;
+            chart: a script chart; front: cover or contents of the issue
+          enum: [text, table, plate, chart, front, blank]
+        notes: {type: string}
+  notes: {type: string}

@@ -1,0 +1,17 @@
+vol_no: II
+_locations:
+  _kept-in:
+    - id: kun-de-ling
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [27], heading: "I. Kun-de-ling monastery (Lhasa)"}
+_works:
+  _contains:
+    - id: saddharmapundarika-sutra
+      item_no: 2
+      name_as_printed: Saddharmapuṇḍarīkasūtra
+      tibetan_translation: true
+      script: Māgadhī
+      lines_per_page: "5"
+      colophon: ".....sambat ā........(N.E. 200?=980? A.D.)"
+      notes: "Footnote 2 gives the colophon, fragmentary in the source. Script printed as a ditto mark; size and leaves as “..” (not given)."

@@ -1,0 +1,30 @@
+type: object
+additionalProperties: false
+required: [title]
+
+$defs:
+  publicationLink:
+    type: object
+    additionalProperties: false
+    required: [id]
+    properties:
+      id: {type: string}
+      pages: {type: array, items: {type: integer}, minItems: 1}
+      heading: {type: string, description: "The list's heading as printed"}
+
+properties:
+  title: {type: string}
+  description: {type: string}
+  legend:
+    type: object
+    description: "Abbreviations and signs the list uses, e.g. {x: copied, S: Sa-skya}"
+    additionalProperties: {type: string}
+  _publications:
+    type: object
+    additionalProperties: false
+    properties:
+      _published-in:
+        type: array
+        items: {$ref: "#/$defs/publicationLink"}
+        minItems: 1
+  notes: {type: string}

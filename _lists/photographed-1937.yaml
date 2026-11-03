@@ -1,0 +1,13 @@
+title: MSS. Photographed or copied
+description: >
+  Manuscripts Sāṅkṛtyāyana photographed or copied during his second journey,
+  printed after the monastery catalogue of 1937, grouped by subject.
+legend:
+  x: copied (the others are photographed)
+  S: Sa-skya
+  Ng: Ngor
+  Sh: Sha-lu
+_publications:
+  _published-in:
+    - {id: sankrtyayana1937, pages: [54, 55, 56, 57], heading: "MSS. Photographed or copied"}
+notes: The list stops at no. 55 on p. 57 without a total; whether it continues is to be checked in a full copy of the issue.

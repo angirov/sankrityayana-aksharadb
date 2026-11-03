@@ -1,0 +1,27 @@
+# Rules per collection, checked by `aksharadb validate`.
+
+collections:
+  publications:
+    # a Better BibTeX-style citekey: sankrtyayana1935
+    id_pattern: "^[a-z]+[0-9]{4}[a-z]?$"
+    allowed_attachments:
+      # p027.png: the scan of printed page 27; p027.md: the text of that page
+      - extension: png
+        tag_pattern: "^p[0-9]{3}$"
+      - extension: md
+        tag_pattern: "^p[0-9]{3}$"
+  locations:
+    id_pattern: "^[a-z0-9-]{2,80}$"
+    allowed_attachments: []
+  lists:
+    id_pattern: "^[a-z0-9-]{2,80}$"
+    allowed_attachments: []
+  manuscripts:
+    id_pattern: "^[a-z0-9-]{2,80}$"
+    allowed_attachments: []
+  works:
+    id_pattern: "^[a-z0-9-]{2,80}$"
+    allowed_attachments: []
+  authors:
+    id_pattern: "^[a-z0-9-]{2,80}$"
+    allowed_attachments: []

@@ -1,0 +1,13 @@
+type: object
+additionalProperties: false
+required: [name]
+
+properties:
+  name: {type: string, description: "Normalised name, e.g. Kun-de-ling"}
+  names_as_printed:
+    type: array
+    items: {type: string}
+    description: "Headings as the publications print them"
+  kind: {enum: [monastery, library, private]}
+  place: {type: string, description: "Town or region, e.g. Lhasa"}
+  notes: {type: string}

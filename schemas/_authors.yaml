@@ -1,0 +1,8 @@
+type: object
+additionalProperties: false
+required: [name]
+
+properties:
+  name: {type: string, description: "Normalised name, IAST"}
+  other_names: {type: array, items: {type: string}}
+  notes: {type: string}

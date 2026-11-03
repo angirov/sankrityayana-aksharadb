@@ -1,0 +1,18 @@
+vol_no: I
+_locations:
+  _kept-in:
+    - id: kun-de-ling
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [27], heading: "I. Kun-de-ling monastery (Lhasa)"}
+_works:
+  _contains:
+    - id: astasahasrika-prajnaparamita
+      item_no: 1
+      name_as_printed: Aṣṭasāhasrikā-prajñāpāramitā
+      tibetan_translation: true
+      script: Māgadhī
+      lines_per_page: "6"
+      colophon: ".....prabarddhamānaśrīmanmahīpāla (974-1026 A.D.) kalyāṇaṃ bhūya (?) rājye sambat...."
+      notes: "Footnote 1 gives the colophon. Size and leaves printed as “..” (not given)."
+      uncertain_fields: [colophon]

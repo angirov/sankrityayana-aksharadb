@@ -1,0 +1,26 @@
+type: object
+additionalProperties: false
+required: [title]
+
+$defs:
+  authorLink:
+    type: object
+    additionalProperties: false
+    required: [id]
+    properties:
+      id: {type: string}
+      uncertain: {type: boolean}
+      comment: {type: string}
+
+properties:
+  title: {type: string, description: "Normalised title, IAST"}
+  other_titles: {type: array, items: {type: string}}
+  _authors:
+    type: object
+    additionalProperties: false
+    properties:
+      _composed-by:
+        type: array
+        items: {$ref: "#/$defs/authorLink"}
+        minItems: 1
+  notes: {type: string}

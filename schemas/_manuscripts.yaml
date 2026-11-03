@@ -1,0 +1,106 @@
+# A manuscript is one physical volume ("Vol. No." in the monastery catalogues).
+# What the volume holds is a list of links to works; everything a list says about
+# one title in this volume (number, script, size, colophon, ...) is an attribute
+# of that link.
+type: object
+additionalProperties: false
+required: [_works, _publications]
+
+$defs:
+  locationLink:
+    type: object
+    additionalProperties: false
+    required: [id]
+    properties:
+      id: {type: string}
+      comment: {type: string}
+
+  publicationLink:
+    type: object
+    additionalProperties: false
+    required: [id, pages]
+    properties:
+      id: {type: string}
+      pages:
+        description: "Printed pages of the entry, footnotes included"
+        type: array
+        items: {type: integer}
+        minItems: 1
+      heading: {type: string, description: "Section heading as printed"}
+
+  listLink:
+    type: object
+    additionalProperties: false
+    required: [id]
+    properties:
+      id: {type: string}
+      item_no: {type: integer, description: "Number in the list, as printed"}
+      catalogue_no: {type: string, description: "Shelf mark or number in the list's catalogue"}
+      reproduction: {enum: [photographed, copied]}
+      comment: {type: string}
+
+  contentLink:
+    type: object
+    additionalProperties: false
+    required: [id, name_as_printed]
+    properties:
+      id: {type: string}
+      item_no: {type: integer, description: "Running number of the title in the section"}
+      sub_item_no: {type: integer, description: "Number inside a bundle of miscellaneous leaves"}
+      subject: {type: string, description: "Subject heading, e.g. Logic (list of 1937)"}
+      name_as_printed: {type: string, description: "IAST; editorial marks kept as printed"}
+      name_gloss: {type: string}
+      author_as_printed: {type: string}
+      tibetan_translation: {type: boolean, description: "Marked T: preserved in Tibetan translation"}
+      script: {type: string}
+      size_inches: {type: string, description: "As printed, e.g. 11½×2½"}
+      size_slokas: {type: string}
+      leaves: {type: string}
+      lines_per_page: {type: string}
+      page_range: {type: string}
+      status: {type: string, description: "As printed: Complete, Incomplete, ..."}
+      colophon: {type: string, description: "IAST, from the footnote"}
+      notes: {type: string}
+      uncertain_fields:
+        type: array
+        items: {type: string}
+        description: "Fields whose reading should be checked against the scan"
+
+properties:
+  vol_no: {type: string, description: "Volume number as printed (roman)"}
+  _locations:
+    type: object
+    additionalProperties: false
+    properties:
+      _kept-in:
+        type: array
+        items: {$ref: "#/$defs/locationLink"}
+        minItems: 1
+        maxItems: 1
+  _publications:
+    type: object
+    additionalProperties: false
+    required: [_described-in]
+    properties:
+      _described-in:
+        type: array
+        items: {$ref: "#/$defs/publicationLink"}
+        minItems: 1
+  _lists:
+    type: object
+    additionalProperties: false
+    properties:
+      _listed-in:
+        type: array
+        items: {$ref: "#/$defs/listLink"}
+        minItems: 1
+  _works:
+    type: object
+    additionalProperties: false
+    required: [_contains]
+    properties:
+      _contains:
+        type: array
+        items: {$ref: "#/$defs/contentLink"}
+        minItems: 1
+  notes: {type: string}

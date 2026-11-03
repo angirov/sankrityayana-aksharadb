@@ -1,0 +1,21 @@
+vol_no: III
+_locations:
+  _kept-in:
+    - id: kun-de-ling
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [27], heading: "I. Kun-de-ling monastery (Lhasa)"}
+_works:
+  _contains:
+    - id: vadanyayatika
+      item_no: 3
+      name_as_printed: Vādanyāyaṭīkā (Vipañcitārthā)
+      author_as_printed: Śāṃtarakṣita
+      tibetan_translation: true
+      script: (Kuṭilā)
+      size_inches: 11½×2½
+      leaves: "90"
+      lines_per_page: (8 or 9)
+      colophon: "kṛtiriyaṃ śāntarikṣa [?°rakṣita]pādānāmiti sambat ācū 2 (272? or 1152 A.D.) śrāvaṇakṛṣṇa ekādaśyāṃ likhitaṃ mayā | rājādhirājaparameśvaraparamabhaṭṭārakaḥ śrīmadānandadevapādīyavijayarājye śubhadine || granthasyāsya pramāṇañca niyutairnnavaśatādhikaṃ | sahasradvitayaṃ samyaksaṃkhyātampūrvvaśūribhiḥ || ..."
+      notes: "Footnote 3 gives the colophon (manuscript page 89b); footnote 4 on Vipañcitārthā: “Stan-gyur Mdo CII. 2, CXII. 4.” The bracket in the colophon is the source's own."
+      uncertain_fields: [colophon]
