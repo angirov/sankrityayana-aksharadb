@@ -1,0 +1,39 @@
+vol_no: XXXVII
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [42], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
+_works:
+  _contains:
+    - id: sarvajnasiddhisamksepa
+      item_no: 168
+      no_in_volume: 1
+      name_as_printed: Sarvajñasiddhisaṃkṣepa
+      author_as_printed: Śaṃkaranandana
+      script: Varttula
+      size_inches: 10⅔×2
+      lines_per_page: "7"
+      status: Complete
+      notes: "Leaves “..”."
+    - id: nyaya-commentary-1935-169
+      item_no: 169
+      no_in_volume: 2
+      name_as_printed: A Commentary on some Nyāya text
+      script: Rañjana
+      size_inches: 11⅓×2
+      leaves: "70"
+      lines_per_page: "6"
+      status: Complete
+      notes: "“Rañjana” is printed at the left of the script column, with “..” (author) below it. Status printed as a ditto mark."
+    - id: tarkarahasya
+      item_no: 170
+      no_in_volume: 3
+      name_as_printed: Tarkarahasya
+      script: Nevārī
+      size_inches: 10⅔×2⅙
+      leaves: "50"
+      lines_per_page: "7"
+      status: Complete
+      notes: "Status printed as a ditto mark."

@@ -1,0 +1,69 @@
+vol_no: XXXVIII
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [42], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
+_works:
+  _contains:
+    - id: vadanyayatika-1935-171
+      item_no: 171
+      no_in_volume: 1
+      name_as_printed: Vādanyāyaṭīkā (?)
+      script: Kuṭilā
+      size_inches: 11⅓×2⅓
+      leaves: "42"
+      lines_per_page: "10"
+      status: Complete
+      notes: "Status printed as a ditto mark."
+    - id: ratirahasya
+      item_no: 172
+      no_in_volume: 2
+      name_as_printed: Ratirahasya
+      author_as_printed: Kokapaṃḍita
+      script: Kuṭilā
+      size_inches: 10⅔×2⅙
+      leaves: "17"
+      lines_per_page: "11"
+      status: Complete
+      notes: "Script and status printed as ditto marks."
+    - id: prajnalankarakarika
+      item_no: 173
+      no_in_volume: 3
+      name_as_printed: Prajñālaṃkārakārikā
+      script: Māgadhī
+      size_inches: 11⅓×2
+      leaves: "25"
+      lines_per_page: "6"
+      status: Complete
+      notes: "Status printed as a ditto mark."
+    - id: sarvajnasiddhikarika
+      item_no: 174
+      no_in_volume: 4
+      name_as_printed: Sarvajñasiddhikārikā
+      script: Māgadhī
+      size_inches: 11⅓×2
+      status: Complete
+      notes: "Script, size and status printed as ditto marks; leaves and lines “..”."
+    - id: agamapramanyakarika
+      item_no: 175
+      no_in_volume: 5
+      name_as_printed: Āgamaprāmāṇyakārikā
+      script: Māgadhī
+      size_inches: 11⅓×2
+      status: Complete
+      notes: "Script, size and status printed as ditto marks; leaves and lines “..”."
+    - id: vadanyaya
+      item_no: 176
+      no_in_volume: 6
+      name_as_printed: Vādanyāya * T
+      author_as_printed: Dharmakīrti
+      tibetan_translation: true
+      script: Kuṭilā
+      size_inches: 12×2⅓
+      leaves: "20"
+      lines_per_page: "9,10,11"
+      status: Complete
+      colophon: "kṛtiriyamācāryadharmakīrticaraṇānāṃ || t || alekhivāgīśvareṇeti |"
+      notes: "Footnote 1 gives the colophon. Footnote *: is in course of publication as an Appendix to the next June issue of J.B.O.R.S. Status printed as a ditto mark."

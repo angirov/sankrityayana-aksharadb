@@ -1,0 +1,18 @@
+vol_no: I
+_locations:
+  _kept-in:
+    - id: gu-rim-lha-khang
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [42], heading: "V. Gu-rim-lha-khang library of Sa-skya"}
+_works:
+  _contains:
+    - id: varttikalankara
+      item_no: 179
+      name_as_printed: Vārtikālaṃkāra †
+      author_as_printed: Prajñākaragupta
+      script: Vartula
+      size_inches: 27×4
+      leaves: "59"
+      lines_per_page: "10–19"
+      notes: "Footnote †: appearing as an Appendix in the next March issue of J.B.O.R.S. The status column reads “II,III Chapters”: the manuscript holds chapters II and III."
