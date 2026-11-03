@@ -4,7 +4,7 @@ _locations:
     - id: sha-lu
 _publications:
   _described-in:
-    - {id: sankrtyayana1937, pages: [44, 45], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
+    - {id: sankrtyayana1937, pages: [44, 45, 46], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
 _works:
   _contains:
     - id: saramanjari
@@ -99,3 +99,27 @@ _works:
       incipit: "yo vidhvastasamastavastuvimalajñānodayānākulaḥ (|) prajñopāyamatā kṛpā samarasādeko dvayodyotate | māmakyādikaṭākṣaṣaṭpadagaṇairādṛṣṭa vaktrāmbujastaṃ natvā paramaṃ sukhaṃ jinamayaṃ vajrāmṛtaṃ likhyate ||"
       explicit: "iti likhitamananta tantragarbhaṃ paramasukhādvayabuddhisiddhi hetoḥ | guṇiṣu vimalabhadranāmna etad yadi rucīraṃ priyamastu naḥ kṣamaṃtāṃ || anuṣṭup chandasā caitat gaṇyamānaṃ catuḥśataṃ | ślokaiḥ katipayairyuktaṃ vajrāmṛtanivandhanaṃ || śrīvajrāmṛtapañjikā samāptā || kṛtiriyamācāryavi ma la bha drapādānāṃ | likhāpiteyaṃ pustikā paṇḍitajinaśrīmitreṇa ||"
       notes: "Page 45. Script, size and status printed as ditto marks. Footnote 3 gives the beginning and the end, and adds “T. °ṭīkā”."
+    - id: kalyanakamadhenu
+      item_no: 304
+      no_in_volume: 8
+      name_as_printed: "Kalyāṇakāmadhenu"
+      author_as_printed: "Nāgārjuna"
+      tibetan_translation: true
+      script: "Māgadhī"
+      size_inches: "22¼×2"
+      leaves: "7"
+      lines_per_page: "7"
+      status: "Complete"
+      incipit: "praṇipatyāmārggadurggativinivāraṇakāraṇaparaṃ buddhaṃ | kalyāṇakāmadhenuṃ vivṛṇomi yathāptamāmnāyaiḥ || kalyāṇakāmadhenuṃ vakṣye siddhaikavīramantrāṅkāṃ | vidyāvidrumakoṣāṃ prapañcaratnāṅkurāṅkuritāṃ ||"
+      explicit: "ityāryanāgārjunapādaviracitakalyāṇakāmadhenuvivaraṇaḥ samāptaḥ |......likhāpitā pustikeyaṃ paṇḍitabhikṣujinaśrīmitreṇa svaparārthahetoriti || || likhitā ca vikramaśīlavihārāvasthāne mahīdharanāmneti ||"
+      notes: "Page 46. Script and size printed as ditto marks. Footnote 1 gives the beginning and the end; written at Vikramaśīla vihāra by Mahīdhara."
+    - id: pratisthavidhi
+      item_no: 305
+      no_in_volume: 9
+      name_as_printed: "Pratiṣṭhāvidhi etc."
+      script: "Māgadhī"
+      size_inches: "21¾×2"
+      leaves: "11"
+      lines_per_page: "6,7"
+      status: "Incomplete"
+      notes: "Page 46. Script printed as a ditto mark; author “..”."

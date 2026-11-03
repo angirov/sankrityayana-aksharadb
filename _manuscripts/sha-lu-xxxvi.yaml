@@ -1,0 +1,31 @@
+vol_no: XXXVI
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [46], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
+_works:
+  _contains:
+    - id: vimalaprabha
+      item_no: 306
+      no_in_volume: 1
+      name_as_printed: "Kālacakraṭīkā (Vimalaprabhā)"
+      tibetan_translation: true
+      script: "Kuṭilā"
+      size_inches: "22×2"
+      leaves: "45"
+      lines_per_page: "9"
+      status: "Incomplete"
+      notes: "Footnote 2: on the page 45a “lokadhāturnnāma paṭalaḥ |”, so it is only one chapter of the Vimalaprabhā. Status printed as a ditto mark; author “..”."
+    - id: mahakalacakra
+      item_no: 307
+      no_in_volume: 2
+      name_as_printed: "Mahākālacakra"
+      script: "Māgadhī"
+      size_inches: "22×2⅛"
+      leaves: "49×5"
+      lines_per_page: "7"
+      status: "Complete"
+      colophon: "iti dvādaśasāhasrādibuddhoddhṛte śrīmati kālacakre jñānapaṭalaḥ pañcamaḥ |......deyadharmoyaṃ pravaramahāyānayāyinaḥ śākyabhikṣu vi bhū ti ca ndra (1203 A. C.) sya"
+      notes: "Leaves printed “49×5”: 49 leaves and five rewritten ones. Footnote 3: some letters of leaves 46-49 were damaged, hence five more rewritten leaves were added at the end by a later hand; it gives the colophon of the new hand (Vibhūticandra). There are many notes on the MS. on the back of leaf 7a: “bhagavato nirvāṇakāla 1418, śaka 1143”, and a table of future eclipses (bhāvigrahaṇaṃ) for śaka 1133 (=1211 A. C.) to 1150 (=1228 A. C.), not transcribed. Author “..”."
