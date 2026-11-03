@@ -4,7 +4,7 @@ _locations:
     - id: sha-lu
 _publications:
   _described-in:
-    - {id: sankrtyayana1937, pages: [44], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
+    - {id: sankrtyayana1937, pages: [44, 45], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
 _works:
   _contains:
     - id: saramanjari
@@ -58,3 +58,44 @@ _works:
       status: "Complete"
       notes: "Footnote 3: see also XXIV. 4 (that is no. 276, numbered 3 in vol. XXIV: XXIV. 4 is no. 277; the cross-reference seems off by one). Status printed as a ditto mark."
       uncertain_fields: [notes]
+    - id: krsnayamaritantrapanjika
+      item_no: 301
+      no_in_volume: 5
+      name_as_printed: "Kṛṣṇayamāritantrapañjikā"
+      author_as_printed: "Dharmadāsa"
+      script: "Māgadhī"
+      size_inches: "22¼×2"
+      leaves: "32"
+      lines_per_page: "7"
+      status: "Complete"
+      incipit: "śrīmadyamadviṣamaśeṣaguṇaprasūtiṃ saṃvarttakāla......nīradanīlakāntim | cakṣustrayaṃ kuliśa khaḍgadharaṃ sakārtti cakrākṣakarpparabhṛtaṃ śirasā namāmi ||"
+      explicit: "śreyaḥ śāradacandravad yadabhave ko nāntatantrāt sphuṭād(|) bhūtārthasphuṭapañjikā likhanataḥ śrīdharma dā sa sya me | lokastena samasta eva......bhīva bhūyājjine (:|) bhūyāsañca tadarthamāhitamano nirvāti yāvanna saḥ || parameśvaraparamasaugatamahārājādhi |"
+      notes: "Page 45. Script, size and lines printed as ditto marks. Footnote 1 gives the beginning and the end."
+    - id: samajamandalopayika-nagabuddhi
+      item_no: 302
+      no_in_volume: 6
+      name_as_printed: "(Guhya) samājamaṇḍalopayika"
+      author_as_printed: "Nāgabuddhi"
+      tibetan_translation: true
+      script: "Māgadhī"
+      size_inches: "22¼×2"
+      leaves: "7"
+      lines_per_page: "7"
+      status: "Complete"
+      incipit: "ādināthaṃ namaskṛtya hyadvayajñānavigrahaṃ | maṇḍalāṅgamahamvakṣye vajraśiṣyahitodayaṃ |"
+      explicit: "ālokya tantrāṇi guruprasādād vahūni samyak pravicārya tajjñaiḥ (?) | prasannasaṃkṣiptapadaprabandhyaiḥ uktvā vidhiṃ viṃśatidhā vibhajya || yaḥ puṇyarāśiramito nicito mayādya tena prayātu janatā varavajradhṛktvaṃ | tenaivamātmayaśasā sahanāgavuddheḥ stheyāccīraṃ kṛtiriyaṃ varavajraratnamiti | samāpteyaṃ samājamaṇḍalopayikā mahāvajradharasya || kṛtiriyaṃ nāgabuddhipādānamiti ||......|| likhāpitā paṇḍitabhikṣujinaśrīmitreṇa | granthapramāṇaṃ 430 (|)"
+      notes: "Page 45. Script, size and status printed as ditto marks. Footnote 2 gives the beginning and the end."
+    - id: vajramrtatantrapanjika
+      item_no: 303
+      no_in_volume: 7
+      name_as_printed: "Vajrāmṛtatantrapaṃjikā"
+      author_as_printed: "Vimalabhadra"
+      tibetan_translation: true
+      script: "Māgadhī"
+      size_inches: "22¼×2"
+      leaves: "7"
+      lines_per_page: "7"
+      status: "Complete"
+      incipit: "yo vidhvastasamastavastuvimalajñānodayānākulaḥ (|) prajñopāyamatā kṛpā samarasādeko dvayodyotate | māmakyādikaṭākṣaṣaṭpadagaṇairādṛṣṭa vaktrāmbujastaṃ natvā paramaṃ sukhaṃ jinamayaṃ vajrāmṛtaṃ likhyate ||"
+      explicit: "iti likhitamananta tantragarbhaṃ paramasukhādvayabuddhisiddhi hetoḥ | guṇiṣu vimalabhadranāmna etad yadi rucīraṃ priyamastu naḥ kṣamaṃtāṃ || anuṣṭup chandasā caitat gaṇyamānaṃ catuḥśataṃ | ślokaiḥ katipayairyuktaṃ vajrāmṛtanivandhanaṃ || śrīvajrāmṛtapañjikā samāptā || kṛtiriyamācāryavi ma la bha drapādānāṃ | likhāpiteyaṃ pustikā paṇḍitajinaśrīmitreṇa ||"
+      notes: "Page 45. Script, size and status printed as ditto marks. Footnote 3 gives the beginning and the end, and adds “T. °ṭīkā”."
