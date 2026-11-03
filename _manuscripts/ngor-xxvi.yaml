@@ -4,7 +4,7 @@ _locations:
     - id: ngor
 _publications:
   _described-in:
-    - {id: sankrtyayana1935, pages: [38, 39], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
+    - {id: sankrtyayana1935, pages: [38, 39, 40], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
 _works:
   _contains:
     - id: hevajrasadhanopayika
@@ -263,4 +263,88 @@ _works:
       lines_per_page: "7"
       status: Complete
       notes: "Title printed as a ditto mark. Page 39. Script, size, lines and status printed as ditto marks."
+    - id: hevajracakravimsika
+      item_no: 142
+      no_in_volume: 24
+      name_as_printed: Hevajracakraviṃśikā
+      author_as_printed: Saroruhavajra
+      script: Kuṭilā
+      size_inches: 11⅓×2⅓
+      leaves: "-231"
+      lines_per_page: "7"
+      status: Complete
+      notes: "Page 40. Script, size, lines and status printed as ditto marks."
+    - id: herukastuti
+      item_no: 143
+      no_in_volume: 25
+      name_as_printed: Herukastuti
+      author_as_printed: Kaṇhapā
+      script: Kuṭilā
+      size_inches: 11⅓×2⅓
+      leaves: "-231"
+      lines_per_page: "7"
+      status: Complete
+      notes: "Page 40. Script, size, lines and status printed as ditto marks."
+    - id: hevajrayoginistuti
+      item_no: 144
+      no_in_volume: 26
+      name_as_printed: Hevajrayoginīstuti
+      script: Kuṭilā
+      size_inches: 11⅓×2⅓
+      leaves: "-235"
+      lines_per_page: "7"
+      status: Complete
+      notes: "Page 40. Script, size, lines and status printed as ditto marks."
+    - id: nairatmyastuti
+      item_no: 145
+      no_in_volume: 27
+      name_as_printed: Nairātmyastuti
+      script: Kuṭilā
+      size_inches: 11⅓×2⅓
+      leaves: "-235"
+      lines_per_page: "7"
+      status: Complete
+      notes: "Page 40. Script, size, lines and status printed as ditto marks."
+    - id: nairatmyasadhana-1935-146
+      item_no: 146
+      no_in_volume: 28
+      name_as_printed: Nairātmyasādhana
+      script: Kuṭilā
+      size_inches: 11⅓×2⅓
+      leaves: "-245"
+      lines_per_page: "7"
+      status: Complete
+      notes: "Page 40. Script, size, lines and status printed as ditto marks."
+    - id: nairatmyasadhana-ratnakarasanti
+      item_no: 147
+      no_in_volume: 29
+      name_as_printed: Nairātmyasādhana
+      author_as_printed: Ratnākaraśāṃti
+      script: Kuṭilā
+      size_inches: 11⅓×2⅓
+      leaves: "-249"
+      lines_per_page: "7"
+      status: Complete
+      notes: "Title printed as a ditto mark. Page 40. Script, size, lines and status printed as ditto marks."
+    - id: nairatmyasadhana-divakaracandra
+      item_no: 148
+      no_in_volume: 30
+      name_as_printed: Nairātmyasādhana
+      author_as_printed: Divākaracandra
+      script: Kuṭilā
+      size_inches: 11⅓×2⅓
+      leaves: "-267"
+      lines_per_page: "7"
+      status: Complete
+      notes: "Title printed as a ditto mark. Page 40. Script, size, lines and status printed as ditto marks."
+    - id: balicakravidhi
+      item_no: 149
+      no_in_volume: 31
+      name_as_printed: Balicakravidhi
+      script: Kuṭilā
+      size_inches: 11⅓×2⅓
+      leaves: "-271"
+      lines_per_page: "7"
+      status: Complete
+      notes: "Page 40. Script, size, lines and status printed as ditto marks."
 notes: "The leaves column gives where each text ends."

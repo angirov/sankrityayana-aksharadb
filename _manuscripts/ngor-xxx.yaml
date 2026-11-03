@@ -1,0 +1,18 @@
+vol_no: XXX
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [40], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
+_works:
+  _contains:
+    - id: mahayanasutra-1935-154
+      item_no: 154
+      name_as_printed: ...(mahāyāna)sūtra
+      script: Māgadhī
+      size_inches: 7⅓×2
+      leaves: "174"
+      lines_per_page: "5"
+      status: Complete
+      notes: "Script and status printed as ditto marks."

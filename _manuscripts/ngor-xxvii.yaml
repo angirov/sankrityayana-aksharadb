@@ -1,0 +1,20 @@
+vol_no: XXVII
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [40], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
+_works:
+  _contains:
+    - id: kavikamadhenu
+      item_no: 150
+      name_as_printed: Amarakośaṭīkā (Kavikāmadhenu)
+      author_as_printed: Subhūticandra
+      script: Māgadhī
+      size_inches: 12×2⅓
+      leaves: "192-389"
+      lines_per_page: "7,8"
+      status: Incomplete
+      colophon: "samvat 313 (313 N. E.=1191 A. D.) phālguṇa kṛṣṇa tṛtīyā vṛhaspati......|"
+      notes: "Footnote 1 gives the colophon and adds: Lal Chand Library (D. A. V. College, Lahore) contains one MS. of it."

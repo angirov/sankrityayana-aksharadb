@@ -1,0 +1,17 @@
+vol_no: XXXI
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [40], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
+_works:
+  _contains:
+    - id: herukabhidhanamantroddhara
+      item_no: 155
+      name_as_printed: Herukābhidhānamaṃtroddhāra etc.
+      script: Maithilī
+      size_inches: 12×2
+      lines_per_page: "5"
+      status: Incomplete
+      notes: "Leaves “..”."

@@ -1,0 +1,31 @@
+vol_no: XXIX
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [40], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
+_works:
+  _contains:
+    - id: kalapavyakaranatika
+      item_no: 152
+      no_in_volume: 1
+      name_as_printed: Kalāpavyākaraṇaṭīkā
+      author_as_printed: Utsavakīrti
+      script: Māgadhī
+      size_inches: 10⅓×2
+      leaves: "123"
+      lines_per_page: "5"
+      status: Incomplete
+      notes: "Script and size printed as ditto marks."
+    - id: trilingaprakarana
+      item_no: 153
+      no_in_volume: 2
+      name_as_printed: Triliṅgaprakaraṇa
+      author_as_printed: Maṃju..
+      script: Māgadhī
+      size_inches: 10⅓×2
+      leaves: "88"
+      lines_per_page: "6"
+      status: Complete
+      notes: "Script and size printed as ditto marks; the author's name is printed incomplete."

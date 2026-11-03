@@ -1,0 +1,18 @@
+vol_no: XXVIII
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [40], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
+_works:
+  _contains:
+    - id: herukasadhanapanjika
+      item_no: 151
+      name_as_printed: Herukasādhanapañjikā
+      script: Māgadhī
+      size_inches: 10⅓×2
+      leaves: "123"
+      lines_per_page: "5"
+      status: Complete
+      notes: "Script printed as a ditto mark."
