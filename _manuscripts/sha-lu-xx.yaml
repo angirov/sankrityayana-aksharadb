@@ -1,0 +1,18 @@
+vol_no: XX
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [39], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
+_works:
+  _contains:
+    - id: miscellaneous-leaves
+      item_no: 264
+      name_as_printed: "(Vajrayānagrantha)"
+      script: "Rañjana"
+      size_inches: "14×1¼"
+      leaves: "46"
+      lines_per_page: "4"
+      status: "Incomplete"
+      notes: "Footnote 3: miscellaneous leaves (of Vajrayāna works). Status printed as a ditto mark."

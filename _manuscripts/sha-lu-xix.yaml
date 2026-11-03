@@ -1,0 +1,20 @@
+vol_no: XIX
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [39], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
+_works:
+  _contains:
+    - id: kavyaprakasa
+      item_no: 263
+      name_as_printed: "Kāvyaprakāśa"
+      author_as_printed: "(Rājānakasammaṭa)"
+      script: "Māgadhī"
+      size_inches: "11¾×2⅛"
+      leaves: "73"
+      lines_per_page: "8,9"
+      status: "Incomplete"
+      explicit: "kṛtiriyaṃ rājānakamammaṭālaṃkayoriti |"
+      notes: "Author printed “Rājānakasammaṭa” (for Mammaṭa). Footnote 2: one leaf (44) is missing; it gives the end. Status printed as a ditto mark."

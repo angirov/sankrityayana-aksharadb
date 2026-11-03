@@ -4,7 +4,7 @@ _locations:
     - id: sha-lu
 _publications:
   _described-in:
-    - {id: sankrtyayana1937, pages: [38], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
+    - {id: sankrtyayana1937, pages: [38, 39], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
 _works:
   _contains:
     - id: katantrapanjika
@@ -21,3 +21,17 @@ _works:
       incipit: "yuṣmad || nanu kathaṃ yuṣmadasmadoḥ padamucyate | yāvatā prakṛtivibhaktyoḥ samudāyaḥ padaṃ |"
       explicit: "iti trilocanadāsaviracitāyāṃ kātantravṛttipañjikāyāṃ samāsaḥ pādaḥ samāptaḥ ||"
       notes: "Footnote 4 gives the beginning and the end. Script and status printed as ditto marks."
+  _contains-also:
+    - id: katantrapanjika
+      item_no: 262
+      no_in_volume: 2
+      name_as_printed: "Kātantrapañjikā"
+      author_as_printed: "Trilocanadāsa"
+      script: "Kuṭilā"
+      size_inches: "12½×2"
+      leaves: "29"
+      lines_per_page: "5"
+      status: "Incomplete"
+      incipit: "na sakhi || idudagniritya nenāgnisaṃjñā prāptā pratiṣidhyate |"
+      explicit: "iti trilocanadāsaviracitāyāṃ durgasiṃhoktakātantravṛttipañjikāyā nāmaprakaraṇe dvitīyaḥ pādaḥ samāptaḥ | śākyabhikṣuratnavijayena likhitaṃ ||"
+      notes: "Page 39. Name and author printed as ditto marks; lines as a ditto mark. Footnote 1: it is a paper MS.; it gives the beginning and the end."
