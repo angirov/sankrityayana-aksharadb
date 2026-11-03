@@ -1,13 +1,80 @@
 author: Rāhula Sāṅkṛtyāyana
 year: 1937
-title: Second Search of Sanskrit Palm-leaf Mss. in Tibet
+title: Second Search of Sanskrit Palm-leaf MSS. in Tibet
 journal: Journal of the Bihar and Orissa Research Society
 volume: XXIII
 part: I
+citation: "Sāṅkṛtyāyana, Rāhula. 1937. “Second Search of Sanskrit Palm-leaf MSS. in Tibet [with plates].” Journal of the Bihar and Orissa Research Society 23 (1): 1–57."
 scan: sāṅkṛtyāyana_1937_second_search_of_sanskrit_palm-leaf_mss._in_tibet.pdf
 pages:
+  - {tag: front1, pdf_page: 1, side: left, kind: front, notes: 'Contents of the issue, p. vi'}
+  - {tag: p001, page: 1, pdf_page: 1, side: right, kind: text, page_printed: false, notes: Title of the journal issue and first page of the article}
+  - {tag: p002, page: 2, pdf_page: 2, side: left, kind: text}
+  - {pdf_page: 2, side: right, kind: blank}
+  - {tag: plate1, pdf_page: 3, side: left, rotated: true, kind: plate, caption: 'Jam-Yang-Kun-dub Hierarch of Sa-skya; Inscribed Indian Bronze, 7th Cent. (Sa-skya)'}
+  - {tag: p003, page: 3, pdf_page: 3, side: right, kind: text}
+  - {tag: p004, page: 4, pdf_page: 4, side: left, kind: text}
+  - {tag: p005, page: 5, pdf_page: 4, side: right, kind: text}
+  - {tag: p006, page: 6, pdf_page: 5, side: left, kind: text}
+  - {tag: p007, page: 7, pdf_page: 5, side: right, kind: text}
+  - {tag: p008, page: 8, pdf_page: 6, side: left, kind: text}
+  - {pdf_page: 6, side: right, kind: blank}
+  - {tag: plate2, pdf_page: 7, side: left, rotated: true, kind: plate, caption: Indian Bronze Images (Sa-skya)}
+  - {tag: p009, page: 9, pdf_page: 7, side: right, kind: text}
+  - {tag: p010, page: 10, pdf_page: 8, side: left, kind: text}
+  - {tag: plate3, pdf_page: 8, side: right, rotated: true, kind: plate, caption: Palm-leaf MSS. being examined by Rāhula Sāṅkṛtyāyana at Sa-skya; Autograph of Vibhūti-chandra}
+  - {pdf_page: 9, side: left, kind: blank}
+  - {tag: p011, page: 11, pdf_page: 9, side: right, kind: text}
+  - {tag: p012, page: 12, pdf_page: 10, side: left, kind: text}
+  - {tag: p013, page: 13, pdf_page: 10, side: right, kind: text}
+  - {tag: p014, page: 14, pdf_page: 11, side: left, kind: text}
+  - {tag: p015, page: 15, pdf_page: 11, side: right, kind: text}
+  - {tag: p016, page: 16, pdf_page: 12, side: left, kind: text}
+  - {pdf_page: 12, side: right, kind: blank}
+  - {tag: plate4, pdf_page: 13, side: left, rotated: true, kind: plate, caption: Wooden Model of Mahābodhi (Narthang)}
+  - {pdf_page: 13, side: right, kind: blank}
+  - {tag: plate5, pdf_page: 14, side: left, rotated: true, kind: plate, caption: Gayā Stone Model of Mahābodhi (Narthang)}
+  - {tag: p017, page: 17, pdf_page: 14, side: right, kind: text}
+  - {tag: p018, page: 18, pdf_page: 15, side: left, kind: text}
+  - {tag: p019, page: 19, pdf_page: 15, side: right, kind: text}
+  - {tag: p020, page: 20, pdf_page: 16, side: left, kind: text}
+  - {tag: plate6, pdf_page: 16, side: right, kind: plate, caption: 'Leaves of illustrated MSS. (Ngor Monastery). JBORS, XXI, p. 32, no. 56-58.'}
+  - {tag: chart1, pdf_page: 17, side: single, rotated: true, kind: chart, notes: 'A fold-out plate, “System of figures in MSS. discovered” (numerals in MSS. of 999–1292 A.C.), first half; the start of p. 21 shows beneath it.'}
+  - {tag: chart2, pdf_page: 18, side: left, rotated: true, kind: chart, notes: Second half of the chart of figures.}
+  - {tag: p021, page: 21, pdf_page: 18, side: right, rotated: true, kind: table}
+  - {tag: p022, page: 22, pdf_page: 19, side: left, rotated: true, kind: table}
+  - {tag: p023, page: 23, pdf_page: 19, side: right, rotated: true, kind: table}
+  - {tag: p024, page: 24, pdf_page: 20, side: left, rotated: true, kind: table}
+  - {tag: p025, page: 25, pdf_page: 20, side: right, rotated: true, kind: table}
+  - {tag: p026, page: 26, pdf_page: 21, side: left, rotated: true, kind: table}
+  - {tag: p027, page: 27, pdf_page: 21, side: right, rotated: true, kind: table}
+  - {tag: p028, page: 28, pdf_page: 22, side: left, rotated: true, kind: table}
+  - {tag: p029, page: 29, pdf_page: 22, side: right, rotated: true, kind: table}
+  - {tag: p030, page: 30, pdf_page: 23, side: left, rotated: true, kind: table}
+  - {tag: p031, page: 31, pdf_page: 23, side: right, rotated: true, kind: table}
+  - {tag: p032, page: 32, pdf_page: 24, side: left, rotated: true, kind: table}
+  - {tag: p033, page: 33, pdf_page: 24, side: right, rotated: true, kind: table}
+  - {tag: p034, page: 34, pdf_page: 25, side: left, rotated: true, kind: table}
+  - {tag: p035, page: 35, pdf_page: 25, side: right, rotated: true, kind: table}
+  - {tag: p036, page: 36, pdf_page: 26, side: left, rotated: true, kind: table}
+  - {tag: p037, page: 37, pdf_page: 26, side: right, rotated: true, kind: table}
+  - {tag: p038, page: 38, pdf_page: 27, side: left, rotated: true, kind: table}
+  - {tag: p039, page: 39, pdf_page: 27, side: right, rotated: true, kind: table}
+  - {tag: p040, page: 40, pdf_page: 28, side: left, rotated: true, kind: table}
+  - {tag: p041, page: 41, pdf_page: 28, side: right, rotated: true, kind: table}
+  - {tag: p042, page: 42, pdf_page: 29, side: left, rotated: true, kind: table}
+  - {tag: p043, page: 43, pdf_page: 29, side: right, rotated: true, kind: table}
+  - {tag: p044, page: 44, pdf_page: 30, side: left, rotated: true, kind: table}
+  - {tag: p045, page: 45, pdf_page: 30, side: right, rotated: true, kind: table}
+  - {tag: p046, page: 46, pdf_page: 31, side: left, rotated: true, kind: table}
+  - {tag: p047, page: 47, pdf_page: 31, side: right, rotated: true, kind: table}
+  - {tag: p048, page: 48, pdf_page: 32, side: left, rotated: true, kind: table}
+  - {tag: p049, page: 49, pdf_page: 32, side: right, rotated: true, kind: table}
+  - {tag: p050, page: 50, pdf_page: 33, side: left, rotated: true, kind: table}
+  - {tag: p051, page: 51, pdf_page: 33, side: right, rotated: true, kind: table}
+  - {tag: p052, page: 52, pdf_page: 34, side: left, rotated: true, kind: table}
+  - {tag: p053, page: 53, pdf_page: 34, side: right, rotated: true, kind: table}
   - {tag: p054, page: 54, pdf_page: 35, side: left, rotated: true, kind: table}
   - {tag: p055, page: 55, pdf_page: 35, side: right, rotated: true, kind: table}
   - {tag: p056, page: 56, pdf_page: 36, side: left, rotated: true, kind: table}
   - {tag: p057, page: 57, pdf_page: 36, side: right, rotated: true, kind: table}
-notes: The list of pages is incomplete until the page inventory is done.

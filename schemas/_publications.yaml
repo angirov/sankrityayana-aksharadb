@@ -26,7 +26,7 @@ properties:
       properties:
         tag:
           type: string
-          pattern: "^(p[0-9]{3}|plate[0-9]+|front[0-9]+)$"
+          pattern: "^(p[0-9]{3}|plate[0-9]+|chart[0-9]+|front[0-9]+)$"
           description: "Name of the attachments: p027 for printed page 27, plate1, front1; none for a blank"
         page: {type: integer, minimum: 1, description: "Printed page number"}
         page_printed: {type: boolean, description: "false when the number is not on the page but inferred"}
