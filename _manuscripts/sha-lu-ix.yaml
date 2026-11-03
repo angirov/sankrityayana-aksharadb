@@ -1,0 +1,19 @@
+vol_no: IX
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [30], heading: "III. Ṣa-lu monastery ( near Śi-ga-rtse )"}
+_works:
+  _contains:
+    - id: pancavimsatisahasrika-prajnaparamitopadesa
+      item_no: 30
+      name_as_printed: Pañcaviṃśatisāhasrikāprajñāpāramitopadeśa
+      author_as_printed: Buddhadāsa (Ācārya)
+      script: Vartula
+      size_inches: 21⅓×2
+      leaves: "107"
+      status: Complete
+      colophon: "paṃḍitasthaviraguṇākaraguptaśiṣyasya śubhākaraguptasya |"
+      notes: "Footnote 2 gives the colophon. Status printed as a ditto mark."

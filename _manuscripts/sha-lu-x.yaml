@@ -1,0 +1,81 @@
+vol_no: X
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [30], heading: "III. Ṣa-lu monastery ( near Śi-ga-rtse )"}
+_works:
+  _contains:
+    - id: vajrasanasadhanopadesa
+      item_no: 31
+      no_in_volume: 1
+      name_as_printed: Bhaṭṭārakavajrāsanasādhanopadeśa etc.
+      script: Vartula
+      size_inches: 20⅔×2
+      leaves: "39"
+      status: Complete
+      notes: "Footnote 3: the owner of the Ms. was the translator Ba-ri Rin-chen-grub (1102-1111 A.D.). Status printed as a ditto mark."
+    - id: vajramrtatantra
+      item_no: 32
+      no_in_volume: 2
+      name_as_printed: Vajrāmṛtatantra T
+      tibetan_translation: true
+      script: Vartula
+      size_inches: 20⅔×2
+      leaves: "8"
+      status: Complete
+      notes: "Script, size and status printed as ditto marks."
+    - id: bhimadeva-panjika
+      item_no: 33
+      no_in_volume: 3
+      name_as_printed: …….pañjikā
+      author_as_printed: Bhīmadeva
+      script: Vartula
+      size_inches: 20⅔×2
+      leaves: "7"
+      status: Complete
+      notes: "Script, size and status printed as ditto marks."
+    - id: acintyadvayakramopadesa
+      item_no: 34
+      no_in_volume: 4
+      name_as_printed: Acintyādvayakramopadeśa T
+      author_as_printed: Āryakuddāliyāda
+      tibetan_translation: true
+      script: Vartula
+      size_inches: 20⅔×2
+      leaves: "3-8"
+      status: Incomplete
+      notes: "Author printed so (for °pāda). Script and size printed as ditto marks."
+    - id: samayamudrapurusakara
+      item_no: 35
+      no_in_volume: 5
+      name_as_printed: Samayamudrāpuruṣakāra
+      author_as_printed: Nāgārjuna
+      script: Vartula
+      size_inches: 20⅔×2
+      leaves: "3"
+      status: Complete
+      notes: "Script and size printed as ditto marks."
+    - id: mahagopyatattvopadesa
+      item_no: 36
+      no_in_volume: 6
+      name_as_printed: Mahāgopyatattvopadeśa T
+      author_as_printed: Dārikapāda
+      tibetan_translation: true
+      script: Vartula
+      size_inches: 20⅔×2
+      leaves: "1"
+      status: Complete
+      notes: "Footnote 4: “Guhyatattvopadeśa in T”. Script, size and status printed as ditto marks."
+    - id: jnanasarasamuccaya
+      item_no: 37
+      no_in_volume: 7
+      name_as_printed: Jñānasārasamuccaya T
+      author_as_printed: Āryadeva
+      tibetan_translation: true
+      script: Vartula
+      size_inches: 20⅔×2
+      leaves: "3"
+      status: Complete
+      notes: "Script, size and status printed as ditto marks."

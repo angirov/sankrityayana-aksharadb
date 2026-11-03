@@ -4,7 +4,7 @@ _locations:
     - id: sha-lu
 _publications:
   _described-in:
-    - {id: sankrtyayana1935, pages: [29], heading: "III. Ṣa-lu monastery ( near Śi-ga-rtse )"}
+    - {id: sankrtyayana1935, pages: [29, 30], heading: "III. Ṣa-lu monastery ( near Śi-ga-rtse )"}
 _works:
   _contains:
     - id: sarvajnasiddhi
@@ -66,4 +66,34 @@ _works:
       leaves: "59-69"
       status: Complete
       notes: "Author, script, size and status printed as ditto marks."
+    - id: cittadvaitaprakaranavada
+      item_no: 27
+      no_in_volume: 7
+      name_as_printed: Cittādvaitaprakaraṇavāda
+      author_as_printed: Ratnakīrti
+      script: Purāṇamaithilī
+      size_inches: 21⅓×2⅓
+      leaves: "69-77"
+      status: Complete
+      notes: "Page 30. Author, script and size printed as ditto marks."
+    - id: avayavinirakarana
+      item_no: 28
+      no_in_volume: 8
+      name_as_printed: Avayavinirākaraṇa
+      author_as_printed: Ratnakīrti
+      script: Purāṇamaithilī
+      size_inches: 21⅓×2⅓
+      leaves: "77-82"
+      status: Complete
+      notes: "Page 30. Author, script, size and status printed as ditto marks. Footnote 1: already published in the Bibliotheca Indica."
+    - id: samanyanirakarana
+      item_no: 29
+      no_in_volume: 9
+      name_as_printed: Sāmānyanirākaraṇa
+      author_as_printed: Ratnakīrti
+      script: Purāṇamaithilī
+      size_inches: 21⅓×2⅓
+      leaves: "82-91"
+      status: Complete
+      notes: "Page 30. Author, script, size and status printed as ditto marks."
 notes: "One volume of works of Ratnakīrti; the leaves column gives each work's leaves in the volume."
