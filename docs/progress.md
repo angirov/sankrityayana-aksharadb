@@ -5,7 +5,7 @@ Inventory and scans: the `pages` list of each `_publications/<key>.yaml` is the 
 
 | Publication | Inventory | Scans | Texts (.md) | Tables |
 |---|---|---|---|---|
-| sankrtyayana1935 | done (PDF pp. 1–15: 2 front, 6 text, 2 plates, 17 tables, 3 blanks) | done | not started (pp. 21–26) | pp. 27–38 done; pp. 39–43 not started |
+| sankrtyayana1935 | done (PDF pp. 1–15: 2 front, 6 text, 2 plates, 17 tables, 3 blanks) | done | not started (pp. 21–26) | pp. 27–39 done; pp. 40–43 not started |
 | sankrtyayana1937 | only pp. 54–57 | not started | not started | not started |
 | sankrtyayana1938 | not started | not started | not started | not started |
 
@@ -25,7 +25,8 @@ Inventory and scans: the `pages` list of each `_publications/<key>.yaml` is the 
 | 36 | Ngor, nos. 91–104 | done | No. 91's author printed Saroruvavajra. Vol. XX goes on on p. 37. |
 | 37 | Ngor, nos. 105–113 | done | Colophons of nos. 107 and 109 to be checked. |
 | 38 | Ngor, nos. 114–124 | done | Size of no. 118 blurred. |
-| 39–42 | Ngor, nos. 125–178 | not started | |
+| 39 | Ngor, nos. 125–141 | done | Vol. XXVI (Hevajra texts) runs over pp. 38–40. Works of the same title by different authors are separate works. |
+| 40–42 | Ngor, nos. 142–178 | not started | |
 | 42–43 | V. Gu-rim-lha-khang library of Sa-skya, nos. 179–184 | not started | p. 43 has a long colophon in verse |
 
 ## Open questions

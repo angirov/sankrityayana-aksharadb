@@ -4,7 +4,7 @@ _locations:
     - id: ngor
 _publications:
   _described-in:
-    - {id: sankrtyayana1935, pages: [38], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
+    - {id: sankrtyayana1935, pages: [38, 39], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
 _works:
   _contains:
     - id: hevajrasadhanopayika
@@ -73,4 +73,194 @@ _works:
       lines_per_page: "7"
       status: Complete
       notes: "Author, script, size, lines and status printed as ditto marks."
+    - id: hevajravisuddhisadhana
+      item_no: 125
+      no_in_volume: 7
+      name_as_printed: Hevajraviśuddhisādhana T
+      author_as_printed: Avadhūtipāda
+      tibetan_translation: true
+      script: Kuṭilā
+      size_inches: 11⅓×2⅓
+      leaves: "-80"
+      lines_per_page: "7"
+      status: Complete
+      notes: "Footnote 1: “Hevajraviśuddhanidhi” in T. Page 39. Script, size, lines and status printed as ditto marks."
+    - id: hevajrabhisamayatilaka
+      item_no: 126
+      no_in_volume: 8
+      name_as_printed: Hevajrābhisamayatilaka T
+      author_as_printed: Śākyarakṣita
+      tibetan_translation: true
+      script: Kuṭilā
+      size_inches: 11⅓×2⅓
+      leaves: "-107"
+      lines_per_page: "7"
+      status: Complete
+      notes: "Page 39. Script, size, lines and status printed as ditto marks."
+    - id: hevajrasadhana-anangavajra
+      item_no: 127
+      no_in_volume: 9
+      name_as_printed: Hevajrasādhana T
+      author_as_printed: Anaṅgavajra
+      tibetan_translation: true
+      script: Kuṭilā
+      size_inches: 11⅓×2⅓
+      leaves: "-114"
+      lines_per_page: "7"
+      status: Complete
+      notes: "Page 39. Script, size, lines and status printed as ditto marks."
+    - id: hevajrasadhana-anangavajra-2
+      item_no: 128
+      no_in_volume: 10
+      name_as_printed: Hevajrasādhana T
+      author_as_printed: Anaṅgavajra
+      tibetan_translation: true
+      script: Kuṭilā
+      size_inches: 11⅓×2⅓
+      leaves: "-123"
+      lines_per_page: "7"
+      status: Complete
+      notes: "Title and author printed as ditto marks. Page 39. Script, size, lines and status printed as ditto marks."
+    - id: bhavasuddhi
+      item_no: 129
+      no_in_volume: 11
+      name_as_printed: Bhavaśuddhi
+      author_as_printed: Karuṇābalavajra
+      script: Kuṭilā
+      size_inches: 11⅓×2⅓
+      leaves: "-140"
+      lines_per_page: "7"
+      status: Complete
+      notes: "Page 39. Script, size, lines and status printed as ditto marks."
+    - id: paramagambhirottanakrama
+      item_no: 130
+      no_in_volume: 12
+      name_as_printed: Paramagaṃbhīrottānakrama
+      author_as_printed: Divākaracandra
+      script: Kuṭilā
+      size_inches: 11⅓×2⅓
+      leaves: "-156"
+      lines_per_page: "7"
+      status: Complete
+      notes: "Page 39. Script, size, lines and status printed as ditto marks."
+    - id: herukasadhana-garbhapada
+      item_no: 131
+      no_in_volume: 13
+      name_as_printed: Herukasādhana T
+      author_as_printed: Garbhapāda
+      tibetan_translation: true
+      script: Kuṭilā
+      size_inches: 11⅓×2⅓
+      leaves: "-160"
+      lines_per_page: "7"
+      status: Complete
+      notes: "Page 39. Script, size, lines and status printed as ditto marks."
+    - id: herukasadhana-alalavajra
+      item_no: 132
+      no_in_volume: 14
+      name_as_printed: Herukasādhana
+      author_as_printed: Alalavajra
+      script: Kuṭilā
+      size_inches: 11⅓×2⅓
+      leaves: "-164"
+      lines_per_page: "7"
+      status: Complete
+      notes: "Title printed as a ditto mark; whether the ditto takes in the T is not clear. Page 39. Script, size, lines and status printed as ditto marks."
+      uncertain_fields: [tibetan_translation]
+    - id: herukabhattarakasadhana
+      item_no: 133
+      no_in_volume: 15
+      name_as_printed: Herukabhaṭṭārakasādhana
+      author_as_printed: Ānandagarbhapāda
+      script: Kuṭilā
+      size_inches: 11⅓×2⅓
+      leaves: "-186"
+      lines_per_page: "7"
+      status: Complete
+      notes: "Script printed in full (Kuṭilā). Page 39. Size, lines and status printed as ditto marks."
+    - id: hevajrasadhana-mahadapada
+      item_no: 134
+      no_in_volume: 16
+      name_as_printed: Hevajrasādhana
+      author_as_printed: Mahadapāda
+      script: Kuṭilā
+      size_inches: 11⅓×2⅓
+      leaves: "-197"
+      lines_per_page: "7"
+      status: Complete
+      notes: "Page 39. Script, size, lines and status printed as ditto marks."
+    - id: hevajrasadhana-sahajavajra
+      item_no: 135
+      no_in_volume: 17
+      name_as_printed: Hevajrasādhana
+      author_as_printed: Sahajavajra
+      script: Kuṭilā
+      size_inches: 11⅓×2⅓
+      leaves: "-201"
+      lines_per_page: "7"
+      status: Complete
+      notes: "Title printed as a ditto mark. Page 39. Script, size, lines and status printed as ditto marks."
+    - id: hevajra-pujavidhi
+      item_no: 136
+      no_in_volume: 18
+      name_as_printed: (Hevajra)pūjāvidhi
+      author_as_printed: Śāśvatavajra
+      script: Kuṭilā
+      size_inches: 11⅓×2⅓
+      leaves: "-202"
+      lines_per_page: "7"
+      status: Complete
+      notes: "Page 39. Script, size, lines and status printed as ditto marks."
+    - id: abhisamayakrama
+      item_no: 137
+      no_in_volume: 19
+      name_as_printed: Abhisamayakrama
+      script: Kuṭilā
+      size_inches: 11⅓×2⅓
+      leaves: "-204"
+      lines_per_page: "7"
+      status: Complete
+      notes: "Page 39. Script, size, lines and status printed as ditto marks."
+    - id: hevajrasadhana-1935-138
+      item_no: 138
+      no_in_volume: 20
+      name_as_printed: Hevajrasādhana
+      script: Kuṭilā
+      size_inches: 11⅓×2⅓
+      leaves: "-218"
+      lines_per_page: "7"
+      status: Complete
+      notes: "Page 39. Script, size, lines and status printed as ditto marks."
+    - id: hevajrasadhana-jnanavajra
+      item_no: 139
+      no_in_volume: 21
+      name_as_printed: Hevajrasādhana
+      author_as_printed: Jñānavajra
+      script: Kuṭilā
+      size_inches: 11⅓×2⅓
+      leaves: "-224"
+      lines_per_page: "7"
+      status: Complete
+      notes: "Title printed as a ditto mark. Page 39. Script, size, lines and status printed as ditto marks."
+    - id: hevajrastuti-samadhivajra
+      item_no: 140
+      no_in_volume: 22
+      name_as_printed: Hevajrastuti
+      author_as_printed: Samādhivajra
+      script: Kuṭilā
+      size_inches: 11⅓×2⅓
+      leaves: "-228"
+      lines_per_page: "7"
+      status: Complete
+      notes: "Page 39. Script, size, lines and status printed as ditto marks."
+    - id: hevajrastuti-1935-141
+      item_no: 141
+      no_in_volume: 23
+      name_as_printed: Hevajrastuti
+      script: Kuṭilā
+      size_inches: 11⅓×2⅓
+      leaves: "-230"
+      lines_per_page: "7"
+      status: Complete
+      notes: "Title printed as a ditto mark. Page 39. Script, size, lines and status printed as ditto marks."
 notes: "The leaves column gives where each text ends."
