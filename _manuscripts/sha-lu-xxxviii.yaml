@@ -1,0 +1,32 @@
+vol_no: XXXVIII
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [50], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
+_works:
+  _contains:
+    - id: manjusrinamasamgiti
+      item_no: 323
+      no_in_volume: 1
+      name_as_printed: "Maṃjuśrīnāmasaṃgīti"
+      tibetan_translation: true
+      script: "Kuṭilā"
+      size_inches: "9×2½"
+      leaves: "14"
+      lines_per_page: "6"
+      status: "Complete"
+      colophon: "puṇyabhadreṇa pustakaṃ || likhitamidaṃ devabhadreṇa |......puṇyabhadrasya pustakaṃ atīva śuddhaḥ kṛtaṃ"
+      notes: "Footnote 4 gives the colophon. Author “..”."
+    - id: siddhaikaviratantra
+      item_no: 324
+      no_in_volume: 2
+      name_as_printed: "Siddhaikavīratantra"
+      tibetan_translation: true
+      script: "Māgadhī"
+      size_inches: "9×1¾"
+      leaves: "14"
+      lines_per_page: "4,5"
+      status: "Incomplete"
+      notes: "Author “..”."

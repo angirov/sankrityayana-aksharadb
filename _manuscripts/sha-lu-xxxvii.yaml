@@ -4,7 +4,7 @@ _locations:
     - id: sha-lu
 _publications:
   _described-in:
-    - {id: sankrtyayana1937, pages: [48, 49], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
+    - {id: sankrtyayana1937, pages: [48, 49, 50], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
 _works:
   _contains:
     - id: madhyamakahrdaya
@@ -100,3 +100,40 @@ _works:
       incipit: "viśvavyāpimahopāyaṃ buddhaṃ śuddhaṃ tamāpahaṃ | jagadānandinaṃ vande śama(? sasa)ddharmmasutottamaṃ || vairocanīyatantrotantrokta (sic) samastasya mantriṇaḥ |"
       explicit: "trisamayapūrvasevāvidhi | kṛtirācāryajayaprabhasya ||"
       notes: "Page 49. Footnote 5 gives the beginning, a passage on 1b on the tathāgatasambhavamudrā, and the end. Script and size printed as ditto marks."
+    - id: unidentified-1937-319
+      item_no: 319
+      no_in_volume: 9
+      name_as_printed: "(Sādhanayoga-"
+      script: "Māgadhī, Kuṭilā"
+      leaves: "2"
+      status: "Incomplete"
+      incipit: "bhyasan | sarvabuddhabodhisatvānāñca svaparārthasampadaṃ suparīśuddhāmabhinandan | yathā samīhitaṃ mantramadrutamavilambitamupāṃśunā tāvajjaped yāvat khedo na jāyate | śrāntastu tadaiva japamupasaṃharet |"
+      notes: "Page 50. The title is printed with an open bracket only. Footnote 1: paper MS.; it gives the beginning and leaf 2a2 “dibhāvanāvikalpasañjātaḥ sañjanayediti | japāvasānaṃ kriyāṃ vidyāt | kiñcijjñānavaśinamāha | jñāne kiñcitsamāveśīti |”. Script printed “māgadhī, ku°”; author “..”."
+    - id: unidentified-1937-320
+      item_no: 320
+      no_in_volume: 10
+      name_as_printed: "(Heruka......ṭīkā)"
+      script: "Māgadhī, Kuṭilā"
+      leaves: "4"
+      lines_per_page: "6"
+      status: "Incomplete"
+      incipit: "......bodhicittaniṣprapañcajñānātmakaṃ | prapañcābhānti | tataḥ sarvaprapañcānāṃ tatrābhāvāt |.........mahāsukharūpatvantu sāmarthyāduktaṃ |"
+      notes: "Page 50. Footnote 2: leaves no. 8, 9, 10, 11 are found; it gives the beginning and page 10a6 “mahāmāyetyādi | maṇḍalādhipatiḥ śrīheruko mahāmāyā tayorekasvabhāvatvāt | tayoḥ prayogaḥ karmabhirāśleṣacuṃvanādibhiḥ | yogasaṃvaraṃ kārayet |”. Script and status printed as ditto marks; author “..”."
+    - id: unidentified-1937-321
+      item_no: 321
+      no_in_volume: 11
+      name_as_printed: "(Lakṣaṇaṭīkā)"
+      script: "Śāradā, Kuṭilā"
+      leaves: "2"
+      status: "Incomplete"
+      incipit: "samūhānītabhāvena dhīmadgotramakṛtrimam ||7|| prakṛtisthaṃ ca yadgotramānītaṃ niyataṃ ca yat | asmin sati pratyayasyāsyācchabdātmā cittasambhavaḥ (|) avikalpasthaviṣayo nābhyāsārtho(?)hi jātu cit |.....kāraṇatvepi tenāyaṃ bodhisatvārthagocaraḥ ||"
+      notes: "Page 50. Footnote 3 gives the beginning. Script printed “śāradā ku°”; status as a ditto mark; author “..”."
+    - id: unidentified-1937-322
+      item_no: 322
+      no_in_volume: 12
+      name_as_printed: "(Prajñāpāramitāṭīkā)"
+      script: "Kuṭilā"
+      leaves: "10"
+      lines_per_page: "6"
+      status: "Incomplete"
+      notes: "Page 50. Status printed as a ditto mark; author “..”."
