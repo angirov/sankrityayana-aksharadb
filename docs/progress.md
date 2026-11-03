@@ -70,3 +70,4 @@ Inventory and scans: the `pages` list of each `_publications/<key>.yaml` is the 
 | 33–34 | VII. Ṣhalu vols. XII–XIV, nos. 237–244 | done | No. 240 (kroḍapatra) linked to the Pramāṇavārttika, flagged. |
 | 35–37 | Ṣhalu vol. XIV (end)–XVI, nos. 245–254 | done | Nos. 245, 251: footnote content does not match the title; flagged. |
 | 38–39 | Ṣhalu vols. XVII–XXII, nos. 255–268 | done | Size of no. 265 printed “½×2”. |
+| 40 | Ṣhalu vols. XXII (end)–XXIV, nos. 269–276 | done | “N.” after Bhāskarācārya (no. 271) unexplained. |

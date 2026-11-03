@@ -4,7 +4,7 @@ _locations:
     - id: sha-lu
 _publications:
   _described-in:
-    - {id: sankrtyayana1937, pages: [39], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
+    - {id: sankrtyayana1937, pages: [39, 40], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
 _works:
   _contains:
     - id: bhavanakrama
@@ -30,3 +30,38 @@ _works:
       lines_per_page: "5"
       status: "Complete"
       notes: "Size printed as a ditto mark."
+    - id: amoghapasalokesvaramandala
+      item_no: 269
+      no_in_volume: 3
+      name_as_printed: "Amoghapāśalokeśvaramaṃḍala"
+      tibetan_translation: true
+      script: "Old Maithilī"
+      size_inches: "12×2"
+      leaves: "2"
+      lines_per_page: "5"
+      status: "Complete"
+      notes: "Page 40. Script and size printed as ditto marks."
+    - id: adibuddha
+      item_no: 270
+      no_in_volume: 4
+      name_as_printed: "Ādibuddha etc."
+      script: "Old Maithilī"
+      size_inches: "12½×2"
+      leaves: "11"
+      lines_per_page: "5"
+      status: "Incomplete"
+      notes: "Page 40. Script printed as a ditto mark."
+    - id: yogasarabhasya
+      item_no: 271
+      no_in_volume: 5
+      name_as_printed: "Yogasārabhāṣya"
+      author_as_printed: "Bhāṣkarācārya N."
+      script: "Old Maithilī"
+      size_inches: "13½×2¼"
+      leaves: "24"
+      lines_per_page: "5"
+      status: "Complete"
+      incipit: "bhāskarācāryapraṇītasya yogasya saṃkṣepeṇa vivaraṇaṃ kariṣyāmaḥ mandadhiyāṃ pratipattyarthaṃ.....|| ānandavantamadvaitaṃ viṣṇucinmātrarūpiṇaṃ | natvā taṃ saṃpravakṣyāmi yogasāraṃ vimuktaye ||"
+      explicit: "sarvavedāntasiddhoyaṃ yogasāraḥ sukhāvahaḥ | dhyānamārgapraviṣṭoyaṃ saṃkṣepeṇa prahasita (?). ....vyākhyātaḥ kena bhagavadbhāskaraparivrājakeneti |......yogasārabhāṣyaṃ samāptam ||"
+      notes: "Page 40. “N.” after the author: Nepalese? (not explained). Script printed as a ditto mark. Footnote 1 gives the beginning and the end; in the next page in a later hand “yogīśrīvovipākasya sadaśiṣyaśrīyogīsarvavipākasya pustakaṃ ||....”."
+      uncertain_fields: [author_as_printed]

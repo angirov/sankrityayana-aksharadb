@@ -1,0 +1,45 @@
+vol_no: XXIV
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [40], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
+_works:
+  _contains:
+    - id: vimalaprabha
+      item_no: 274
+      no_in_volume: 1
+      name_as_printed: "Kālacakraṭīkā (Vimalaprabhā)"
+      tibetan_translation: true
+      script: "Māgadhī"
+      size_inches: "11½×1¾"
+      leaves: "20"
+      lines_per_page: "7"
+      status: "Incomplete"
+      notes: "Footnote 3: on first two Paṭalas only. Author “..”."
+    - id: mahayanalaksanasamuccaya
+      item_no: 275
+      no_in_volume: 2
+      name_as_printed: "Mahāyānalakṣaṇasamuccaya"
+      script: "Māgadhī"
+      size_inches: "12½×2"
+      leaves: "4"
+      lines_per_page: "7"
+      status: "Incomplete"
+      incipit: "sambodhicittamutpādya mahāmaitrīprayogataḥ | sarvadharmā nirātmāna iti jñātvā'dhimucyate ||"
+      notes: "Footnote 4 gives the beginning. Script and status printed as ditto marks; author “..”."
+    - id: vajrabhairavatantrapanjika
+      item_no: 276
+      no_in_volume: 3
+      name_as_printed: "Vajrabhairavatantrapaṃjikā"
+      author_as_printed: "Kumāracandra"
+      tibetan_translation: true
+      script: "Māgadhī"
+      size_inches: "11×2¼"
+      leaves: "4"
+      lines_per_page: "6"
+      status: "Complete"
+      incipit: "śrīvajrabhairavaṃ vīraṃ natvā śrīvajrabhairave tantre kumāracandreṇa pañjikā kriyate laghu || athetyādi | ata iti vṛhanmañjuśrītantre sarvavajrabhairavasādhanāt |"
+      explicit: "iti saptakalpapañjikā || iti śrīvajrabhairavamahātantrapañjikā samāptā || kumāracandravatpuṇyaṃ yatprāptaṃ pañcikākṛteḥ | āstāṃ samastalokoyaṃ tena śrīvajrabhairave |"
+      notes: "Footnote 5 gives the beginning and the end; there is another copy of it, XXXV. 4. Script printed as a ditto mark."
