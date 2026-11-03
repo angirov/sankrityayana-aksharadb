@@ -7,5 +7,46 @@ part: I
 citation: "Sāṅkṛtyāyana, Rāhula. 1935. “Sanskrit Palm-leaf Mss. in Tibet.” Journal of the Bihar and Orissa Research Society 21 (1)."
 scan: sāṅkṛtyāyana_1935_sanskrit_palm-leaf_mss._in_tibet.pdf
 pages:
-  - {page: 27, pdf_page: 6, side: right, rotated: true, kind: table}
-notes: The list of pages is incomplete until the page inventory is done.
+  - {tag: front1, pdf_page: 1, side: left, kind: front, notes: "Back cover of the issue: publications of the Society"}
+  - {tag: front2, pdf_page: 1, side: right, kind: front, notes: "Title page of the issue: Vol. XXI, Part I, March 1935"}
+  - {pdf_page: 2, side: left, kind: blank}
+  - {tag: p021, page: 21, page_printed: false, pdf_page: 2, side: right, kind: text, notes: "First page of the article"}
+  - {tag: p022, page: 22, pdf_page: 3, side: left, kind: text}
+  - {tag: p023, page: 23, pdf_page: 3, side: right, kind: text}
+  - {tag: p024, page: 24, pdf_page: 4, side: left, kind: text}
+  - {tag: p025, page: 25, pdf_page: 4, side: right, kind: text}
+  - {tag: p026, page: 26, pdf_page: 5, side: left, kind: text}
+  - {pdf_page: 5, side: right, kind: blank}
+  - tag: plate1
+    pdf_page: 6
+    side: left
+    rotated: true
+    kind: plate
+    caption: "Pages of the Vāda-Nyāya; Pages of different Sanskrit manuscripts in Tibet"
+  - {tag: p027, page: 27, pdf_page: 6, side: right, rotated: true, kind: table, notes: "I. Kun-de-ling, nos. 1–3"}
+  - {tag: p028, page: 28, pdf_page: 7, side: left, rotated: true, kind: table, notes: "II. Spos-khang, nos. 4–9; III. Ṣa-lu, nos. 10–12"}
+  - tag: plate2
+    pdf_page: 7
+    side: right
+    rotated: true
+    kind: plate
+    caption: "Ngor; Volumes of Indian MSS in Tibet; Spos-khang; Ṣa-lu; Illustrations of wooden covers of Indian MSS in Tibet (Kun-de-gling monastery)"
+  - {pdf_page: 8, side: left, rotated: true, kind: blank}
+  - {tag: p029, page: 29, pdf_page: 8, side: right, rotated: true, kind: table, notes: "Ṣa-lu, nos. 13–26"}
+  - {tag: p030, page: 30, pdf_page: 9, side: left, rotated: true, kind: table, notes: "Ṣa-lu, nos. 27–37"}
+  - {tag: p031, page: 31, pdf_page: 9, side: right, rotated: true, kind: table, notes: "Ṣa-lu, nos. 38–46; IV. Ngor, nos. 47–49"}
+  - {tag: p032, page: 32, pdf_page: 10, side: left, rotated: true, kind: table, notes: "Ngor, nos. 50–59"}
+  - {tag: p033, page: 33, pdf_page: 10, side: right, rotated: true, kind: table, notes: "Ngor, nos. 60–71"}
+  - {tag: p034, page: 34, pdf_page: 11, side: left, rotated: true, kind: table, notes: "Ngor, nos. 72–80"}
+  - {tag: p035, page: 35, pdf_page: 11, side: right, rotated: true, kind: table, notes: "Ngor, nos. 81–90"}
+  - {tag: p036, page: 36, pdf_page: 12, side: left, rotated: true, kind: table, notes: "Ngor, nos. 91–104"}
+  - {tag: p037, page: 37, pdf_page: 12, side: right, rotated: true, kind: table, notes: "Ngor, nos. 105–113"}
+  - {tag: p038, page: 38, pdf_page: 13, side: left, rotated: true, kind: table, notes: "Ngor, nos. 114–124"}
+  - {tag: p039, page: 39, pdf_page: 13, side: right, rotated: true, kind: table, notes: "Ngor, nos. 125–141"}
+  - {tag: p040, page: 40, pdf_page: 14, side: left, rotated: true, kind: table, notes: "Ngor, nos. 142–155"}
+  - {tag: p041, page: 41, pdf_page: 14, side: right, rotated: true, kind: table, notes: "Ngor, nos. 156–167"}
+  - {tag: p042, page: 42, pdf_page: 15, side: left, rotated: true, kind: table, notes: "Ngor, nos. 168–178; V. Gu-rim-lha-khang library of Sa-skya, no. 179"}
+  - {tag: p043, page: 43, pdf_page: 15, side: right, rotated: true, kind: table, notes: "Gu-rim-lha-khang, nos. 180–184, with a long colophon in verse"}
+notes: >
+  The scan ends with p. 43, the list with no. 184. A footnote on p. 42 announces appendices in the
+  next issues; whether the list goes on after p. 43 is to be checked in a full copy of the issue.

@@ -15,23 +15,29 @@ properties:
     description: "File name of the source scan (kept outside the repository)"
   pages:
     description: >
-      Every printed page of the article, in order. A page's scan and text are the
-      attachments <key>_p<NNN>.png and <key>_p<NNN>.md.
+      Every page of the scan, in order: printed pages, plates, front matter and blanks.
+      A page's scan and text are the attachments <key>_<tag>.png and <key>_<tag>.md.
     type: array
     minItems: 1
     items:
       type: object
       additionalProperties: false
-      required: [page, pdf_page, kind]
+      required: [pdf_page, side, kind]
       properties:
+        tag:
+          type: string
+          pattern: "^(p[0-9]{3}|plate[0-9]+|front[0-9]+)$"
+          description: "Name of the attachments: p027 for printed page 27, plate1, front1; none for a blank"
         page: {type: integer, minimum: 1, description: "Printed page number"}
+        page_printed: {type: boolean, description: "false when the number is not on the page but inferred"}
         pdf_page: {type: integer, minimum: 1}
         side: {enum: [left, right, single]}
-        rotated: {type: boolean, description: "Printed sideways (wide tables)"}
+        rotated: {type: boolean, description: "Printed sideways; the scan is turned 90° clockwise to read it"}
         kind:
           description: >
             text: prose; table: a list of manuscripts; plate: photographs;
-            chart: a script chart; front: cover or contents of the issue
+            chart: a script chart; front: cover or contents of the issue; blank
           enum: [text, table, plate, chart, front, blank]
+        caption: {type: string, description: "Captions of a plate"}
         notes: {type: string}
   notes: {type: string}

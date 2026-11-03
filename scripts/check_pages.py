@@ -2,7 +2,7 @@
 
 Reads the DB root (default: the current directory). Every page number in a
 _described-in or _published-in link must be in that publication's `pages` list,
-and every listed page should have its scan attachment <key>_p<NNN>.png.
+and every page with a tag should have its scan attachment <key>_<tag>.png.
 Prints one line per problem; exits 1 if a cited page is not listed.
 Run: python scripts/check_pages.py [DB_ROOT]
 """
@@ -29,7 +29,7 @@ def cited_pages(documents, relation):
 def main():
     root = Path(sys.argv[1] if len(sys.argv) > 1 else ".")
     publications = load_collection(root, "publications")
-    listed = {key: {p["page"] for p in doc["pages"]} for key, doc in publications.items()}
+    listed = {key: {p["page"] for p in doc["pages"] if "page" in p} for key, doc in publications.items()}
 
     errors = 0
     citations = [("_manuscripts", c) for c in cited_pages(load_collection(root, "manuscripts"), "_described-in")]
@@ -40,8 +40,8 @@ def main():
             errors += 1
 
     scans = {p.stem for p in (root / "_publications").rglob("*.png")}
-    missing = sorted(f"{key}_p{page:03d}" for key, pages in listed.items() for page in pages
-                     if f"{key}_p{page:03d}" not in scans)
+    missing = sorted(f"{key}_{p['tag']}" for key, doc in publications.items() for p in doc["pages"]
+                     if "tag" in p and f"{key}_{p['tag']}" not in scans)
     if missing:
         print(f"{len(missing)} listed page(s) have no scan yet, e.g. {missing[0]}.png")
     return 1 if errors else 0
