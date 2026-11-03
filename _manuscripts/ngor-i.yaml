@@ -1,0 +1,39 @@
+vol_no: I
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [31], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
+_works:
+  _contains:
+    - id: arthaviniscayasutra
+      item_no: 47
+      no_in_volume: 1
+      name_as_printed: Arthaviniścayasūtra T
+      tibetan_translation: true
+      script: Vartula
+      size_inches: 22⅔×2
+      leaves: "16"
+      status: page 13 missing
+    - id: arthaviniscayasutranibandhana
+      item_no: 48
+      no_in_volume: 2
+      name_as_printed: Arthaviniścayasūtranibaṃdhana
+      author_as_printed: Vīryaśrīdatta
+      script: Vartula
+      size_inches: 22⅔×2
+      leaves: "44"
+      status: Complete
+      colophon: "āsītsaugato nāthaḥ prajāyāḥ pṛthuvikramaḥ | dha rma pā la (740-800 A. D.) iti khyāto rājñe tasya mahodaye || śrīnālandāvihāre smin kṛtirbhikṣurjitendriyaḥ | vīryaśrīdattanāmnedaṃ kṛtaṃ tena nibandhanaṃ || trayodaśaśatānyasya ślokāśca pañcasaptatiḥ |"
+      notes: "Footnote 4 gives the colophon; the spaced “dha rma pā la” is the source's. Script and size printed as ditto marks."
+    - id: bhutadamaratantra
+      item_no: 49
+      no_in_volume: 3
+      name_as_printed: Bhūtaḍāmarataṃtra T
+      tibetan_translation: true
+      script: Vartula
+      size_inches: 22⅔×2
+      leaves: "23"
+      status: Incomplete
+      notes: Script and size printed as ditto marks.

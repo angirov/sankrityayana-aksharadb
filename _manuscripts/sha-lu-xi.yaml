@@ -1,0 +1,81 @@
+vol_no: XI
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [31], heading: "III. Ṣa-lu monastery ( near Śi-ga-rtse )"}
+_works:
+  _contains:
+    - id: mahayanasutra-fragment
+      item_no: 39
+      no_in_volume: 1
+      name_as_printed: …Mahāyānasūtra
+      script: Vartula
+      size_inches: 20⅔×2⅓
+      status: Incomplete
+      notes: "Script printed as a ditto mark (Vartula). Status printed as a ditto mark (Incomplete)."
+    - id: mahayanavimsika
+      item_no: 40
+      no_in_volume: 2
+      name_as_printed: Mahāyānaviṃśikā T
+      author_as_printed: Nāgārjuna
+      tibetan_translation: true
+      script: Śāradā
+      size_inches: 20⅔×2⅓
+      status: Incomplete
+      notes: "Size printed as a ditto mark. Status printed as a ditto mark (Incomplete)."
+    - id: prasantamitra-untitled
+      item_no: 41
+      no_in_volume: 3
+      name_as_printed: …
+      author_as_printed: Praśāntamitra
+      size_inches: 20⅔×2⅓
+      status: Incomplete
+      notes: "No title printed. Script “..”; size printed as a ditto mark. Status printed as a ditto mark (Incomplete)."
+    - id: ratnagunasancayagatha-vyakhya
+      item_no: 42
+      no_in_volume: 4
+      name_as_printed: Ratnaguṇasañcayagāthā T –vyākhyā
+      author_as_printed: Haribhadra
+      tibetan_translation: true
+      size_inches: 20⅔×2⅓
+      status: Incomplete
+      notes: "Footnote 2: “Bhagavadguṇaratnasaṃcayagāthāpaṃjikā in T”. Script “..”; size printed as a ditto mark. Status printed as a ditto mark (Incomplete)."
+    - id: mahayanottaratantra
+      item_no: 43
+      no_in_volume: 5
+      name_as_printed: Mahāyānottaratantra T
+      author_as_printed: (Maitreyanātha)
+      tibetan_translation: true
+      script: Śāradā
+      size_inches: 20⅔×2⅓
+      status: Incomplete
+      notes: "Size printed as a ditto mark. Status printed as a ditto mark (Incomplete)."
+    - id: sutralankaravibhanga
+      item_no: 44
+      no_in_volume: 6
+      name_as_printed: Sūtrālaṃkāra(vi)bhaṃga
+      script: Śāradā
+      size_inches: 20⅔×2⅓
+      status: Incomplete
+      notes: "Footnote 3: the owner of this book was the Indian paṇḍita Maṇikaśrījñāna, a contemporary of Bu-ston (1290-1364 A.D.). Script and size printed as ditto marks. Status printed as a ditto mark (Incomplete)."
+    - id: abhisamayalankara-prajnopadesasastra
+      item_no: 45
+      no_in_volume: 7
+      name_as_printed: Abhisamayālaṃkāra prajñopadeśaśāstra
+      script: Vartula
+      size_inches: 20⅔×2⅓
+      status: Incomplete
+      notes: "Size printed as a ditto mark. Status printed as a ditto mark (Incomplete)."
+    - id: abhisamayalankaraloka
+      item_no: 46
+      no_in_volume: 8
+      name_as_printed: Abhisamayālaṃkārāloka T
+      author_as_printed: (Haribhadra)
+      tibetan_translation: true
+      script: Purāṇa Nagarī
+      size_inches: 20⅔×2⅓
+      status: Incomplete
+      notes: "Status printed as a ditto mark (Incomplete)."
+notes: "The status column is printed a little below the titles; every title of the volume is a ditto of no. 38 (Incomplete)."

@@ -4,7 +4,7 @@ _locations:
     - id: sha-lu
 _publications:
   _described-in:
-    - {id: sankrtyayana1935, pages: [30], heading: "III. Ṣa-lu monastery ( near Śi-ga-rtse )"}
+    - {id: sankrtyayana1935, pages: [30, 31], heading: "III. Ṣa-lu monastery ( near Śi-ga-rtse )"}
 _works:
   _contains:
     - id: vajrasanasadhanopadesa
@@ -79,3 +79,13 @@ _works:
       leaves: "3"
       status: Complete
       notes: "Script, size and status printed as ditto marks."
+    - id: srisamvarastotratika
+      item_no: 38
+      no_in_volume: 8
+      name_as_printed: Śrīsaṃvarastotraṭīkā
+      author_as_printed: Vajrapāṇi
+      script: Vartula
+      size_inches: 20⅔×2
+      leaves: "47"
+      status: Incomplete
+      notes: "Page 31. Footnote 1 on the author: the Indian paṇḍita (1066 A.D.), teacher of the translator Ba-ri-lo-tsa-va. Script and size printed as ditto marks."
