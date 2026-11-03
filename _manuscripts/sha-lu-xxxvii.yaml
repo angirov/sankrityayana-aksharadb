@@ -4,7 +4,7 @@ _locations:
     - id: sha-lu
 _publications:
   _described-in:
-    - {id: sankrtyayana1937, pages: [48], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
+    - {id: sankrtyayana1937, pages: [48, 49], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
 _works:
   _contains:
     - id: madhyamakahrdaya
@@ -43,3 +43,60 @@ _works:
       lines_per_page: "5"
       status: "Incomplete"
       notes: "Script, size and status printed as ditto marks; author “..”."
+    - id: guhyasamaja
+      item_no: 314
+      no_in_volume: 4
+      name_as_printed: "Guhyasamāja"
+      tibetan_translation: true
+      script: "Māgadhī"
+      size_inches: "21½×2"
+      leaves: "10"
+      lines_per_page: "5"
+      status: "Incomplete"
+      notes: "Page 49. Footnote 1: leaves No. 3, 4, 5, 39 and 45 only. Script, size, lines and status printed as ditto marks; author “..”."
+    - id: unidentified-1937-315
+      item_no: 315
+      no_in_volume: 5
+      name_as_printed: "(......sūtra-ṭīkā)"
+      script: "Kuṭilā"
+      size_inches: "22½×1½"
+      leaves: "11"
+      lines_per_page: "4,5"
+      status: "Incomplete"
+      incipit: "nairyāṇikatvaṃ darśayati | adhiśīlatvena śikṣādvayasanniśrayatayā śikṣādvayena ca yathākramaṃ asamāhitaṃ cittaṃ samādhi(?dhī)yate samāhitaṃ ca vimucyate evaṃ suvimuktacittaḥ apāyātpunarbhavācca nirgato bhavati niryāti evaṃ nairyāṇikatvaṃ hyācāragocarasaṃpannatvena anurūpākruṣṭacāritratayā bhāvitaṃ bhava"
+      notes: "Page 49. Footnote 2 gives the beginning: most of the leaves are without number (115, 202, 223, 225, 236, 237 numbers are seen). Status printed as a ditto mark; author “..”."
+    - id: unidentified-1937-316
+      item_no: 316
+      no_in_volume: 6
+      name_as_printed: "(......sūtra)"
+      script: "Kuṭilā"
+      size_inches: "21½×1½"
+      leaves: "9×11"
+      lines_per_page: "5"
+      status: "Incomplete"
+      incipit: "payogī(?) mahatīṃ jane vidhī kāruṇyaṃ na ca satvasaṃjñaḥ | tadabhoti sarvajagatīvidu dakṣaṇīyaḥ satataṃ amogha paribhuṃjati rāṣṭrapiṇḍaṃ || ciravaddhadevamanujāṃsti apāyisatvā parimocituṃ ya iha icchati bodhisatvaḥ (|) pṛthumārgadhīrubhayadarśanasatvapātuṃ prajñāya pāramitayukta divā ca rātri ||"
+      notes: "Page 49. Footnote 3 gives the beginning (verse in Buddhist Hybrid Sanskrit). Leaves printed “9×11”. Script and status printed as ditto marks; author “..”."
+    - id: unidentified-1937-317
+      item_no: 317
+      no_in_volume: 7
+      name_as_printed: "(Bodhicitta...)"
+      script: "Kuṭilā"
+      size_inches: "21½×1½"
+      leaves: "½"
+      lines_per_page: "6"
+      status: "Incomplete"
+      incipit: "sarvadharmaprakṛtiśūnyatābhyāse tadanu dānapāramitā'dhiṣṭhānena prathamāyāṃ bhūmau sarvagadharmadharmadhātuprativedhalakṣaṇe'dvayadharme tato dvitīyādau bhūmau sambhāraparipūrihetubhūte śīlādipāramitā sarvadharmasāṅketikajñāne niyojayati"
+      notes: "Page 49. Footnote 4 gives the beginning. Size printed as a ditto mark; author “..”."
+    - id: trisamayapurvasevavidhi
+      item_no: 318
+      no_in_volume: 8
+      name_as_printed: "Trisamayapūrvasevāvidhi"
+      author_as_printed: "Jayaprabha"
+      script: "Kuṭilā"
+      size_inches: "21½×1½"
+      leaves: "1"
+      lines_per_page: "9"
+      status: "Complete"
+      incipit: "viśvavyāpimahopāyaṃ buddhaṃ śuddhaṃ tamāpahaṃ | jagadānandinaṃ vande śama(? sasa)ddharmmasutottamaṃ || vairocanīyatantrotantrokta (sic) samastasya mantriṇaḥ |"
+      explicit: "trisamayapūrvasevāvidhi | kṛtirācāryajayaprabhasya ||"
+      notes: "Page 49. Footnote 5 gives the beginning, a passage on 1b on the tathāgatasambhavamudrā, and the end. Script and size printed as ditto marks."

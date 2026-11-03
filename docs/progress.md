@@ -79,3 +79,4 @@ Inventory and scans: the `pages` list of each `_publications/<key>.yaml` is the 
 | 46 | Ṣhalu vols. XXXV (end)–XXXVI, nos. 304–307 | done | Eclipse table on no. 307 not transcribed. |
 | 47 | Ṣhalu vol. XXXVI (end), nos. 308–310 | done | Notes of Vibhūticandra (no. 310) not transcribed. |
 | 48 | Ṣhalu vol. XXXVII, nos. 311–313 | done | |
+| 49 | Ṣhalu vol. XXXVII (end), nos. 314–318 | done | |
