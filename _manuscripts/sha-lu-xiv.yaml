@@ -4,7 +4,7 @@ _locations:
     - id: sha-lu
 _publications:
   _described-in:
-    - {id: sankrtyayana1937, pages: [34, 35], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
+    - {id: sankrtyayana1937, pages: [34, 35, 36, 37], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
 _works:
   _contains:
     - id: vinayasutra
@@ -34,3 +34,96 @@ _works:
       status: "Complete (?)"
       incipit: "saṃgrahāyākarodyāni bodhisatvo guṇaprabhaḥ | sūtrāṇi vinayasyeyaṃ vṛttisteṣāṃ nigadyate ||"
       notes: "Printed “” ṭīkā”: Vinayasūtra-ṭīkā. Footnote 3 gives the beginning, which is the opening of Guṇaprabha's Vinayasūtravṛtti (compare no. 193), and on page 36b6 “vibhaṅgaprāyāḥ paribhāṣā(:) samāptāḥ || || na gocaretyādi poṣadha”: so the MS. has commentary up to page 38b. Author, script, size printed as ditto marks; status as a ditto mark with “(?)”."
+    - id: unidentified-1937-245
+      item_no: 245
+      no_in_volume: 3
+      name_as_printed: "” (Ṭīkā)"
+      author_as_printed: "Guṇaprabha"
+      script: "Tibetan (U-chen)"
+      size_inches: "22¼×2¼"
+      leaves: "9"
+      lines_per_page: "8"
+      status: "Incomplete"
+      incipit: "kṣayādhimātrameva hīnaṃ |"
+      notes: "Page 35. Name printed as a ditto mark with “(ṭīkā)”; script and size as ditto marks. Footnote 1 gives the beginning and quotes 1a7 “āśāntaṃ digantaṃ uḍucandraḥ śāstracintaivāhiḥ sarppaḥ || madhyamakāvatāra ||”, 2ba “dvyaṅgulā grāse viśeṣaḥ |”, 3b6 “iha dhārmikaḥ vātsīputrīyaḥ |......mādhyamikaṃ yathetyādinā dṛṣṭāntena vijñānavādimatamanūdya evamityādinā dūṣayati |”."
+      uncertain_fields: [id]
+    - id: prasannapada
+      item_no: 246
+      no_in_volume: 4
+      name_as_printed: "” (Lakṣaṇa-ṭīkā)"
+      script: "Māgadhī"
+      size_inches: "22¼×2¼"
+      leaves: "6"
+      lines_per_page: "7,8"
+      status: "Incomplete"
+      incipit: "nāgaścāsau śuklatvādarjunaśceti nāgārjunaḥ |"
+      notes: "Page 35. Name printed as a ditto mark with “(lakṣaṇa-ṭīkā)”; script printed Māgadhī followed by a ditto mark. Footnote 2: the first 2¼ leaves are in Māgadhī characters; on the page 16a word “prasannapadā” shows that it is a portion of Candrakīrti's commentary on the Madhyamakakārikā."
+    - id: unidentified-1937-247
+      item_no: 247
+      no_in_volume: 5
+      name_as_printed: "(Lakṣaṇa in Tibetan)"
+      script: "Tibetan"
+      size_inches: "22¼×2¼"
+      leaves: "3"
+      lines_per_page: "9"
+      status: "Incomplete"
+      notes: "Page 35. Size and status printed as ditto marks."
+    - id: abhidharmadipa
+      item_no: 248
+      no_in_volume: 6
+      name_as_printed: "Abhidharmapradīpa with Vibhāṣā-prabhāvṛtti"
+      script: "Śāradā"
+      size_inches: "22×2⅛"
+      leaves: "63"
+      lines_per_page: "9"
+      status: "Incomplete"
+      incipit: "svasti || namassarvajñāya || yo duḥkhahetuvyupaśāntimārgaṃ pradarśayāmāsa narāmarebhyaḥ | ......taṃ satpathajñaṃ praṇipatya buddhaṃ śāstraṃ kariṣyābhyabhidharmadīpaṃ ||"
+      explicit: "abhidharmapradīpavibhāṣāprabhāyāṃ vṛttau aṣṭamasyādhyāyasya tṛtīyaḥ pādassamāptaḥ |"
+      notes: "Page 35 (“Abhidharmapradīpa” printed so). The MS. holds the Abhidharmadīpa with its commentary Vibhāṣāprabhāvṛtti; both are linked. Footnote 3 (pp. 35–36): it is with commentary, which begins with “atra ṣaṣṭhīsamāsaparigrahe sati mārgasatyaṃ pradhānaṃ |”; from leaves 1 to 150, following 84 are missing: 2-30, 40, 46, 48, 50-52, 54-81, 83-90, 119-25, 127-129, 131-33, 138, 140, 145, 147, 149; every chapter has four Pādas; the third Pāda of the eighth (perhaps the last) ends at page 150b; the whole book contained not more than 160 leaves. It lists the subjects with pages and chapters (skandha, p. 1b, Ch. I.1 … samādhiguṇa, p. 150b, Ch. VIII.4). Status printed as a ditto mark."
+    - id: vibhasaprabhavrtti
+      item_no: 248
+      no_in_volume: 6
+      name_as_printed: "Abhidharmapradīpa with Vibhāṣā-prabhāvṛtti"
+      script: "Śāradā"
+      size_inches: "22×2⅛"
+      leaves: "63"
+      lines_per_page: "9"
+      status: "Incomplete"
+      incipit: "atra ṣaṣṭhīsamāsaparigrahe sati mārgasatyaṃ pradhānaṃ |"
+      notes: "The commentary in the MS. of no. 248; see the link to the Abhidharmadīpa."
+    - id: vigrahavyavartani
+      item_no: 249
+      no_in_volume: 7
+      name_as_printed: "Vigrahavyāvarttanī"
+      author_as_printed: "Nāgārjuna"
+      tibetan_translation: true
+      script: "Tibetan"
+      size_inches: "22¼×2¼"
+      leaves: "7"
+      lines_per_page: "8"
+      status: "Complete"
+      colophon: "kṛtiriyamācāryanāgārjunapādān(āṃ)... (3) ekatra ślokaśata 450 || || likhitamidaṃ śrīdharmmakīrttinā sarvasatvahetoḥ yathālabdhamiti || || vigrahavyāvarttanī"
+      incipit: "sarveṣāṃ bhāvānāṃ sarvatra na vidyate svabhāvaścet | tadvacanamasvabhāvaṃ na nivarttayitumasvabhāvamalaṃ ||"
+      notes: "Page 36. Footnote 1 gives the beginning, some verses (p. 2a3, 2a5, 5a8) and the colophon."
+    - id: sphutapithadinirnaya
+      item_no: 250
+      no_in_volume: 8
+      name_as_printed: "Sphuṭapīṭhādinirṇaya"
+      script: "Tibetan"
+      size_inches: "22¼×2¼"
+      leaves: "17"
+      lines_per_page: "6,7"
+      status: "Complete (?)"
+      incipit: "namaḥ śrīhevajrāya | śrīvajrayoginīpādapadmapraṇatipūrvakaṃ | saṃkṣepāllikhyatesmābhiḥ sphuṭapīṭhādinirṇayaḥ | pīṭhañcaivopapīṭhañca kṣetrañcopakṣetrameva ca |"
+      notes: "Page 36. Footnote 2 gives the beginning. Script and size printed as ditto marks; status as a ditto mark with “(?)”."
+    - id: dohakosatika
+      item_no: 251
+      no_in_volume: 9
+      name_as_printed: "Dohākośa ṭīkā"
+      tibetan_translation: true
+      size_inches: "16×1½"
+      leaves: "1"
+      lines_per_page: "6"
+      status: "Incomplete"
+      notes: "Page 36. Script blank. Footnote 3 (pp. 36–37) gives an opening verse (“pratyātmavedyaikamanaḥ śarīrampraṇamya vāgīśamanantasaukhyaṃ | prasthānasaṃjñasya …”) that names Buddhaśrījñāna and a Prasthāna, not obviously a Dohākoṣa commentary; not transcribed here."
+      uncertain_fields: [id]

@@ -1,0 +1,33 @@
+vol_no: XV
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [37], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
+_works:
+  _contains:
+    - id: varttikalankara
+      item_no: 252
+      no_in_volume: 1
+      name_as_printed: "Vārttikālaṃkāra"
+      author_as_printed: "(Prajñākaragupta)"
+      tibetan_translation: true
+      script: "Māgadhī"
+      size_inches: "24¼×2"
+      leaves: "12"
+      lines_per_page: "7"
+      status: "Incomplete"
+      notes: "Footnote 1: begins from leaf 24, and the last leaf is numbered 58."
+  _contains-also:
+    - id: varttikalankara
+      item_no: 253
+      no_in_volume: 2
+      name_as_printed: "Vārttikālaṃkāra"
+      author_as_printed: "(Prajñākaragupta)"
+      script: "Māgadhī"
+      size_inches: "23¾×2"
+      leaves: "114"
+      lines_per_page: "7"
+      status: "Incomplete"
+      notes: "Name, author, script and status printed as ditto marks. Footnote 2: begins from leaf 3 and the last leaf is 162."

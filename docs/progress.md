@@ -68,3 +68,4 @@ Inventory and scans: the `pages` list of each `_publications/<key>.yaml` is the 
 | 32 | Chhag-pe-lha-khang vols. XXXIV–XXXVIII, nos. 226–236 | done | Tamil Grantha and Sinhalese MSS.; dittos of no. 236 doubtful. |
 | 32 | Chhag-pe-lha-khang vols. XXXIV–XXXVIII, nos. 226–236 | done | Tamil Grantha and Sinhalese MSS.; dittos of no. 236 doubtful. |
 | 33–34 | VII. Ṣhalu vols. XII–XIV, nos. 237–244 | done | No. 240 (kroḍapatra) linked to the Pramāṇavārttika, flagged. |
+| 35–37 | Ṣhalu vol. XIV (end)–XVI, nos. 245–254 | done | Nos. 245, 251: footnote content does not match the title; flagged. |

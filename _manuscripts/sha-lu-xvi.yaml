@@ -1,0 +1,22 @@
+vol_no: XVI
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [37], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
+_works:
+  _contains:
+    - id: svadhisthanakramavrtti
+      item_no: 254
+      no_in_volume: 1
+      name_as_printed: "(Svādhiṣṭhānakrama)vṛtti (Saraha)"
+      author_as_printed: "Bandhukīrtti"
+      script: "Māgadhī"
+      size_inches: "12×2"
+      leaves: "25"
+      lines_per_page: "6"
+      status: "Complete"
+      incipit: "jīyāsuḥ sarahaprabhākaraparisphūrjadvaco raśmayaḥ | prajñābhṛṅgavadhūryadabhyudayato labdhaprabodhodayāḥ | pakṣapātavidhūtajāḍyavikasaccetojja(?)gatsatāṃ (|) samyaktatvamadhuprabhā na rasanā nirddha(ndva)munmādyati || ..."
+      explicit: "kṛtvā vṛttiṃ prabandhasya yadalambhi śubhaṃ mayā | tenāstu sakalo lokaḥ prabandhārthaparāyaṇaḥ || siddhācāryaśrīsarahapādaprabandhavṛttiḥ samāptā || || kṛtiriyaṃ paṇḍitasthavira bandhu kī rtti pādānāṃ |"
+      notes: "Script printed as a ditto mark. Footnote 3 gives the opening verse and the end: it is a short glossary on Saraha's 77 verses in ancient Hindi. The text at the top of p. 37 (a commentary with Apabhraṃśa verses) continues the footnote of no. 251 and is not transcribed."
