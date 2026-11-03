@@ -1,0 +1,76 @@
+vol_no: XXVI
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [38], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
+_works:
+  _contains:
+    - id: hevajrasadhanopayika
+      item_no: 119
+      no_in_volume: 1
+      name_as_printed: Hevajrasādhanopayika
+      author_as_printed: Saroruhapāda
+      script: Kuṭilā
+      size_inches: 11⅓×2⅓
+      leaves: "1-8"
+      lines_per_page: "7"
+      status: Complete
+    - id: hevajrakhyayuganaddha
+      item_no: 120
+      no_in_volume: 2
+      name_as_printed: Hevajrākhyayuganaddha T
+      author_as_printed: Advayavajra
+      tibetan_translation: true
+      script: Kuṭilā
+      size_inches: 11⅓×2⅓
+      leaves: "-22"
+      lines_per_page: "7"
+      status: Complete
+      notes: "Footnote 2 (on the leaves): on this page the Paṇḍita (Vajrapāṇi) who translated this work into Tibetan (Stan-gyur, Rgyud. XLVI. 22) inserted a verse eulogizing his teacher, the author: “yasya prasādakiraṇaiḥ sphuritātmatattvaratnaprabhāḥ pariku (sic?) prahatāndhakāraḥ | yasya (sic) anāviladṛśaḥ svavilāsamuccaiḥ tasmaiḥ (sic) namaḥ kṛtiriyaṃ gurubhāskarasya ||”. Script, size, lines and status printed as ditto marks."
+    - id: hevajrasattvavikasa
+      item_no: 121
+      no_in_volume: 3
+      name_as_printed: Hevajrasatvavikāśa
+      author_as_printed: Divākaracandra
+      script: Kuṭilā
+      size_inches: 11⅓×2⅓
+      leaves: "-46"
+      lines_per_page: "7"
+      status: Complete
+      notes: "Script, size, lines and status printed as ditto marks."
+    - id: hevajrasadhana-jnanapradipa
+      item_no: 122
+      no_in_volume: 4
+      name_as_printed: Hevajrasādhana jñānapradīpa
+      author_as_printed: Divākaracandra
+      script: Kuṭilā
+      size_inches: 11⅓×2⅓
+      leaves: "-61"
+      lines_per_page: "7"
+      status: Complete
+      notes: "Author, script, size, lines and status printed as ditto marks."
+    - id: cittavisuddhi
+      item_no: 123
+      no_in_volume: 5
+      name_as_printed: Cittaviśuddhi
+      author_as_printed: Divākaracandra
+      script: Kuṭilā
+      size_inches: 11⅓×2⅓
+      leaves: "-62"
+      lines_per_page: "7"
+      status: Complete
+      notes: "Author, script, size, lines and status printed as ditto marks."
+    - id: hevajrabalividhi
+      item_no: 124
+      no_in_volume: 6
+      name_as_printed: Hevajrabalividhi
+      author_as_printed: Divākaracandra
+      script: Kuṭilā
+      size_inches: 11⅓×2⅓
+      leaves: "-65"
+      lines_per_page: "7"
+      status: Complete
+      notes: "Author, script, size, lines and status printed as ditto marks."
+notes: "The leaves column gives where each text ends."

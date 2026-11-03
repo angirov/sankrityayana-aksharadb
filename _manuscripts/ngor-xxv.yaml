@@ -1,0 +1,21 @@
+vol_no: XXV
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [38], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
+_works:
+  _contains:
+    - id: vajraratnavali
+      item_no: 118
+      name_as_printed: Hevajraḍākinījālamahātaṃtraṭīkā (Vajraratnāvalī)
+      author_as_printed: Āryadeva
+      script: Māgadhī
+      size_inches: 10⅔×2⅛
+      leaves: "239"
+      lines_per_page: "5"
+      status: Complete (?)
+      colophon: "kṛtiriyaṃ yoginaḥ kelikuliśasya (=līlāvajrasya) | deya dharmoyaṃ ...paramopāsaka śrīantavaghoṣasya...parameśvara paramabhaṭṭāraka paramasaugata mahārājādhirāja śrīmat madanapāladeva (1134-53 A. D.) pravarddhamāna vijaya-rājye samvat 19 bhādradine 13 |"
+      notes: "Footnote 1 gives the colophon, which names the author kelikuliśa (=līlāvajra). Script printed as a ditto mark; status as a ditto mark with “(?)”. The last fraction of the size is blurred."
+      uncertain_fields: [size_inches]
