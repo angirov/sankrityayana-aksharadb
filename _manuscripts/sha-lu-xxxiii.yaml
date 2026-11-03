@@ -4,7 +4,7 @@ _locations:
     - id: sha-lu
 _publications:
   _described-in:
-    - {id: sankrtyayana1937, pages: [42], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
+    - {id: sankrtyayana1937, pages: [42, 43], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
 _works:
   _contains:
     - id: katantravrttipanjika
@@ -19,3 +19,17 @@ _works:
       lines_per_page: "6"
       status: "Incomplete"
       notes: "Page 42."
+    - id: candravyakaranavrtti
+      item_no: 294
+      no_in_volume: 2
+      name_as_printed: "Cāndravyākaraṇavṛtti"
+      author_as_printed: "Caṃdragomī"
+      tibetan_translation: true
+      script: "Kuṭilā"
+      size_inches: "22¼×2¼"
+      leaves: "117"
+      lines_per_page: "7"
+      status: "Complete (?)"
+      colophon: "samvat ā54 (N.E.254—1134 A.C.) caitraśuklasaptamyāṃ śrīmat rājādhirājaparameśvaraparamabhaṭārakaparamaśaiva mindradevasya śrī indradevasya vijayarājye likhitamiti || mahāpaṇḍitabhavanabhadrasya pustakoyaṃ |"
+      explicit: "pratyākhyānavatī hyeṣā vṛttiḥ saṃpūrṇalakṣaṇā | niṣṭhitā kumatadhvāntadhvaṃsinī vimalākṣarā || || sa jayati (ja)yotivivarddhanakumatimatadhvāntasañcayaṃ hatvā | pratapati vāṅmayagagane candra ivāvyāhataścandraḥ || jayati khyātasatkīrtiścandraḥ sadguṇaratnabhūḥ (|) vyāptasamastavāṅmayo vācaspatirivāparaḥ ||"
+      notes: "Page 43. Footnote 1: leaf no. 6 is missing; well-written MS., but owing to bad ink in some places it is unreadable. It gives the end, the colophon and, in a later hand-writing, two verses on the Jatukarṇa family (“jatukarṇṇakule jātā yo manorathadāśataḥ …”)."
