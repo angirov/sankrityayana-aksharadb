@@ -36,6 +36,11 @@ Open questions are in `progress.md`.
 - A footnote whose number points to one row but whose content clearly describes another (1937, p. 28) is assigned by its content, said so in the notes, and the notes are flagged.
 - A work in several physical volumes given one entry and a range of vol. nos. (1937 no. 216, vols. XX–XXIII) is one manuscript record, `vol_no: XX-XXIII`.
 - Unidentified titles printed as ditto marks of each other in one volume (1937 nos. 231–233, “saṃskṛtapustaka”) are separate works, since nothing shows they are one text (and a third copy could not go into `_contains-also`, issue #11).
+- The list “MSS. Photographed or copied” (1937): each entry is its own manuscript record
+  (`photographed-1937-NN`), kept in the location its sign gives (S = Sa-skya, as a monastery,
+  since the library is not named; Ng, Sh), linked to the list with `item_no` and `reproduction`
+  (x = copied). An entry is not merged with a catalogue volume even when it is evidently the same
+  (same location and work); the note names the probable volume(s). Merging is for the owner.
 - Long quotations in footnotes (1938 Spos-khang, pp. 148–162: several pages of verse and prose)
   are not transcribed into the records; the records say where they are. Their text is to come
   with the page texts (`.md`) of those pages, a later step.

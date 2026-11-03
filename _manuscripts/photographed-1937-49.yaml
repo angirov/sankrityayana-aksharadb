@@ -1,0 +1,19 @@
+_locations:
+  _kept-in:
+    - id: sa-skya
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [57], heading: "MSS. Photographed or copied"}
+_lists:
+  _listed-in:
+    - {id: photographed-1937, item_no: 49, reproduction: photographed}
+_works:
+  _contains:
+    - id: vinayakarika
+      item_no: 49
+      subject: Vinaya
+      name_as_printed: "Vinayakārikā"
+      author_as_printed: "Viśākha"
+      size_slokas: "150"
+      status: "Incomplete"
+      notes: "Marked S in the list (Sa-skya). Probably the same volume as chhag-pe-lha-khang-v of the catalogues; not merged."

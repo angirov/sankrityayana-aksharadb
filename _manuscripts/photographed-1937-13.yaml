@@ -1,0 +1,19 @@
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [55], heading: "MSS. Photographed or copied"}
+_lists:
+  _listed-in:
+    - {id: photographed-1937, item_no: 13, reproduction: photographed}
+_works:
+  _contains:
+    - id: madhyantavibhangakarikabhasya
+      item_no: 13
+      subject: Philosophy
+      name_as_printed: "Madhyāntavibhaṅgabhāṣya"
+      author_as_printed: "Vasubandhu"
+      size_slokas: "1,000"
+      status: "Complete"
+      notes: "Marked Ng in the list (Ngor). Probably the same volume as ngor-xxxiv of the catalogues; not merged."

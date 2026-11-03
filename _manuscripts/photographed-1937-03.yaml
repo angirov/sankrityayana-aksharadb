@@ -1,0 +1,19 @@
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [54], heading: "MSS. Photographed or copied"}
+_lists:
+  _listed-in:
+    - {id: photographed-1937, item_no: 3, reproduction: photographed}
+_works:
+  _contains:
+    - id: subhasitaratnakosa
+      item_no: 3
+      subject: Poetry
+      name_as_printed: "Subhāṣitaratnakośa"
+      author_as_printed: "Bhīmārjunasoma"
+      size_slokas: "1,500"
+      status: "Complete"
+      notes: "Marked Ng in the list (Ngor). Probably the same volume as ngor-xxxix of the catalogues; not merged."

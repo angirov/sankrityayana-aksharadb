@@ -1,0 +1,19 @@
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [54], heading: "MSS. Photographed or copied"}
+_lists:
+  _listed-in:
+    - {id: photographed-1937, item_no: 4, reproduction: photographed}
+_works:
+  _contains:
+    - id: chandoratnakara
+      item_no: 4
+      subject: Prosody
+      name_as_printed: "Chandoratnākara"
+      author_as_printed: "Ratnākaraśānti"
+      size_slokas: "700"
+      status: "Complete"
+      notes: "Marked Ng in the list (Ngor). Probably the same volume as ngor-xv of the catalogues; not merged."

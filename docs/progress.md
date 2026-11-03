@@ -6,7 +6,7 @@ Inventory and scans: the `pages` list of each `_publications/<key>.yaml` is the 
 | Publication | Inventory | Scans | Texts (.md) | Tables |
 |---|---|---|---|---|
 | sankrtyayana1935 | done (PDF pp. 1–15: 2 front, 6 text, 2 plates, 17 tables, 3 blanks) | done | done (pp. 21–26, front matter) | pp. 27–43 done |
-| sankrtyayana1937 | done (PDF pp. 1–36: contents, pp. 1–57, 6 plates, a chart in 2 parts) | done | not started (pp. 1–20) | pp. 21–22 done |
+| sankrtyayana1937 | done (PDF pp. 1–36: contents, pp. 1–57, 6 plates, a chart in 2 parts) | done | not started (pp. 1–20) | pp. 21–57 done |
 | sankrtyayana1938 | done (PDF pp. 1–14: contents p. vi, pp. 137–163) | done | done (pp. 137–142, contents) | pp. 143–163 done (long quotations pending) |
 
 ## Tables of 1935
@@ -44,7 +44,6 @@ Inventory and scans: the `pages` list of each `_publications/<key>.yaml` is the 
 - “Miscellaneous leaves” is kept as a work (`_works/miscellaneous-leaves`) so that a volume can link to it.
 
 - 1935: the scan ends with p. 43, but the article goes on (the footnote of no. 184 breaks off and refers to footnotes 3–6). We need pp. 44 ff. of JBORS XXI, Pt. I.
-- 1937: the photographed list ends with no. 55 on p. 57; does it go on?
 
 ## Tables of 1938
 
@@ -82,3 +81,4 @@ Inventory and scans: the `pages` list of each `_publications/<key>.yaml` is the 
 | 49 | Ṣhalu vol. XXXVII (end), nos. 314–318 | done | |
 | 50 | Ṣhalu vols. XXXVII (end)–XXXVIII, nos. 319–324 | done | |
 | 51–53 | Ṣhalu vol. XXXVIII (end), nos. 325–330; VIII. Rta-nag Thub-stan, nos. 331–334; IX. Ngor vol. XL, nos. 335–336 | done | Ngor “XL” printed for both 335 and 336. |
+| 54–57 | MSS. Photographed or copied, nos. 1–55 | done | Complete list (p. 57 lower half blank). 42 entries point to a probable catalogue volume in their notes. |

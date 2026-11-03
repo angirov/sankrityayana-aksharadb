@@ -1,0 +1,19 @@
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [56], heading: "MSS. Photographed or copied"}
+_lists:
+  _listed-in:
+    - {id: photographed-1937, item_no: 31, reproduction: photographed}
+_works:
+  _contains:
+    - id: unidentified-1937-photo-31
+      item_no: 31
+      subject: Logic
+      name_as_printed: "Pramāṇavārttikaṭīkā"
+      author_as_printed: "Unknown"
+      size_slokas: ".."
+      status: "Incomplete"
+      notes: "Marked Ng in the list (Ngor). Author printed as a ditto mark; size “..”."

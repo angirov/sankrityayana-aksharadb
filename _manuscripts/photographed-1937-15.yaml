@@ -1,0 +1,20 @@
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [55], heading: "MSS. Photographed or copied"}
+_lists:
+  _listed-in:
+    - {id: photographed-1937, item_no: 15, reproduction: photographed}
+_works:
+  _contains:
+    - id: mahayanottaratantratika
+      item_no: 15
+      subject: Philosophy
+      name_as_printed: "Mahāyānottaratantraṭīkā"
+      author_as_printed: "Yaśomitra"
+      size_slokas: "200"
+      status: "Incomplete"
+      notes: "Marked Sh in the list (Ṣha-lu). Name printed “” ṭīkā”. The catalogue (no. 242, Ṣha-lu) gives the author as “(Asaṃga ?)”; here Yaśomitra. Probably the same volume as sha-lu-xiii of the catalogues; not merged."
+      uncertain_fields: [author_as_printed]

@@ -1,0 +1,19 @@
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [55], heading: "MSS. Photographed or copied"}
+_lists:
+  _listed-in:
+    - {id: photographed-1937, item_no: 11, reproduction: copied}
+_works:
+  _contains:
+    - id: madhyamakahrdaya
+      item_no: 11
+      subject: Philosophy
+      name_as_printed: "Tarkajvālā"
+      author_as_printed: "Bhavya"
+      size_slokas: "1,000"
+      status: "Incomplete"
+      notes: "Marked Sh in the list (Ṣha-lu). Probably the same volume as sha-lu-xxxvii of the catalogues; not merged."

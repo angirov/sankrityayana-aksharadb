@@ -1,0 +1,19 @@
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [55], heading: "MSS. Photographed or copied"}
+_lists:
+  _listed-in:
+    - {id: photographed-1937, item_no: 14, reproduction: photographed}
+_works:
+  _contains:
+    - id: mahayanottaratantra
+      item_no: 14
+      subject: Philosophy
+      name_as_printed: "Mahāyānottaratantra"
+      author_as_printed: "Maitreya"
+      size_slokas: "500"
+      status: "Incomplete"
+      notes: "Marked Ng in the list (Ngor). Probably the same volume as ngor-viii of the catalogues; not merged."

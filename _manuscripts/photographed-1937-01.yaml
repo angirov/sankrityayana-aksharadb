@@ -1,0 +1,19 @@
+_locations:
+  _kept-in:
+    - id: sa-skya
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [54], heading: "MSS. Photographed or copied"}
+_lists:
+  _listed-in:
+    - {id: photographed-1937, item_no: 1, reproduction: copied}
+_works:
+  _contains:
+    - id: adhyardhasataka
+      item_no: 1
+      subject: Poetry
+      name_as_printed: "Adhyardhaśataka"
+      author_as_printed: "Mātṛceṭa"
+      size_slokas: "153"
+      status: "Complete"
+      notes: "Marked S in the list (Sa-skya). Probably the same volume as chhag-pe-lha-khang-ix of the catalogues; not merged."

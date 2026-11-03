@@ -1,0 +1,19 @@
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [55], heading: "MSS. Photographed or copied"}
+_lists:
+  _listed-in:
+    - {id: photographed-1937, item_no: 21, reproduction: photographed}
+_works:
+  _contains:
+    - id: avayavinirakarana
+      item_no: 21
+      subject: Logic
+      name_as_printed: "Avayavinirākaraṇa"
+      author_as_printed: "Ratnakīrti"
+      size_slokas: "200 (?)"
+      status: "Complete"
+      notes: "Marked Sh in the list (Ṣha-lu). Author printed as a ditto mark. Probably the same volume as sha-lu-viii of the catalogues; not merged."

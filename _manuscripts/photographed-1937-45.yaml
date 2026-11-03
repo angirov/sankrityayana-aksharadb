@@ -1,0 +1,19 @@
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [56], heading: "MSS. Photographed or copied"}
+_lists:
+  _listed-in:
+    - {id: photographed-1937, item_no: 45, reproduction: photographed}
+_works:
+  _contains:
+    - id: upasampadajnapti
+      item_no: 45
+      subject: Vinaya
+      name_as_printed: "Upasampadājñapti"
+      author_as_printed: "(Vinaya)"
+      size_slokas: "70"
+      status: "Complete"
+      notes: "Marked Ng in the list (Ngor). Probably the same volume as ngor-xix of the catalogues; not merged."

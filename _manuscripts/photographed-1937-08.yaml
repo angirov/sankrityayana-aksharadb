@@ -1,0 +1,19 @@
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [54], heading: "MSS. Photographed or copied"}
+_lists:
+  _listed-in:
+    - {id: photographed-1937, item_no: 8, reproduction: photographed}
+_works:
+  _contains:
+    - id: abhidharmadipa
+      item_no: 8
+      subject: Philosophy
+      name_as_printed: "Abhidharmapradīpa"
+      author_as_printed: "Unknown"
+      size_slokas: "1,500"
+      status: "Incomplete"
+      notes: "Marked Sh in the list (Ṣha-lu). Probably the same volume as sha-lu-xiv of the catalogues; not merged."

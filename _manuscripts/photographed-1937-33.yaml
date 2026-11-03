@@ -1,0 +1,19 @@
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [56], heading: "MSS. Photographed or copied"}
+_lists:
+  _listed-in:
+    - {id: photographed-1937, item_no: 33, reproduction: copied}
+_works:
+  _contains:
+    - id: pramanavarttikavrtti-manorathanandin
+      item_no: 33
+      subject: Logic
+      name_as_printed: "Pra° vā° vṛtti"
+      author_as_printed: "Manorathanandī"
+      size_slokas: "10,000"
+      status: "Complete"
+      notes: "Marked Sh in the list (Ṣha-lu). Probably the same volume as sha-lu-xii of the catalogues; not merged."

@@ -1,0 +1,19 @@
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [57], heading: "MSS. Photographed or copied"}
+_lists:
+  _listed-in:
+    - {id: photographed-1937, item_no: 53, reproduction: photographed}
+_works:
+  _contains:
+    - id: vinayasutravrtti
+      item_no: 53
+      subject: Vinaya
+      name_as_printed: "Vinayasūtravṛtti"
+      author_as_printed: "Guṇaprabha"
+      size_slokas: "300"
+      status: "Complete"
+      notes: "Marked Sh in the list (Ṣha-lu). Name printed “” vṛtti”; author as a ditto mark. Probably the same volume as sha-lu-xiv of the catalogues; not merged."

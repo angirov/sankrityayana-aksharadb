@@ -1,0 +1,18 @@
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [56], heading: "MSS. Photographed or copied"}
+_lists:
+  _listed-in:
+    - {id: photographed-1937, item_no: 36, reproduction: photographed}
+_works:
+  _contains:
+    - id: pramanantarbhavaprakarana
+      item_no: 36
+      subject: Logic
+      name_as_printed: "Pramāṇāntarbhāvaprakaraṇa"
+      author_as_printed: "Ratnakīrti"
+      size_slokas: "200"
+      notes: "Marked Sh in the list (Ṣha-lu). Neither Complete nor Incomplete marked. Probably the same volume as sha-lu-viii of the catalogues; not merged."

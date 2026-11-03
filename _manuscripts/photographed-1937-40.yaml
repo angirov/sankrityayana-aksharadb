@@ -1,0 +1,19 @@
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [56], heading: "MSS. Photographed or copied"}
+_lists:
+  _listed-in:
+    - {id: photographed-1937, item_no: 40, reproduction: photographed}
+_works:
+  _contains:
+    - id: sarvajnasiddhisamksepa
+      item_no: 40
+      subject: Logic
+      name_as_printed: "Sarvajñasiddhisaṃkṣepa"
+      author_as_printed: "Śaṅkaranandana"
+      size_slokas: "100"
+      status: "Complete"
+      notes: "Marked Ng in the list (Ngor). Probably the same volume as ngor-xxxvii of the catalogues; not merged."

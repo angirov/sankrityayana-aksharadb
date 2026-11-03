@@ -1,0 +1,19 @@
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [55], heading: "MSS. Photographed or copied"}
+_lists:
+  _listed-in:
+    - {id: photographed-1937, item_no: 27, reproduction: photographed}
+_works:
+  _contains:
+    - id: nairatmyasiddhi
+      item_no: 27
+      subject: Logic
+      name_as_printed: "Nairātmyasiddhi"
+      author_as_printed: "Jitāri"
+      size_slokas: "50"
+      status: "Complete"
+      notes: "Marked Ng in the list (Ngor). Probably the same volume as ngor-xxxiii of the catalogues; not merged."
