@@ -1,0 +1,32 @@
+vol_no: VII
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [33], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
+_works:
+  _contains:
+    - id: astasahasrika-prajnaparamita
+      item_no: 61
+      no_in_volume: 1
+      name_as_printed: Aṣṭasāhasrikā pra° pā° T
+      tibetan_translation: true
+      script: Māgadhī
+      size_inches: 22×2²⁄₉
+      leaves: "202"
+      lines_per_page: "6"
+      status: Complete
+      colophon: "samvat achata (283 N. E.=1163 A. D.) bhādrapada.....śrīmacchaṃkaradevarājñe śrīlajaluṃka (?)vāstavya gaṃgārāṇakena likhiteyamiti |"
+      notes: "Title and script printed as ditto marks. Footnote 2 gives the colophon and adds, “In a later ink”: “samvat a cha 9 (289 N. E.=1169 A. D.) phālguṇa kṛṣṇāṣṭamyāṃ śukradine jeṣṭhanakṣatre mīnasaṃkrānti mahāparvani prasastāni |”. The size is printed 2 2/9."
+      uncertain_fields: [size_inches]
+    - id: unidentified-1935-62
+      item_no: 62
+      no_in_volume: 2
+      name_as_printed: Vyākaraṇa (?)
+      script: Māgadhī
+      size_inches: 22×2²⁄₉
+      leaves: "10"
+      lines_per_page: "7"
+      status: Incomplete
+      notes: Script and size printed as ditto marks.

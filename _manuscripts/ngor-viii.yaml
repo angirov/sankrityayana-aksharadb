@@ -1,0 +1,100 @@
+vol_no: VIII
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [33], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
+_works:
+  _contains:
+    - id: astasahasrika-prajnaparamita
+      item_no: 63
+      no_in_volume: 1
+      name_as_printed: Aṣṭasāhasrikāprajñāpāramitā T
+      tibetan_translation: true
+      script: Rañjana
+      size_inches: 21⅓×2
+      lines_per_page: "5"
+      status: Incomplete
+      notes: "Status printed as a ditto mark."
+    - id: unidentified-1935-65
+      item_no: 65
+      no_in_volume: 3
+      name_as_printed: ...(kāvya-) ṭīkā
+      script: Kuṭilā
+      size_inches: 21⅓×2
+      lines_per_page: "6"
+      status: Incomplete
+      notes: "Size and status printed as ditto marks."
+    - id: unidentified-1935-66
+      item_no: 66
+      no_in_volume: 4
+      name_as_printed: (darśanagraṃtha)
+      script: Kuṭilā
+      size_inches: 21⅓×2
+      leaves: "4"
+      lines_per_page: "6"
+      status: Incomplete
+      notes: "Script, size and status printed as ditto marks."
+    - id: ekavrksaditika
+      item_no: 67
+      no_in_volume: 5
+      name_as_printed: Ekavṛkṣādiṭīkā
+      script: Kuṭilā
+      size_inches: 21⅓×1⅔
+      leaves: "2"
+      lines_per_page: "4"
+      status: Incomplete
+      notes: "Script and status printed as ditto marks."
+    - id: mahayanottaratantra
+      item_no: 68
+      no_in_volume: 6
+      name_as_printed: Mahāyānottarataṃtra T
+      author_as_printed: (Maitreyanātha)
+      tibetan_translation: true
+      script: Kuṭilā
+      size_inches: 21⅓×2
+      leaves: "11"
+      lines_per_page: "7"
+      status: Incomplete
+      notes: "Script and status printed as ditto marks."
+    - id: unidentified-1935-69
+      item_no: 69
+      no_in_volume: 7
+      name_as_printed: (darśanagraṃtha)
+      script: Kuṭilā
+      size_inches: 21⅓×2
+      leaves: "3"
+      lines_per_page: "8"
+      status: Incomplete
+      notes: "Script, size and status printed as ditto marks."
+    - id: prakaranayogapitha
+      item_no: 70
+      no_in_volume: 8
+      name_as_printed: Prakaraṇayogapīṭha
+      script: Kuṭilā
+      size_inches: 21⅓×2
+      leaves: "5"
+      lines_per_page: "5"
+      status: Incomplete
+      notes: "Script, size and status printed as ditto marks."
+    - id: cakrasamvaravivrti
+      item_no: 71
+      no_in_volume: 9
+      name_as_printed: Cakrasaṃvaravivṛti
+      script: Kuṭilā
+      size_inches: 21⅓×2
+      lines_per_page: "8, 11"
+      status: Incomplete
+      notes: "Script, size and status printed as ditto marks."
+  _contains-also:
+    - id: astasahasrika-prajnaparamita
+      item_no: 64
+      no_in_volume: 2
+      name_as_printed: Aṣṭasāhasrikāprajñāpāramitā
+      script: Rañjana
+      size_inches: 21⅓×2
+      lines_per_page: "5"
+      status: Incomplete
+      notes: "Title, script, size and status printed as ditto marks; whether the ditto takes in the T is not clear."
+      uncertain_fields: [tibetan_translation]

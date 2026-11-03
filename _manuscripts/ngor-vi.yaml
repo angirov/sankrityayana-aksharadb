@@ -1,0 +1,19 @@
+vol_no: VI
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [33], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
+_works:
+  _contains:
+    - id: astasahasrika-prajnaparamita
+      item_no: 60
+      name_as_printed: Aṣṭasāhasrikā pra° pā° T
+      tibetan_translation: true
+      script: Māgadhī
+      size_inches: 14×2⅓
+      lines_per_page: "6"
+      status: Incomplete
+      colophon: "...mahāyānayāyinaḥ paramopāsaka jayapurīya sādhu śrīparadharasuta sādhu śrīmūrtidharasya...samvat 1334 (1277 A. D.) śrīkoṇanagare śrī va na rā ja devasya vijayarājye...phālguṇa dine 30 budhavāre pūrṇimāyāntithau pūrvaphālguṇīnakṣatre siṃharāśau candre |"
+      notes: "Footnote 1 gives the colophon; the spaced “va na rā ja” is the source's. Leaves printed “..”."

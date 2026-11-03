@@ -104,4 +104,11 @@ properties:
         type: array
         items: {$ref: "#/$defs/contentLink"}
         minItems: 1
+      _contains-also:
+        description: >
+          A further copy of a work already in _contains of the same volume (a link may
+          name a work only once per list).
+        type: array
+        items: {$ref: "#/$defs/contentLink"}
+        minItems: 1
   notes: {type: string}
