@@ -1,0 +1,14 @@
+vol_no: XXXII
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [41], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
+_works:
+  _contains:
+    - id: miscellaneous-leaves
+      item_no: 156
+      name_as_printed: Loose leaves on vyākaraṇa, lakṣaṇa etc.
+      status: Incomplete
+      notes: "All other columns printed “..”."

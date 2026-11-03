@@ -1,0 +1,49 @@
+vol_no: XXXV
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [41], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
+_works:
+  _contains:
+    - id: ekajatastotra
+      item_no: 163
+      no_in_volume: 1
+      name_as_printed: Ekajaṭāstotra
+      script: Nāgarī
+      size_inches: 6×1⅔
+      leaves: "2"
+      lines_per_page: "6"
+      status: Complete
+      notes: "Status printed as a ditto mark."
+    - id: ganapatihrdayadharani
+      item_no: 164
+      no_in_volume: 2
+      name_as_printed: Gaṇapatihṛdayadhāraṇī
+      script: Nāgarī
+      size_inches: 7⅓×1⅚
+      leaves: "3"
+      lines_per_page: "5"
+      status: Complete
+      notes: "Script and status printed as ditto marks."
+    - id: pancaraksavali
+      item_no: 165
+      no_in_volume: 3
+      name_as_printed: Paṃcarakṣāvali
+      script: Maithilī
+      size_inches: 8⅔×1⅓
+      leaves: "4"
+      lines_per_page: "4"
+      status: Complete
+      notes: "Status printed as a ditto mark."
+    - id: vajrasuci
+      item_no: 166
+      no_in_volume: 4
+      name_as_printed: Vajrasūcī
+      script: Nāgarī
+      size_inches: 8⅔×1⅓
+      leaves: "10"
+      lines_per_page: "4,5"
+      status: Complete
+      notes: "Size and status printed as ditto marks."

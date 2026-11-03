@@ -1,0 +1,17 @@
+vol_no: XXXVI
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [41], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
+_works:
+  _contains:
+    - id: miscellaneous-leaves
+      item_no: 167
+      name_as_printed: Loose leaves
+      author_as_printed: Tamil
+      script: Vartula
+      size_inches: 51⅓×1⅓
+      notes: "“Tamil” is printed in the author column (the language?). Leaves, lines and status “..”. The size is printed 51⅓×1⅓."
+      uncertain_fields: [size_inches, author_as_printed]

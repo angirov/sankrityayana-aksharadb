@@ -1,0 +1,31 @@
+vol_no: XXXIII
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1935, pages: [41], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
+_works:
+  _contains:
+    - id: rasaprakasamartanda
+      item_no: 157
+      no_in_volume: 1
+      name_as_printed: Rasaprakāśamārtaṇḍa*
+      author_as_printed: Govindanātha
+      script: Nāgarī
+      size_inches: 10×3⅓
+      leaves: "44"
+      lines_per_page: "6"
+      status: Complete
+      notes: "Footnote *: written on paper. Footnote 1: in the beginning of the book (which is in modern Nāgarī character) the author writes: “gurjarāvalayotpanne śūrādityadvijottamaḥ | tasyodbhava sutaḥ jñāto goviṃdaḥ śivapūjakaḥ |”."
+    - id: nairatmyasiddhi
+      item_no: 158
+      no_in_volume: 2
+      name_as_printed: Nairātmyasiddhi*
+      author_as_printed: Jetāripāda
+      script: Śāradā
+      size_inches: 8⅔×3
+      lines_per_page: "7"
+      status: Complete
+      notes: "Footnote *: written on paper. Status printed as a ditto mark; leaves “..”."
+notes: Written on paper (footnote *).
