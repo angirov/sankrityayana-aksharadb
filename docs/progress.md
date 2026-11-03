@@ -74,3 +74,4 @@ Inventory and scans: the `pages` list of each `_publications/<key>.yaml` is the 
 | 41 | Ṣhalu vols. XXIV (end)–XXVII, nos. 277–287 | done | No. 283 numbered 10 in vol. XXV; footnote of no. 280 does not fit the title. |
 | 42 | Ṣhalu vols. XXVIII–XXXIII, nos. 288–293 | done | |
 | 43 | Ṣhalu vols. XXXIII (end)–XXXIV, nos. 294–296 | done | |
+| 44 | Ṣhalu vol. XXXV, nos. 297–300 | done | Cross-reference “XXIV. 4” for no. 300 points to no. 277; the copy is no. 276. |
