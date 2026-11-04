@@ -21,13 +21,19 @@ Open questions are in `progress.md`.
 - A work named only in a footnote, not numbered in the list (1938, Pratyekabuddhabhūmi with
   no. 350), is a `_contains` link without `item_no`.
 - A volume described in two publications (Spos-khang I–III: 1935, and “some correction and
-  addition” in 1938) stays one manuscript with two `_described-in` links. Each `_contains` link
-  of such a volume names its list in `source`. Both lists are kept as printed, even where 1938
-  corrects 1935 (titles, numbers, the volume a title is in); notes point out the differences.
-  Where both lists name the same work, the entry of 1938 goes to `_contains-also` (see issue #11:
-  `source` plus `item_no` would be the discriminator).
-- In 1938 Spos-khang nos. 6–7 have no vol. no.; a new count (1) begins after vol. I, so they are
-  taken as vol. II (where 1935 has nos. 5–6).
+  addition” in 1938) stays one manuscript with two `_described-in` links, and its `_contains`
+  links follow 1938 (owner, 2026-11-04; replaces “both lists kept as printed”). One link per
+  entry of 1938, with `source: sankrtyayana1938`; the reading of 1935 (title, number, marks) goes
+  into the notes of the link it corresponds to. Correspondences: III by position (1935 nos. 7, 8,
+  9 → 1938 nos. 8, 363, 9; confirmed by the title page quoted in 1938); I no. 4 → no. 4 (the
+  footnote cites 1935); II no. 6 → no. 7 (Parikathā) and no. 5 → no. 6: the “Commentary on some
+  Sarvāstivāda Sūtras” of 1935 is most likely the Tridaṇḍamālā (owner), so that work was removed.
+- In 1938 Spos-khang nos. 6–7 the Vol. column is empty (p. 157: only the number in the volume, 1,
+  begins anew); most likely vol. II, its number left out by mistake (owner), where 1935 has nos.
+  5–6.
+- Madhyāntavibhaṅgakārikā and Madhyāntavibhaṅgasūtra (1935, Spos-khang III nos. 7, 8) are not told
+  apart: one work `madhyantavibhaga` (owner, 2026-11-04). 1938 has the title once; in the place of
+  the second it has the Dharmadharmatāvibhāga.
 - 1937: item numbers 180–184 of section VI (Chhag-pe-lha-khang, Sa-skya) repeat the numbers of
   1935 (Gu-rim-lha-khang, nos. 180–184): the list of 1937 restarts its count at 180. Numbers are
   only unique within a publication; `item_no` is read together with the publication.
@@ -61,7 +67,8 @@ Open questions are in `progress.md`.
   vadanyayatika-1935-171 → vadanyayatika (probable, the link is flagged); pramanavarttikavrtti
   renamed pramanavarttikasvavrtti. The printed titles stay in `name_as_printed` and
   `other_titles`. Kept apart for now: the two Hevajrasādhanas of Anaṅgavajra, the two
-  Cakrasaṃvaravivṛtis, the Cāndravyākaraṇa commentaries, Madhyāntavibhaṅgasūtra/-kārikā.
+  Cakrasaṃvaravivṛtis, the Cāndravyākaraṇa commentaries (Madhyāntavibhaṅgasūtra/-kārikā: merged,
+  see above).
 - Long quotations in footnotes (1938 Spos-khang, pp. 148–162: several pages of verse and prose)
   are not transcribed into the records; the records say where they are. Their text is to come
   with the page texts (`.md`) of those pages, a later step.

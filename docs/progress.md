@@ -53,12 +53,12 @@ To decide (owner):
   (e.g. vinayaksudraka → bhiksuprakirnakavinaya). Nos. 10, 19, 22 are list-only volumes at Ṣha-lu
   whose candidate is at Ngor. Details: `photographed-1937-matches.md`.
 - Works kept apart for now (decisions.md): the two Hevajrasādhanas of Anaṅgavajra (Ngor XXVI),
-  the two Cakrasaṃvaravivṛtis, the Cāndravyākaraṇa commentaries (1935 no. 82, 1937 no. 295),
-  Madhyāntavibhaṅgasūtra and -kārikā (1935 nos. 7, 8).
+  the two Cakrasaṃvaravivṛtis, the Cāndravyākaraṇa commentaries (1935 no. 82, 1937 no. 295).
 - 1938 p. 139: the Parikathā (Spos-khang, 1935 no. 6, 1938 no. 7) is “by a later author”, not
   Aśvaghoṣa; the work is still linked to Aśvaghoṣa as in 1935.
-- 1938 Spos-khang corrects 1935 (no. 4 is a Sūtra-dhāraṇīsaṃgraha, not an Aṣṭasāhasrikā; no. 5 a
-  grammatical commentary in vol. I; no. 8 a Dharmadharmatāvibhāga). Both are kept as printed.
+- 1938 Spos-khang corrects 1935 (no. 4 is a Sūtra-dhāraṇīsaṃgraha, not an Aṣṭasāhasrikā; no. 8 a
+  Dharmadharmatāvibhāga; the Sarvāstivāda commentary is the Tridaṇḍamālā). Done 2026-11-04: the
+  three volumes follow 1938, the readings of 1935 are in the notes of the links (decisions.md).
 - 1937 Chhag-pe-lha-khang vol. IV: taken (owner) as the volume of nos. 186–192. The layout of
   p. 21 speaks rather for no. 185: the roman numbers and the data columns stand about half a line
   above the titles (II by no. 183, III by 184, IV by 185). To confirm.
@@ -82,8 +82,8 @@ Noted, no action:
 
 - Page texts (`.md`) for the table pages, to hold the long footnote quotations that the records
   mark “not transcribed here” (1938 pp. 148–162; 1937 nos. 195, 200, 201, 251, 307, 310, 325 …).
-- Position in the volume on every `_contains` link, required; Spos-khang I–III follow 1938
-  (issue #1 of this repository, decided 2026-11-04).
+- Position in the volume on every `_contains` link, required (issue #1 of this repository; its
+  step 5, Spos-khang I–III following 1938, is done).
 - When AksharaDB has issue #11 (`linkDiscriminator`) and #12 (`refersTo`): `_contains` is keyed by
   `no_in_volume` (not `item_no` or `source`), so `_contains-also` goes; `_includes` of the list of
   1937 by `item_no`, so `_includes-also` goes; make `location` and `manuscript` of list entries
