@@ -37,8 +37,15 @@ Both must pass before a commit.
 One page at a time: check each page's result against the scan before the next. Don't
 batch-transcribe pages unread.
 
+## Where things are
+
+`docs/progress.md` (state, open questions, next steps), `docs/decisions.md` (every decision and
+its reason), `docs/photographed-1937-matches.md`, `docs/aksharadb-wishes.md`. Read them first.
+
 ## Working rules
 
 - English in files and commits. Commit each finished page or step; push only when asked.
+  The repository is github.com/angirov/sankrityayana-aksharadb (renamed; push to that URL if
+  `origin` still names the old one).
 - Work out a key, a work's identity or an author's name carefully; when unsure, keep the
   printed form and say so in `notes`, rather than guessing an identification.
