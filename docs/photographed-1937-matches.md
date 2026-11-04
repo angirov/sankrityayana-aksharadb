@@ -2,17 +2,25 @@
 
 Each entry of “MSS. Photographed or copied” (1937, pp. 54–57) compared with the catalogue
 volumes of 1935, 1937 and 1938: same work and same location (S = Sa-skya libraries, Ng, Sh).
-The list names works, so it is linked to `_works` only; which volume an entry was
-photographed from is not recorded. This is a worksheet for the owner (2026-11-04).
+The list names works; each entry also names the volume it is identified with (`manuscript`) and
+how sure that is (`match`) in `_lists/photographed-1937.yaml` (2026-11-04):
 
-## Found in the catalogues: 41 of 55
+| match | entries | |
+|---|---|---|
+| certain | 41 | the same work at the same place in exactly one catalogued volume |
+| probable | 4 | nos. 24, 28, 50, 55 |
+| possible | 1 | no. 51 |
+| list-only | 9 | nos. 5, 10, 12, 19, 22, 31, 37, 41, 48: new volume records `<location>-photographed-<no>` |
 
-40 entries match a catalogue volume of the same work in the same place. Points to look at among them:
+The tables below give the reasons.
+
+## Found in the catalogues
+
+41 entries match a catalogue volume of the same work in the same place. Points to look at among them:
 
 - No. 14 Mahāyānottaratantra (Ng): Ngor 1935 no. 68; another copy is at Ṣha-lu (1935 no. 43).
 - No. 15 Mahāyānottaratantraṭīkā (Sh): author Yaśomitra here, “(Asaṃga ?)” in the catalogue (no. 242).
 - No. 17 Vajrasūcī (Ng): author Aśvaghoṣa here, none in the catalogue (1935 no. 166).
-- No. 24 Kṣaṇabhaṅgādhyāya (Sh): two catalogue copies, 1937 no. 241 and 1938 no. 337.
 - No. 53/54 Vinayasūtravṛtti (Sh, S): catalogue copies 1937 no. 244 (Ṣha-lu) and no. 193 (Sa-skya).
 
 One entry names a work catalogued elsewhere:
@@ -20,9 +28,13 @@ One entry names a work catalogued elsewhere:
 - No. 19 Viṃśikāvivṛti, marked Sh: the only catalogue copy is at Ngor (1935 no. 115). A wrong
   sign, or a copy at Ṣha-lu not in the catalogue.
 
-## Not in the catalogues under the same name: 14
+## Not in the catalogues under the same name
 
-Probable matches under another name (to decide):
+No. 24 Kṣaṇabhaṅgādhyāya (Sh) has two catalogue copies (1937 no. 241, 1938 no. 337); it is taken
+as vol. XIII (probable), since the copy made in 1936 cannot be the volume found in 1938.
+
+Probable and possible matches under another name (to decide). Nos. 10 and 22 have their candidate
+at another place, so they are list-only volumes at Ṣha-lu:
 
 | No. | Entry | Candidate in the catalogues | Why |
 |---|---|---|---|
@@ -33,7 +45,7 @@ Probable matches under another name (to decide):
 | 10 | Abhidharmasamuccayabhāṣya, Yaśomitra, Sh | 1935 no. 86 Sāṃkathyaviniścaya “from Abhidharmasamuccayabhāṣya (Yaśomitra)” | same work named; but that MS. is at Ngor |
 | 22 | Āgamaprāmāṇyanirāsa, Sh | 1935 no. 175 Āgamaprāmāṇyakārikā | similar title; but that MS. is at Ngor |
 
-No candidate found; these works occur only in this list:
+No candidate found; these works occur only in this list (list-only volumes, like nos. 10, 19, 22):
 
 | No. | Entry | Place | Remark |
 |---|---|---|---|

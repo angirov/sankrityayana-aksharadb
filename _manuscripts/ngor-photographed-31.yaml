@@ -1,0 +1,17 @@
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [56], heading: "MSS. Photographed or copied"}
+_works:
+  _contains:
+    - id: unidentified-1937-photo-31
+      item_no: 31
+      subject: "Logic"
+      name_as_printed: "Pramāṇavārttikaṭīkā"
+      author_as_printed: "Unknown"
+      size_slokas: ".."
+      status: "Incomplete"
+      notes: "Known only from the list of MSS. photographed or copied (1937, no. 31)."
+notes: "A volume known only from the photographed list of 1937 (no. 31), which names the work and the place, not the volume."

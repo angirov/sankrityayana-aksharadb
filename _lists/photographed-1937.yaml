@@ -21,6 +21,8 @@ _works:
       size_slokas: "153"
       status: "Complete"
       location: "sa-skya"
+      manuscript: "chhag-pe-lha-khang-ix"
+      match: "certain"
       reproduction: "copied"
       notes: "Marked S in the list (Sa-skya)."
     - id: dohakosa
@@ -32,6 +34,8 @@ _works:
       size_slokas: "60"
       status: "Complete (?)"
       location: "ngor"
+      manuscript: "ngor-xl"
+      match: "certain"
       reproduction: "photographed"
       notes: "Marked Ng in the list (Ngor)."
     - id: subhasitaratnakosa
@@ -43,6 +47,8 @@ _works:
       size_slokas: "1,500"
       status: "Complete"
       location: "ngor"
+      manuscript: "ngor-xxxix"
+      match: "certain"
       reproduction: "photographed"
       notes: "Marked Ng in the list (Ngor)."
     - id: chandoratnakara
@@ -54,6 +60,8 @@ _works:
       size_slokas: "700"
       status: "Complete"
       location: "ngor"
+      manuscript: "ngor-xv"
+      match: "certain"
       reproduction: "photographed"
       notes: "Marked Ng in the list (Ngor)."
     - id: unidentified-1937-photo-5
@@ -65,6 +73,8 @@ _works:
       size_slokas: "6,000"
       status: "Incomplete"
       location: "sa-skya"
+      manuscript: "sa-skya-photographed-5"
+      match: "list-only"
       reproduction: "photographed"
       notes: "Marked S in the list (Sa-skya)."
     - id: abhidharmakosakarika
@@ -76,6 +86,8 @@ _works:
       size_slokas: "550"
       status: "Complete (?)"
       location: "ngor"
+      manuscript: "ngor-xx"
+      match: "certain"
       reproduction: "photographed"
       notes: "Marked Ng in the list (Ngor)."
     - id: abhidharmakosabhasya
@@ -87,6 +99,8 @@ _works:
       size_slokas: "15,000"
       status: "Complete"
       location: "ngor"
+      manuscript: "ngor-xl"
+      match: "certain"
       reproduction: "photographed"
       notes: "Marked Ng in the list (Ngor). Name printed “” bhāṣya”; author as a ditto mark."
     - id: abhidharmadipa
@@ -98,6 +112,8 @@ _works:
       size_slokas: "1,500"
       status: "Incomplete"
       location: "sha-lu"
+      manuscript: "sha-lu-xiv"
+      match: "certain"
       reproduction: "photographed"
       notes: "Marked Sh in the list (Ṣha-lu)."
     - id: abhidharmasamuccaya
@@ -109,6 +125,8 @@ _works:
       size_slokas: "250"
       status: "Incomplete"
       location: "sha-lu"
+      manuscript: "sha-lu-xxxvii"
+      match: "certain"
       reproduction: "photographed"
       notes: "Marked Sh in the list (Ṣha-lu)."
     - id: abhidharmasamuccayabhasya
@@ -120,6 +138,9 @@ _works:
       size_slokas: "4,000"
       status: "Complete"
       location: "sha-lu"
+      manuscript: "sha-lu-photographed-10"
+      match: "list-only"
+      match_note: "Not catalogued at Ṣha-lu. The work is named in 1935 no. 86 (“Sāṃkathyaviniścaya from Abhidharmasamuccayabhāṣya (Yaśomitra)”), but that MS. is at Ngor (vol. XV)."
       reproduction: "photographed"
       notes: "Marked Sh in the list (Ṣha-lu). Name printed “” bhāṣya”."
     - id: madhyamakahrdaya
@@ -131,6 +152,8 @@ _works:
       size_slokas: "1,000"
       status: "Incomplete"
       location: "sha-lu"
+      manuscript: "sha-lu-xxxvii"
+      match: "certain"
       reproduction: "copied"
       notes: "Marked Sh in the list (Ṣha-lu)."
     - id: unidentified-1937-photo-12
@@ -141,6 +164,8 @@ _works:
       author_as_printed: "Unknown"
       status: "Incomplete"
       location: "sha-lu"
+      manuscript: "sha-lu-photographed-12"
+      match: "list-only"
       reproduction: "photographed"
       notes: "Marked Sh in the list (Ṣha-lu). Size blank."
     - id: madhyantavibhangakarikabhasya
@@ -152,6 +177,8 @@ _works:
       size_slokas: "1,000"
       status: "Complete"
       location: "ngor"
+      manuscript: "ngor-xxxiv"
+      match: "certain"
       reproduction: "photographed"
       notes: "Marked Ng in the list (Ngor)."
     - id: mahayanottaratantra
@@ -163,6 +190,8 @@ _works:
       size_slokas: "500"
       status: "Incomplete"
       location: "ngor"
+      manuscript: "ngor-viii"
+      match: "certain"
       reproduction: "photographed"
       notes: "Marked Ng in the list (Ngor)."
     - id: mahayanottaratantratika
@@ -174,6 +203,8 @@ _works:
       size_slokas: "200"
       status: "Incomplete"
       location: "sha-lu"
+      manuscript: "sha-lu-xiii"
+      match: "certain"
       reproduction: "photographed"
       notes: "Marked Sh in the list (Ṣha-lu). Name printed “” ṭīkā”. The catalogue (no. 242, Ṣha-lu) gives the author as “(Asaṃga ?)”; here Yaśomitra."
       uncertain_fields: [author_as_printed]
@@ -186,6 +217,8 @@ _works:
       size_slokas: "8,000"
       status: "Incomplete"
       location: "sa-skya"
+      manuscript: "chhag-pe-lha-khang-vii"
+      match: "certain"
       reproduction: "copied"
       notes: "Marked S in the list (Sa-skya)."
     - id: vajrasuci
@@ -197,6 +230,8 @@ _works:
       size_slokas: "150"
       status: "Complete"
       location: "ngor"
+      manuscript: "ngor-xxxv"
+      match: "certain"
       reproduction: "photographed"
       notes: "Marked Ng in the list (Ngor). The catalogue of 1935 (no. 166) names no author."
     - id: vigrahavyavartani
@@ -208,6 +243,8 @@ _works:
       size_slokas: "450"
       status: "Complete"
       location: "sha-lu"
+      manuscript: "sha-lu-xiv"
+      match: "certain"
       reproduction: "copied"
       notes: "Marked Sh in the list (Ṣha-lu)."
     - id: vimsikavivrti
@@ -219,6 +256,9 @@ _works:
       size_slokas: "150"
       status: "Complete"
       location: "sha-lu"
+      manuscript: "sha-lu-photographed-19"
+      match: "list-only"
+      match_note: "Not catalogued at Ṣha-lu. The only catalogued copy is at Ngor (1935 no. 115, vol. XXIV): the sign Sh may be wrong."
       reproduction: "photographed"
       notes: "Marked Sh in the list (Ṣha-lu)."
     - id: apohasiddhi
@@ -230,6 +270,8 @@ _works:
       size_slokas: "1,200"
       status: "Complete"
       location: "sha-lu"
+      manuscript: "sha-lu-viii"
+      match: "certain"
       reproduction: "photographed"
       notes: "Marked Sh in the list (Ṣha-lu)."
     - id: avayavinirakarana
@@ -241,6 +283,8 @@ _works:
       size_slokas: "200 (?)"
       status: "Complete"
       location: "sha-lu"
+      manuscript: "sha-lu-viii"
+      match: "certain"
       reproduction: "photographed"
       notes: "Marked Sh in the list (Ṣha-lu). Author printed as a ditto mark."
     - id: agamapramanyanirasa
@@ -252,6 +296,9 @@ _works:
       size_slokas: "50"
       status: "Complete"
       location: "sha-lu"
+      manuscript: "sha-lu-photographed-22"
+      match: "list-only"
+      match_note: "Not catalogued at Ṣha-lu. Compare 1935 no. 175 Āgamaprāmāṇyakārikā, at Ngor (vol. XXXVIII)."
       reproduction: "photographed"
       notes: "Marked Sh in the list (Ṣha-lu)."
     - id: ksanabhangasiddhi
@@ -263,6 +310,8 @@ _works:
       size_slokas: "1,000"
       status: "Complete"
       location: "sha-lu"
+      manuscript: "sha-lu-viii"
+      match: "certain"
       reproduction: "photographed"
       notes: "Marked Sh in the list (Ṣha-lu)."
     - id: ksanabhangadhyaya
@@ -274,6 +323,9 @@ _works:
       size_slokas: "3,000"
       status: "Complete"
       location: "sha-lu"
+      manuscript: "sha-lu-xiii"
+      match: "probable"
+      match_note: "Two Kṣaṇabhaṅgādhyāya volumes are catalogued at Ṣha-lu: 1937 no. 241 (vol. XIII) and 1938 no. 337 (vol. XXXIX). The one copied in 1936 (“x”; 1937 pp. 15–16) must be vol. XIII; vol. XXXIX was found only in 1938."
       reproduction: "copied"
       notes: "Marked Sh in the list (Ṣha-lu)."
     - id: cittadvaitaprakaranavada
@@ -285,6 +337,8 @@ _works:
       size_slokas: "700"
       status: "Complete"
       location: "sha-lu"
+      manuscript: "sha-lu-viii"
+      match: "certain"
       reproduction: "photographed"
       notes: "Marked Sh in the list (Ṣha-lu)."
     - id: tarkarahasya
@@ -296,6 +350,8 @@ _works:
       size_slokas: "2,000"
       status: "Complete"
       location: "ngor"
+      manuscript: "ngor-xxxvii"
+      match: "certain"
       reproduction: "photographed"
       notes: "Marked Ng in the list (Ngor). “Unkown” printed so."
     - id: nairatmyasiddhi
@@ -307,6 +363,8 @@ _works:
       size_slokas: "50"
       status: "Complete"
       location: "ngor"
+      manuscript: "ngor-xxxiii"
+      match: "certain"
       reproduction: "photographed"
       notes: "Marked Ng in the list (Ngor)."
     - id: unidentified-1937-photo-28
@@ -317,6 +375,9 @@ _works:
       author_as_printed: "Unknown"
       status: "Incomplete"
       location: "ngor"
+      manuscript: "ngor-xxxvii"
+      match: "probable"
+      match_note: "Catalogue 1935 no. 169, “A Commentary on some Nyāya text”, Ngor XXXVII: the same description at the same place. If accepted, the work unidentified-1937-photo-28 is nyaya-commentary-1935-169."
       reproduction: "photographed"
       notes: "Marked Ng in the list (Ngor). Size blank."
     - id: dharmottarapradipa
@@ -328,6 +389,8 @@ _works:
       size_slokas: "5,000"
       status: "Complete"
       location: "ngor"
+      manuscript: "ngor-x"
+      match: "certain"
       reproduction: "photographed"
       notes: "Marked Ng in the list (Ngor)."
     - id: prajnalankarakarika
@@ -339,6 +402,8 @@ _works:
       size_slokas: "60"
       status: "Complete"
       location: "ngor"
+      manuscript: "ngor-xxxviii"
+      match: "certain"
       reproduction: "photographed"
       notes: "Marked Ng in the list (Ngor). “Unkown” printed so."
     - id: unidentified-1937-photo-31
@@ -350,6 +415,8 @@ _works:
       size_slokas: ".."
       status: "Incomplete"
       location: "ngor"
+      manuscript: "ngor-photographed-31"
+      match: "list-only"
       reproduction: "photographed"
       notes: "Marked Ng in the list (Ngor). Author printed as a ditto mark; size “..”."
     - id: pramanavarttikabhasya
@@ -361,6 +428,8 @@ _works:
       size_slokas: "15,000"
       status: "Complete"
       location: "sa-skya"
+      manuscript: "chhag-pe-lha-khang-ii"
+      match: "certain"
       reproduction: "copied"
       notes: "Marked S in the list (Sa-skya)."
     - id: pramanavarttikavrtti-manorathanandin
@@ -372,6 +441,8 @@ _works:
       size_slokas: "10,000"
       status: "Complete"
       location: "sha-lu"
+      manuscript: "sha-lu-xii"
+      match: "certain"
       reproduction: "copied"
       notes: "Marked Sh in the list (Ṣha-lu)."
     - id: pramanavarttikavrtti
@@ -383,6 +454,8 @@ _works:
       size_slokas: "800"
       status: "Incomplete"
       location: "sa-skya"
+      manuscript: "chhag-pe-lha-khang-i"
+      match: "certain"
       reproduction: "copied"
       notes: "Marked S in the list (Sa-skya)."
     - id: pramanavarttikavrttitika
@@ -394,6 +467,8 @@ _works:
       size_slokas: "8,000"
       status: "Complete"
       location: "sa-skya"
+      manuscript: "chhag-pe-lha-khang-i"
+      match: "certain"
       reproduction: "copied"
       notes: "Marked S in the list (Sa-skya)."
     - id: pramanantarbhavaprakarana
@@ -404,6 +479,8 @@ _works:
       author_as_printed: "Ratnakīrti"
       size_slokas: "200"
       location: "sha-lu"
+      manuscript: "sha-lu-viii"
+      match: "certain"
       reproduction: "photographed"
       notes: "Marked Sh in the list (Ṣha-lu). Neither Complete nor Incomplete marked."
     - id: vadarahasya
@@ -415,6 +492,8 @@ _works:
       size_slokas: "3,000"
       status: "Complete"
       location: "sha-lu"
+      manuscript: "sha-lu-photographed-37"
+      match: "list-only"
       reproduction: "photographed"
       notes: "Marked Sh in the list (Ṣha-lu)."
     - id: vyaptinirnaya
@@ -426,6 +505,8 @@ _works:
       size_slokas: "1,000"
       status: "Complete"
       location: "sha-lu"
+      manuscript: "sha-lu-viii"
+      match: "certain"
       reproduction: "photographed"
       notes: "Marked Sh in the list (Ṣha-lu)."
     - id: sarvajnasiddhi
@@ -437,6 +518,8 @@ _works:
       size_slokas: "1,000"
       status: "Complete"
       location: "sha-lu"
+      manuscript: "sha-lu-viii"
+      match: "certain"
       reproduction: "photographed"
       notes: "Marked Sh in the list (Ṣha-lu). Author printed as a ditto mark."
     - id: sarvajnasiddhisamksepa
@@ -448,6 +531,8 @@ _works:
       size_slokas: "100"
       status: "Complete"
       location: "ngor"
+      manuscript: "ngor-xxxvii"
+      match: "certain"
       reproduction: "photographed"
       notes: "Marked Ng in the list (Ngor)."
     - id: sahopalambhasiddhi
@@ -459,6 +544,9 @@ _works:
       size_slokas: "100"
       status: "Complete"
       location: "ngor"
+      manuscript: "ngor-photographed-41"
+      match: "list-only"
+      match_note: "Not in the catalogues; perhaps bound in Ngor XXXIII with the Nairātmyasiddhi of Jetāri (1935 no. 158)."
       reproduction: "photographed"
       notes: "Marked Ng in the list (Ngor)."
     - id: samanyanirakarana
@@ -470,6 +558,8 @@ _works:
       size_slokas: "750"
       status: "Complete"
       location: "sha-lu"
+      manuscript: "sha-lu-viii"
+      match: "certain"
       reproduction: "photographed"
       notes: "Marked Sh in the list (Ṣha-lu)."
     - id: sthirasiddhidusana
@@ -481,6 +571,8 @@ _works:
       size_slokas: "800"
       status: "Complete"
       location: "sha-lu"
+      manuscript: "sha-lu-viii"
+      match: "certain"
       reproduction: "photographed"
       notes: "Marked Sh in the list (Ṣha-lu). Author printed as a ditto mark."
     - id: hetubindu-anutika
@@ -492,6 +584,8 @@ _works:
       size_slokas: "5,000"
       status: "Complete"
       location: "ngor"
+      manuscript: "ngor-x"
+      match: "certain"
       reproduction: "photographed"
       notes: "Marked Ng in the list (Ngor)."
     - id: upasampadajnapti
@@ -503,6 +597,8 @@ _works:
       size_slokas: "70"
       status: "Complete"
       location: "ngor"
+      manuscript: "ngor-xix"
+      match: "certain"
       reproduction: "photographed"
       notes: "Marked Ng in the list (Ngor)."
     - id: pratimoksasutra
@@ -514,6 +610,8 @@ _works:
       size_slokas: "400"
       status: "Complete"
       location: "ngor"
+      manuscript: "ngor-xxxix"
+      match: "certain"
       reproduction: "photographed"
       notes: "Marked Ng in the list (Ngor). Author printed as a ditto mark."
     - id: pratimoksasutratika
@@ -525,6 +623,8 @@ _works:
       size_slokas: "100"
       status: "Incomplete"
       location: "sa-skya"
+      manuscript: "chhag-pe-lha-khang-v"
+      match: "certain"
       reproduction: "photographed"
       notes: "Marked S in the list (Sa-skya). Name printed “” ṭīkā”."
     - id: bhiksuvinaya-1937
@@ -536,6 +636,8 @@ _works:
       size_slokas: "200"
       status: "Incomplete"
       location: "sa-skya"
+      manuscript: "sa-skya-photographed-48"
+      match: "list-only"
       reproduction: "photographed"
       notes: "Marked S in the list (Sa-skya)."
     - id: vinayakarika
@@ -547,6 +649,8 @@ _works:
       size_slokas: "150"
       status: "Incomplete"
       location: "sa-skya"
+      manuscript: "chhag-pe-lha-khang-v"
+      match: "certain"
       reproduction: "photographed"
       notes: "Marked S in the list (Sa-skya)."
     - id: vinayaksudraka
@@ -558,6 +662,9 @@ _works:
       size_slokas: "3,000"
       status: "Complete; Incomplete"
       location: "sha-lu"
+      manuscript: "sha-lu-iii"
+      match: "probable"
+      match_note: "Catalogue 1935 no. 12, Bhikṣuprakīrṇakavinaya, Ṣa-lu III: prakīrṇaka ≈ kṣudraka, same place. If accepted, the work vinayaksudraka is bhiksuprakirnakavinaya."
       reproduction: "photographed"
       notes: "Marked Sh in the list (Ṣha-lu). Ditto marks stand under both Complete and Incomplete."
       uncertain_fields: [status]
@@ -570,6 +677,9 @@ _works:
       size_slokas: "1,200"
       status: "Complete"
       location: "ngor"
+      manuscript: "ngor-xxxix"
+      match: "possible"
+      match_note: "Catalogue 1935 no. 177, Prātimokṣasūtra of the Mahāsāṃghika-Lokottaravādins, Ngor XXXIX: same school and place; but entry no. 46 is already a Prātimokṣasūtra at Ngor (certain, the same volume)."
       reproduction: "photographed"
       notes: "Marked Ng in the list (Ngor). Author printed “( ” )”."
     - id: vinayasutra
@@ -581,6 +691,8 @@ _works:
       size_slokas: "500"
       status: "Complete"
       location: "sha-lu"
+      manuscript: "sha-lu-xiv"
+      match: "certain"
       reproduction: "photographed"
       notes: "Marked Sh in the list (Ṣha-lu)."
     - id: vinayasutravrtti
@@ -592,6 +704,8 @@ _works:
       size_slokas: "300"
       status: "Complete"
       location: "sha-lu"
+      manuscript: "sha-lu-xiv"
+      match: "certain"
       reproduction: "photographed"
       notes: "Marked Sh in the list (Ṣha-lu). Name printed “” vṛtti”; author as a ditto mark."
     - id: sramanerakarika
@@ -603,6 +717,9 @@ _works:
       size_slokas: "300"
       status: "Incomplete"
       location: "ngor"
+      manuscript: "ngor-xix"
+      match: "probable"
+      match_note: "Catalogue 1935 no. 102, Śrāmaṇerakārikāṭīkā of Jayarakṣita, Ngor XIX: same author and place; the list drops “ṭīkā”. If accepted, the work is sramanerakarika-tika (or the volume holds the kārikā with it)."
       reproduction: "photographed"
       notes: "Marked Ng in the list (Ngor)."
   _includes-also:
@@ -615,6 +732,8 @@ _works:
       size_slokas: "300"
       status: "Incomplete"
       location: "sa-skya"
+      manuscript: "chhag-pe-lha-khang-v"
+      match: "certain"
       reproduction: "photographed"
       notes: "Marked S in the list (Sa-skya). Name and author printed as ditto marks."
 notes: "55 entries, grouped by subject (Poetry 1–3, Prosody 4, Philosophy 5–19, Logic 20–44, Vinaya 45–55). The list ends with no. 55 on p. 57, whose lower half is blank: it is complete. It lists works, not volumes: each entry is a link to a work, with the place (location) and the way it was reproduced. docs/photographed-1937-matches.md compares it with the catalogues."

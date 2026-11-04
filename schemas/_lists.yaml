@@ -30,6 +30,17 @@ $defs:
         type: string
         description: "Key of the _locations document the list's sign names (checked by scripts/check_pages.py)"
       reproduction: {enum: [photographed, copied]}
+      manuscript:
+        type: string
+        description: "Key of the _manuscripts document the entry is identified with (checked by scripts/check_pages.py)"
+      match:
+        description: >
+          How sure the identification is. certain: the same work at the same place in exactly one
+          catalogued volume; probable: a fitting title or description at the same place, or one of
+          two copies chosen for a reason; possible: a weak candidate; list-only: no catalogued
+          volume, so a volume record <location>-photographed-<no> was made from the list.
+        enum: [certain, probable, possible, list-only]
+      match_note: {type: string, description: "Why the entry is identified with that volume"}
       catalogue_no: {type: string, description: "Number or shelf mark in the list's own catalogue"}
       notes: {type: string}
       uncertain_fields: {type: array, items: {type: string}}

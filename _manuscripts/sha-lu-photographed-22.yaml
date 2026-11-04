@@ -1,0 +1,17 @@
+_locations:
+  _kept-in:
+    - id: sha-lu
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [55], heading: "MSS. Photographed or copied"}
+_works:
+  _contains:
+    - id: agamapramanyanirasa
+      item_no: 22
+      subject: "Logic"
+      name_as_printed: "Āgamaprāmāṇyanirāsa"
+      author_as_printed: "Unknown"
+      size_slokas: "50"
+      status: "Complete"
+      notes: "Known only from the list of MSS. photographed or copied (1937, no. 22)."
+notes: "A volume known only from the photographed list of 1937 (no. 22), which names the work and the place, not the volume. Not catalogued at Ṣha-lu. Compare 1935 no. 175 Āgamaprāmāṇyakārikā, at Ngor (vol. XXXVIII)."

@@ -1,0 +1,17 @@
+_locations:
+  _kept-in:
+    - id: sa-skya
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [57], heading: "MSS. Photographed or copied"}
+_works:
+  _contains:
+    - id: bhiksuvinaya-1937
+      item_no: 48
+      subject: "Vinaya"
+      name_as_printed: "Bhikṣuvinaya"
+      author_as_printed: "Unknown"
+      size_slokas: "200"
+      status: "Incomplete"
+      notes: "Known only from the list of MSS. photographed or copied (1937, no. 48)."
+notes: "A volume known only from the photographed list of 1937 (no. 48), which names the work and the place, not the volume."

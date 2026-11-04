@@ -46,6 +46,13 @@ Open questions are in `progress.md`.
   AksharaDB issue #12 (reference attributes) would let AksharaDB check it, and with #11 make
   `location` the discriminator, so that `_includes-also` goes.
   `docs/photographed-1937-matches.md` compares the list with the catalogue volumes.
+- (owner) Each entry of the photographed list names the volume it is identified with
+  (`manuscript`) and how sure that is (`match`: certain, probable, possible, list-only; reasons in
+  `match_note`). An entry with no catalogued volume got a new volume record
+  `<location>-photographed-<no>` (9: nos. 5, 10, 12, 19, 22, 31, 37, 41, 48), described in the list
+  (1937, its page). For a certain match the volume must contain the entry's work (checked by
+  `scripts/check_pages.py`); a probable or possible match may name the work differently, and the
+  note says which catalogue work it would be. No work records are merged until the owner accepts.
 - (owner) No `_listed-in` relation from volumes to lists: lists link to works.
 - Long quotations in footnotes (1938 Spos-khang, pp. 148–162: several pages of verse and prose)
   are not transcribed into the records; the records say where they are. Their text is to come
