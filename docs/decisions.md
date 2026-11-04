@@ -11,6 +11,16 @@ Open questions are in `progress.md`.
   ("Name"), `_authors`.
 - What a list says about one title in one volume is an attribute of the `_contains` link.
 - A title's number inside its volume is `no_in_volume`; the running number of the list is `item_no`.
+- `no_in_volume` is the identity of a `_contains` link (volume, work, position) and is required.
+  Where the list does not print it, it is inferred and the link has `no_in_volume_printed: false`:
+  1 for a volume of one work (68 volumes), the order of the list for the volumes of several works in
+  the Chhag-pe-lha-khang table and Ngor XL of 1937 (that table has no column for the number in the
+  volume; Rta-nag Thub-stan, nos. 331–334, prints one), and 1 for the Pratyekabuddhabhūmi of Ṣhalu
+  XL (the list prints 1 and 2 for nos. 350 and 351; the footnote puts it in the unit of no. 350).
+  Not `item_no`: it is unique only within a publication (1937 repeats numbers of 1935), a volume
+  described twice has two numbers, and one number can hold two works. Not `source`: it says where
+  a description comes from, not what the link is. Two works at one position are allowed (a text
+  with its commentary).
 - A second copy of a work in one volume goes to `_contains-also`, because AksharaDB allows a work
   once per link list. To be replaced by a link discriminator (AksharaDB issue #11).
 - Titles that are only descriptions (“(darśanagrantha)”, “Vyākaraṇa (?)”) are works with keys

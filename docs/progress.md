@@ -67,6 +67,13 @@ To decide (owner):
 
 To check or find:
 
+- Inferred positions (`no_in_volume_printed: false`) that need a second look (issue #1):
+  Ngor XL (1937 nos. 335, 336): both print vol. XL; positions 1, 2 assume one volume, but if no. 336
+  is a misprint for XLI its position is 1. Ṣhalu XL, Pratyekabuddhabhūmi (1938 p. 144, footnote 3):
+  position 1, the same as the Śrāvakabhūmi, from the footnote; the list prints no row for it.
+  The Spos-khang II positions rest on the inferred volume of 1938 nos. 6–7 (decisions.md). The rest
+  (68 one-work volumes, the Chhag-pe-lha-khang volumes of several works) follow the order of the
+  list, which prints no position there.
 - The 42 readings listed by `scripts/doubts.py` against the scans.
 - 1935: the scan ends with p. 43, but the article goes on (the footnote of no. 184 breaks off and
   refers to footnotes 3–6). We need pp. 44 ff. of JBORS XXI, Pt. I.
@@ -82,8 +89,7 @@ Noted, no action:
 
 - Page texts (`.md`) for the table pages, to hold the long footnote quotations that the records
   mark “not transcribed here” (1938 pp. 148–162; 1937 nos. 195, 200, 201, 251, 307, 310, 325 …).
-- Position in the volume on every `_contains` link, required (issue #1 of this repository; its
-  step 5, Spos-khang I–III following 1938, is done).
+- Position in the volume on every `_contains` link: done (issue #1); `no_in_volume` is required.
 - When AksharaDB has issue #11 (`linkDiscriminator`) and #12 (`refersTo`): `_contains` is keyed by
   `no_in_volume` (not `item_no` or `source`), so `_contains-also` goes; `_includes` of the list of
   1937 by `item_no`, so `_includes-also` goes; make `location` and `manuscript` of list entries
