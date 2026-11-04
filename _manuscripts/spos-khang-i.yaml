@@ -8,14 +8,8 @@ _publications:
     - {id: sankrtyayana1935, pages: [28], heading: "II. Spos-khang monastery (near Gyantse)"}
 _works:
   _contains:
-    - id: astasahasrika-prajnaparamita
-      source: sankrtyayana1935
-      item_no: 4
-      name_as_printed: Aṣṭasāhasrikā-prajñāpāramitā T and others
-      tibetan_translation: true
-      status: Incomplete
-      notes: "“and others”: the volume holds further texts that the list does not name. The other columns are printed “..”."
     - id: sutradharanisamgraha-1938-4
+      source: sankrtyayana1938
       item_no: 4
       no_in_volume: 1
       name_as_printed: "(Sūtra-dhāraṇīsaṃgraha)"
@@ -24,8 +18,9 @@ _works:
       leaves: "100"
       lines_per_page: "5"
       status: "incomplete"
-      notes: "Page 147. The section's footnote 1: some correction and addition to “Sanskrit Palm-leaf Mss. in Tibet” JBORS Vol. XXI, Part I, page 8 (i.e. the list of 1935, where no. 4 is “Aṣṭasāhasrikā … and others”). Author printed as a ditto mark under the heading. Footnote 2 (pp. 147–148): very old Ms. Names of some of the Sūtras and Dhāraṇīs are: “cūḍāmaṇi nāmama(hā)vidyā”, “saṃkṣiptā prajñāpāramitā”, “āryadhvajāgrakeyūrā nāma dhāraṇī”, “āryacandanāṅga nāma dhāraṇī”, “puṣpa-kūṭā(?)°” (p. 130b), “mārīcī mahāvidyā” (p. 131a), “mūlāparājitā mahāvidyā” (p. 133a), “āryāparājitā hṛdayaṃ” (p. 133b); here begins some new Sūtra or Dhāraṇī: “evammayā śrutamekāsmin samaye bhagavān pārāvate viṣaye sinca (?) nāma nagaraṃ gomino nāma vihāraḥ ...”; “vaiśālīpraveśaṃ (?) sūtraṃ mārīcyupadravopaśamanaṃ samāptaṃ ||”; here (p. 138a) some of the gāthās (quoted); “sarvāntarāyaviśodhanaṃ nāma mahāyānasūtraṃ”, “āryamahāpratisarā dvitīyamantrapadāni samāptāni” (p. 141a), “rāhulamahādaṇḍadhāraṇī” (p. 146b), “viśeṣavatī nāmadhāraṇī” (p. 135a), “aparājitāhṛdayaṃ” (p. 135b), “agrapradīpo nāma mahāyānasūtraṃ” (p. 151a), “āryamahādhāraṇī” (p. 152b), “ratnamālāparājitā samāptā”, “ārya tathāgatoṣṇīṣasitātapatrā nāmāparājitā pratyaṅgirā samāptā” (p. 156a), “sarvatathāgatādhiṣṭhānahṛdayaguhyadhātukaraṇḍaka mudrānāmadhāraṇī dharmaparyāyaḥ” (p. 161b), “āryavasudhārā dhāraṇī” (p. 163b), “... indraśailaguhāyāṃ” (p. 164b), “samantamukhapraveśaraśmivimaloṣṇīṣaprabhāsaṃ sarvatathāgatahṛdayasamayavilokitaṃ nāma dhāraṇīpadaṃ” (p. 171b), “āryavajrājitānalapramohanī nāma dhāraṇī” (p. 178a), “āryahiraṇyavatī nāma dhāraṇī” (p. 179b), “koṭidhāraṇī” (p. 179b), “āryaṣaḍmukhī nāma dhāraṇī”, “āryamā(?ma)ṇibhadradhāraṇī”, “caturdharmakannāma mahāyānasūtraṃ”."
+      notes: "Page 147. The section's footnote 1: some correction and addition to “Sanskrit Palm-leaf Mss. in Tibet” JBORS Vol. XXI, Part I, page 8 (i.e. the list of 1935, where no. 4 is “Aṣṭasāhasrikā … and others”). Author printed as a ditto mark under the heading. Footnote 2 (pp. 147–148): very old Ms. Names of some of the Sūtras and Dhāraṇīs are: “cūḍāmaṇi nāmama(hā)vidyā”, “saṃkṣiptā prajñāpāramitā”, “āryadhvajāgrakeyūrā nāma dhāraṇī”, “āryacandanāṅga nāma dhāraṇī”, “puṣpa-kūṭā(?)°” (p. 130b), “mārīcī mahāvidyā” (p. 131a), “mūlāparājitā mahāvidyā” (p. 133a), “āryāparājitā hṛdayaṃ” (p. 133b); here begins some new Sūtra or Dhāraṇī: “evammayā śrutamekāsmin samaye bhagavān pārāvate viṣaye sinca (?) nāma nagaraṃ gomino nāma vihāraḥ ...”; “vaiśālīpraveśaṃ (?) sūtraṃ mārīcyupadravopaśamanaṃ samāptaṃ ||”; here (p. 138a) some of the gāthās (quoted); “sarvāntarāyaviśodhanaṃ nāma mahāyānasūtraṃ”, “āryamahāpratisarā dvitīyamantrapadāni samāptāni” (p. 141a), “rāhulamahādaṇḍadhāraṇī” (p. 146b), “viśeṣavatī nāmadhāraṇī” (p. 135a), “aparājitāhṛdayaṃ” (p. 135b), “agrapradīpo nāma mahāyānasūtraṃ” (p. 151a), “āryamahādhāraṇī” (p. 152b), “ratnamālāparājitā samāptā”, “ārya tathāgatoṣṇīṣasitātapatrā nāmāparājitā pratyaṅgirā samāptā” (p. 156a), “sarvatathāgatādhiṣṭhānahṛdayaguhyadhātukaraṇḍaka mudrānāmadhāraṇī dharmaparyāyaḥ” (p. 161b), “āryavasudhārā dhāraṇī” (p. 163b), “... indraśailaguhāyāṃ” (p. 164b), “samantamukhapraveśaraśmivimaloṣṇīṣaprabhāsaṃ sarvatathāgatahṛdayasamayavilokitaṃ nāma dhāraṇīpadaṃ” (p. 171b), “āryavajrājitānalapramohanī nāma dhāraṇī” (p. 178a), “āryahiraṇyavatī nāma dhāraṇī” (p. 179b), “koṭidhāraṇī” (p. 179b), “āryaṣaḍmukhī nāma dhāraṇī”, “āryamā(?ma)ṇibhadradhāraṇī”, “caturdharmakannāma mahāyānasūtraṃ”. 1935 (no. 4, p. 28) also marks it T and Incomplete, the other columns “..”, with the note “and others” (further texts in the volume); 1938 corrects the title, and the link follows 1938 (decided 2026-11-04)."
     - id: unidentified-1938-5
+      source: sankrtyayana1938
       item_no: 5
       no_in_volume: 2
       name_as_printed: "(Vyākaraṇa)"
@@ -34,8 +29,9 @@ _works:
       leaves: "26"
       lines_per_page: "4–6"
       status: "Incomplete"
-      notes: "Page 148. In 1935 no. 5 is “A Commentary on some Sarvāstivāda Sūtras” of Aśvaghoṣa in vol. II. Author printed as a ditto mark. Footnote 1 (pp. 148–149): “It is commentary (nyāsa ?) on some grammatical work”, followed by a long quotation, not transcribed here."
+      notes: "Page 148. In 1935 no. 5 is “A Commentary on some Sarvāstivāda Sūtras” of Aśvaghoṣa in vol. II. Author printed as a ditto mark. Footnote 1 (pp. 148–149): “It is commentary (nyāsa ?) on some grammatical work”, followed by a long quotation, not transcribed here. That title of 1935 is taken as the Tridaṇḍamālā of vol. II, not as this one."
     - id: unidentified-1938-362
+      source: sankrtyayana1938
       item_no: 362
       no_in_volume: 3
       name_as_printed: "(Kāvya)"
@@ -45,4 +41,4 @@ _works:
       lines_per_page: "6"
       status: "Incomplete"
       notes: "Page 149. Status printed as a ditto mark. Footnote 1: only leaves 14–18; it begins (14a 1) with verses; the quotation runs over pp. 149–156 and is not transcribed here."
-notes: "Described in 1935 and again, with corrections (“some correction and addition”), in 1938; the links say which list they come from (source). Where both lists name the same work, the entry of 1938 is in _contains-also."
+notes: "Described in 1935 and again, with corrections (“some correction and addition”), in 1938. The links follow 1938; the notes of each link give the reading of 1935 (decided 2026-11-04)."
