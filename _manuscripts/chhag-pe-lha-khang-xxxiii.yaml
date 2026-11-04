@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: prajnaparamita-unspecified
       item_no: 224
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: "Prajñāpāramitā leaves"
       script: "Māgadhī"
       leaves: "32"
@@ -17,6 +19,8 @@ _works:
   _contains-also:
     - id: prajnaparamita-unspecified
       item_no: 225
+      no_in_volume: 2
+      no_in_volume_printed: false
       name_as_printed: "Prajñāpāramitā leaves"
       script: "Rañjana, Kuṭilā, Māgadhī"
       leaves: "10"

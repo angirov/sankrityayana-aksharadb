@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: bodhicaryavatara
       item_no: 196
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: "Bodhicaryāvatāra"
       author_as_printed: "(Śāntideva)"
       tibetan_translation: true
@@ -21,6 +23,8 @@ _works:
       notes: "Footnote 1 gives the colophon."
     - id: triskandhadesana
       item_no: 197
+      no_in_volume: 2
+      no_in_volume_printed: false
       name_as_printed: "Triskandhadeśanā"
       script: "Kuṭilā"
       size_inches: "22×2"
@@ -30,6 +34,8 @@ _works:
       notes: "Size and status printed as ditto marks; author “..”."
     - id: mahamayatantratika
       item_no: 198
+      no_in_volume: 3
+      no_in_volume_printed: false
       name_as_printed: "Mahāmāyātantraṭīkā"
       tibetan_translation: true
       script: "Kuṭilā"

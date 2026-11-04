@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: samskrtapustaka-tamil-231
       item_no: 231
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: "Saṃskṛtapustaka"
       script: "Tamil"
       size_inches: "21×1¼"
@@ -18,6 +20,8 @@ _works:
       notes: "Footnote 2: in Tamil Grantha, frequency of visarga shows that the books are in Sanskrit; they might be some important work on Buddhist philosophy. Status printed as a ditto mark; author “..”."
     - id: samskrtapustaka-tamil-232
       item_no: 232
+      no_in_volume: 2
+      no_in_volume_printed: false
       name_as_printed: "Saṃskṛtapustaka"
       script: "Tamil"
       size_inches: "21×1¼"
@@ -27,6 +31,8 @@ _works:
       notes: "Name, script, size, lines and status printed as ditto marks."
     - id: samskrtapustaka-tamil-233
       item_no: 233
+      no_in_volume: 3
+      no_in_volume_printed: false
       name_as_printed: "Saṃskṛtapustaka"
       script: "Tamil"
       size_inches: "21×1¼"

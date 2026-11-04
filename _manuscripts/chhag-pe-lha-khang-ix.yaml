@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: saratama
       item_no: 201
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: "Aṣṭasāhastrikāprajñāpāramitāpaṃjikā (Sāratamā)"
       author_as_printed: "Ratnākaraśānti"
       script: "Kuṭilā"
@@ -20,6 +22,8 @@ _works:
       notes: "Name and author printed as ditto marks of no. 200. Footnote 1 (pp. 25–26) gives the beginning, continued on p. 26, with the last page: “… sāratamānāmni pañjikāyāṃ ra tnā ka ra śā nti viracitāyāṃ …” (verses not transcribed here)."
     - id: adhyardhasataka
       item_no: 202
+      no_in_volume: 2
+      no_in_volume_printed: false
       name_as_printed: "Adhyarddhaśataka"
       author_as_printed: "Mātṛceṭa"
       tibetan_translation: true

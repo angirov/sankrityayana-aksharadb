@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: astasahasrika-tika-1937-206
       item_no: 206
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: "(Aṣṭasāhastrikāprajñāpāramitāṭīkā)"
       author_as_printed: "?"
       script: "Māgadhī"
@@ -19,6 +21,8 @@ _works:
       notes: "Footnote 4: from 3 to 10 leaves. Status printed as a ditto mark."
     - id: yuktipradipa
       item_no: 207
+      no_in_volume: 2
+      no_in_volume_printed: false
       name_as_printed: "Yuktipradīpa"
       script: "Kuṭilā"
       size_inches: "22×2"
@@ -30,6 +34,8 @@ _works:
       uncertain_fields: [notes]
     - id: guhyasamajamandalopayika
       item_no: 208
+      no_in_volume: 3
+      no_in_volume_printed: false
       name_as_printed: "Guhyasamājamaṇḍalopāyikā"
       author_as_printed: "Bhadrapāda"
       script: "Kuṭilā"

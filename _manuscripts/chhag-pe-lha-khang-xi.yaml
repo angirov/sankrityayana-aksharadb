@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: candravyakarana
       item_no: 204
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: "Cāndravyākaraṇa"
       author_as_printed: "Candragomī"
       tibetan_translation: true
@@ -22,6 +24,8 @@ _works:
   _contains-also:
     - id: candravyakarana
       item_no: 205
+      no_in_volume: 2
+      no_in_volume_printed: false
       name_as_printed: "Cāndravyākaraṇa"
       author_as_printed: "Candragomī"
       script: "Kuṭilā"

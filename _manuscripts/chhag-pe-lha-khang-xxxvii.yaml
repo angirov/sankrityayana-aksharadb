@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: vessantarajataka
       item_no: 234
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: "Vessantarajātaka (?)"
       script: "Sinhalese"
       size_inches: "18¼×1¼"
@@ -18,6 +20,8 @@ _works:
       notes: "Footnote 3: these two MSS. (nos. 234–235) are in Sinhalese language. No. 234 has no first page, and the end I can read only “bhoginā vessantara |”. Status printed as a ditto mark."
     - id: unidentified-1937-235
       item_no: 235
+      no_in_volume: 2
+      no_in_volume_printed: false
       name_as_printed: "......nusaṃsā"
       script: "Sinhalese"
       size_inches: "18¼×1¼"

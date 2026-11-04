@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: siksasamuccaya
       item_no: 227
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: "Śikṣāsamuccaya"
       author_as_printed: "(Śāntideva)"
       tibetan_translation: true
@@ -21,6 +23,8 @@ _works:
       notes: "Footnote 1: only 2 lines; it gives the colophon. Status printed as a ditto mark."
     - id: posadhanusamsa
       item_no: 228
+      no_in_volume: 2
+      no_in_volume_printed: false
       name_as_printed: "Poṣadhānuśaṃsā etc."
       script: "Kuṭilā, Māgadhī"
       leaves: "6"
@@ -28,11 +32,15 @@ _works:
       notes: "Status printed as a ditto mark; author “..”."
     - id: miscellaneous-leaves
       item_no: 229
+      no_in_volume: 3
+      no_in_volume_printed: false
       name_as_printed: "Miscellaneous leaves"
       leaves: "38"
       notes: "Author “..”; other columns blank."
     - id: tibetan-leaves
       item_no: 230
+      no_in_volume: 4
+      no_in_volume_printed: false
       name_as_printed: "Tibetan leaves."
       leaves: "14"
       notes: "Author “..”; other columns blank."
