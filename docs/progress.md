@@ -2,7 +2,7 @@
 
 **State (2026-11-04):** all three articles are done: inventory, scans of every page, the text of
 every prose page, and every list (1935 nos. 1–184; 1938 nos. 4–9 and 337–363; 1937 nos. 180–336
-and the photographed list nos. 1–55). 139 manuscripts, 326 works, 97 authors, 8 locations,
+and the photographed list nos. 1–55). 139 manuscripts, 322 works, 97 authors, 8 locations,
 1 list. `scripts/doubts.py` lists the readings to check against the scans (41).
 What is left is listed under “Open questions” and “Not yet transcribed”.
 

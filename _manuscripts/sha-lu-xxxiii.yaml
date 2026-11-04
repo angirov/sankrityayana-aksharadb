@@ -7,7 +7,7 @@ _publications:
     - {id: sankrtyayana1937, pages: [42, 43], heading: "VII. Ṣhalu Monastery (Continued from Vol. XXI, Part I)"}
 _works:
   _contains:
-    - id: katantravrttipanjika
+    - id: katantrapanjika
       item_no: 293
       no_in_volume: 1
       name_as_printed: "Kātantravṛttipaṃjikā"

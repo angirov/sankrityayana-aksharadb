@@ -54,6 +54,12 @@ Open questions are in `progress.md`.
   `scripts/check_pages.py`); a probable or possible match may name the work differently, and the
   note says which catalogue work it would be. No work records are merged until the owner accepts.
 - (owner) No `_listed-in` relation from volumes to lists: lists link to works.
+- (owner) Works merged (2026-11-04): abhisamayalankara-prajnopadesasastra → abhisamayalankara,
+  katantravrttipanjika → katantrapanjika, kasika-pancika → kasikavivaranapanjika,
+  vadanyayatika-1935-171 → vadanyayatika (probable, the link is flagged); pramanavarttikavrtti
+  renamed pramanavarttikasvavrtti. The printed titles stay in `name_as_printed` and
+  `other_titles`. Kept apart for now: the two Hevajrasādhanas of Anaṅgavajra, the two
+  Cakrasaṃvaravivṛtis, the Cāndravyākaraṇa commentaries, Madhyāntavibhaṅgasūtra/-kārikā.
 - Long quotations in footnotes (1938 Spos-khang, pp. 148–162: several pages of verse and prose)
   are not transcribed into the records; the records say where they are. Their text is to come
   with the page texts (`.md`) of those pages, a later step.

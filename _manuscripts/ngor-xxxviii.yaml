@@ -7,7 +7,7 @@ _publications:
     - {id: sankrtyayana1935, pages: [42], heading: "IV. Ngor monastery (one day's journey from Śi-gar-tse)"}
 _works:
   _contains:
-    - id: vadanyayatika-1935-171
+    - id: vadanyayatika
       item_no: 171
       no_in_volume: 1
       name_as_printed: Vādanyāyaṭīkā (?)
@@ -16,7 +16,8 @@ _works:
       leaves: "42"
       lines_per_page: "10"
       status: Complete
-      notes: "Status printed as a ditto mark."
+      notes: "Status printed as a ditto mark. Taken as the Vādanyāyaṭīkā of Śāntarakṣita (probable): the source has a query and no author."
+      uncertain_fields: [id]
     - id: ratirahasya
       item_no: 172
       no_in_volume: 2
