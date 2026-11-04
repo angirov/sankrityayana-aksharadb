@@ -24,7 +24,6 @@ _works:
       manuscript: "chhag-pe-lha-khang-ix"
       match: "certain"
       reproduction: "copied"
-      notes: "Marked S in the list (Sa-skya)."
     - id: dohakosa
       item_no: 2
       page: 54
@@ -37,7 +36,6 @@ _works:
       manuscript: "ngor-xl"
       match: "certain"
       reproduction: "photographed"
-      notes: "Marked Ng in the list (Ngor)."
     - id: subhasitaratnakosa
       item_no: 3
       page: 54
@@ -50,7 +48,6 @@ _works:
       manuscript: "ngor-xxxix"
       match: "certain"
       reproduction: "photographed"
-      notes: "Marked Ng in the list (Ngor)."
     - id: chandoratnakara
       item_no: 4
       page: 54
@@ -63,7 +60,6 @@ _works:
       manuscript: "ngor-xv"
       match: "certain"
       reproduction: "photographed"
-      notes: "Marked Ng in the list (Ngor)."
     - id: unidentified-1937-photo-5
       item_no: 5
       page: 54
@@ -76,7 +72,6 @@ _works:
       manuscript: "sa-skya-photographed-5"
       match: "list-only"
       reproduction: "photographed"
-      notes: "Marked S in the list (Sa-skya)."
     - id: abhidharmakosakarika
       item_no: 6
       page: 54
@@ -89,7 +84,6 @@ _works:
       manuscript: "ngor-xx"
       match: "certain"
       reproduction: "photographed"
-      notes: "Marked Ng in the list (Ngor)."
     - id: abhidharmakosabhasya
       item_no: 7
       page: 54
@@ -102,7 +96,7 @@ _works:
       manuscript: "ngor-xl"
       match: "certain"
       reproduction: "photographed"
-      notes: "Marked Ng in the list (Ngor). Name printed “” bhāṣya”; author as a ditto mark."
+      notes: "Name printed “” bhāṣya”; author as a ditto mark."
     - id: abhidharmadipa
       item_no: 8
       page: 54
@@ -115,7 +109,6 @@ _works:
       manuscript: "sha-lu-xiv"
       match: "certain"
       reproduction: "photographed"
-      notes: "Marked Sh in the list (Ṣha-lu)."
     - id: abhidharmasamuccaya
       item_no: 9
       page: 54
@@ -128,7 +121,6 @@ _works:
       manuscript: "sha-lu-xxxvii"
       match: "certain"
       reproduction: "photographed"
-      notes: "Marked Sh in the list (Ṣha-lu)."
     - id: abhidharmasamuccayabhasya
       item_no: 10
       page: 55
@@ -142,7 +134,7 @@ _works:
       match: "list-only"
       match_note: "Not catalogued at Ṣha-lu. The work is named in 1935 no. 86 (“Sāṃkathyaviniścaya from Abhidharmasamuccayabhāṣya (Yaśomitra)”), but that MS. is at Ngor (vol. XV)."
       reproduction: "photographed"
-      notes: "Marked Sh in the list (Ṣha-lu). Name printed “” bhāṣya”."
+      notes: "Name printed “” bhāṣya”."
     - id: madhyamakahrdaya
       item_no: 11
       page: 55
@@ -155,7 +147,6 @@ _works:
       manuscript: "sha-lu-xxxvii"
       match: "certain"
       reproduction: "copied"
-      notes: "Marked Sh in the list (Ṣha-lu)."
     - id: unidentified-1937-photo-12
       item_no: 12
       page: 55
@@ -167,7 +158,7 @@ _works:
       manuscript: "sha-lu-photographed-12"
       match: "list-only"
       reproduction: "photographed"
-      notes: "Marked Sh in the list (Ṣha-lu). Size blank."
+      notes: "Size blank."
     - id: madhyantavibhangakarikabhasya
       item_no: 13
       page: 55
@@ -180,7 +171,6 @@ _works:
       manuscript: "ngor-xxxiv"
       match: "certain"
       reproduction: "photographed"
-      notes: "Marked Ng in the list (Ngor)."
     - id: mahayanottaratantra
       item_no: 14
       page: 55
@@ -193,7 +183,6 @@ _works:
       manuscript: "ngor-viii"
       match: "certain"
       reproduction: "photographed"
-      notes: "Marked Ng in the list (Ngor)."
     - id: mahayanottaratantratika
       item_no: 15
       page: 55
@@ -206,7 +195,7 @@ _works:
       manuscript: "sha-lu-xiii"
       match: "certain"
       reproduction: "photographed"
-      notes: "Marked Sh in the list (Ṣha-lu). Name printed “” ṭīkā”. The catalogue (no. 242, Ṣha-lu) gives the author as “(Asaṃga ?)”; here Yaśomitra."
+      notes: "Name printed “” ṭīkā”. The catalogue (no. 242, Ṣha-lu) gives the author as “(Asaṃga ?)”; here Yaśomitra."
       uncertain_fields: [author_as_printed]
     - id: yogacarabhumi
       item_no: 16
@@ -220,7 +209,6 @@ _works:
       manuscript: "chhag-pe-lha-khang-vii"
       match: "certain"
       reproduction: "copied"
-      notes: "Marked S in the list (Sa-skya)."
     - id: vajrasuci
       item_no: 17
       page: 55
@@ -233,7 +221,7 @@ _works:
       manuscript: "ngor-xxxv"
       match: "certain"
       reproduction: "photographed"
-      notes: "Marked Ng in the list (Ngor). The catalogue of 1935 (no. 166) names no author."
+      notes: "The catalogue of 1935 (no. 166) names no author."
     - id: vigrahavyavartani
       item_no: 18
       page: 55
@@ -246,7 +234,6 @@ _works:
       manuscript: "sha-lu-xiv"
       match: "certain"
       reproduction: "copied"
-      notes: "Marked Sh in the list (Ṣha-lu)."
     - id: vimsikavivrti
       item_no: 19
       page: 55
@@ -260,7 +247,6 @@ _works:
       match: "list-only"
       match_note: "Not catalogued at Ṣha-lu. The only catalogued copy is at Ngor (1935 no. 115, vol. XXIV): the sign Sh may be wrong."
       reproduction: "photographed"
-      notes: "Marked Sh in the list (Ṣha-lu)."
     - id: apohasiddhi
       item_no: 20
       page: 55
@@ -273,7 +259,6 @@ _works:
       manuscript: "sha-lu-viii"
       match: "certain"
       reproduction: "photographed"
-      notes: "Marked Sh in the list (Ṣha-lu)."
     - id: avayavinirakarana
       item_no: 21
       page: 55
@@ -286,7 +271,7 @@ _works:
       manuscript: "sha-lu-viii"
       match: "certain"
       reproduction: "photographed"
-      notes: "Marked Sh in the list (Ṣha-lu). Author printed as a ditto mark."
+      notes: "Author printed as a ditto mark."
     - id: agamapramanyanirasa
       item_no: 22
       page: 55
@@ -300,7 +285,6 @@ _works:
       match: "list-only"
       match_note: "Not catalogued at Ṣha-lu. Compare 1935 no. 175 Āgamaprāmāṇyakārikā, at Ngor (vol. XXXVIII)."
       reproduction: "photographed"
-      notes: "Marked Sh in the list (Ṣha-lu)."
     - id: ksanabhangasiddhi
       item_no: 23
       page: 55
@@ -313,7 +297,6 @@ _works:
       manuscript: "sha-lu-viii"
       match: "certain"
       reproduction: "photographed"
-      notes: "Marked Sh in the list (Ṣha-lu)."
     - id: ksanabhangadhyaya
       item_no: 24
       page: 55
@@ -327,7 +310,6 @@ _works:
       match: "probable"
       match_note: "Two Kṣaṇabhaṅgādhyāya volumes are catalogued at Ṣha-lu: 1937 no. 241 (vol. XIII) and 1938 no. 337 (vol. XXXIX). The one copied in 1936 (“x”; 1937 pp. 15–16) must be vol. XIII; vol. XXXIX was found only in 1938."
       reproduction: "copied"
-      notes: "Marked Sh in the list (Ṣha-lu)."
     - id: cittadvaitaprakaranavada
       item_no: 25
       page: 55
@@ -340,7 +322,6 @@ _works:
       manuscript: "sha-lu-viii"
       match: "certain"
       reproduction: "photographed"
-      notes: "Marked Sh in the list (Ṣha-lu)."
     - id: tarkarahasya
       item_no: 26
       page: 55
@@ -353,7 +334,7 @@ _works:
       manuscript: "ngor-xxxvii"
       match: "certain"
       reproduction: "photographed"
-      notes: "Marked Ng in the list (Ngor). “Unkown” printed so."
+      notes: "“Unkown” printed so."
     - id: nairatmyasiddhi
       item_no: 27
       page: 55
@@ -366,7 +347,6 @@ _works:
       manuscript: "ngor-xxxiii"
       match: "certain"
       reproduction: "photographed"
-      notes: "Marked Ng in the list (Ngor)."
     - id: unidentified-1937-photo-28
       item_no: 28
       page: 55
@@ -379,7 +359,7 @@ _works:
       match: "probable"
       match_note: "Catalogue 1935 no. 169, “A Commentary on some Nyāya text”, Ngor XXXVII: the same description at the same place. If accepted, the work unidentified-1937-photo-28 is nyaya-commentary-1935-169."
       reproduction: "photographed"
-      notes: "Marked Ng in the list (Ngor). Size blank."
+      notes: "Size blank."
     - id: dharmottarapradipa
       item_no: 29
       page: 56
@@ -392,7 +372,6 @@ _works:
       manuscript: "ngor-x"
       match: "certain"
       reproduction: "photographed"
-      notes: "Marked Ng in the list (Ngor)."
     - id: prajnalankarakarika
       item_no: 30
       page: 56
@@ -405,7 +384,7 @@ _works:
       manuscript: "ngor-xxxviii"
       match: "certain"
       reproduction: "photographed"
-      notes: "Marked Ng in the list (Ngor). “Unkown” printed so."
+      notes: "“Unkown” printed so."
     - id: unidentified-1937-photo-31
       item_no: 31
       page: 56
@@ -418,7 +397,7 @@ _works:
       manuscript: "ngor-photographed-31"
       match: "list-only"
       reproduction: "photographed"
-      notes: "Marked Ng in the list (Ngor). Author printed as a ditto mark; size “..”."
+      notes: "Author printed as a ditto mark; size “..”."
     - id: pramanavarttikabhasya
       item_no: 32
       page: 56
@@ -431,7 +410,6 @@ _works:
       manuscript: "chhag-pe-lha-khang-ii"
       match: "certain"
       reproduction: "copied"
-      notes: "Marked S in the list (Sa-skya)."
     - id: pramanavarttikavrtti-manorathanandin
       item_no: 33
       page: 56
@@ -444,7 +422,6 @@ _works:
       manuscript: "sha-lu-xii"
       match: "certain"
       reproduction: "copied"
-      notes: "Marked Sh in the list (Ṣha-lu)."
     - id: pramanavarttikavrtti
       item_no: 34
       page: 56
@@ -457,7 +434,6 @@ _works:
       manuscript: "chhag-pe-lha-khang-i"
       match: "certain"
       reproduction: "copied"
-      notes: "Marked S in the list (Sa-skya)."
     - id: pramanavarttikavrttitika
       item_no: 35
       page: 56
@@ -470,7 +446,6 @@ _works:
       manuscript: "chhag-pe-lha-khang-i"
       match: "certain"
       reproduction: "copied"
-      notes: "Marked S in the list (Sa-skya)."
     - id: pramanantarbhavaprakarana
       item_no: 36
       page: 56
@@ -482,7 +457,7 @@ _works:
       manuscript: "sha-lu-viii"
       match: "certain"
       reproduction: "photographed"
-      notes: "Marked Sh in the list (Ṣha-lu). Neither Complete nor Incomplete marked."
+      notes: "Neither Complete nor Incomplete marked."
     - id: vadarahasya
       item_no: 37
       page: 56
@@ -495,7 +470,6 @@ _works:
       manuscript: "sha-lu-photographed-37"
       match: "list-only"
       reproduction: "photographed"
-      notes: "Marked Sh in the list (Ṣha-lu)."
     - id: vyaptinirnaya
       item_no: 38
       page: 56
@@ -508,7 +482,6 @@ _works:
       manuscript: "sha-lu-viii"
       match: "certain"
       reproduction: "photographed"
-      notes: "Marked Sh in the list (Ṣha-lu)."
     - id: sarvajnasiddhi
       item_no: 39
       page: 56
@@ -521,7 +494,7 @@ _works:
       manuscript: "sha-lu-viii"
       match: "certain"
       reproduction: "photographed"
-      notes: "Marked Sh in the list (Ṣha-lu). Author printed as a ditto mark."
+      notes: "Author printed as a ditto mark."
     - id: sarvajnasiddhisamksepa
       item_no: 40
       page: 56
@@ -534,7 +507,6 @@ _works:
       manuscript: "ngor-xxxvii"
       match: "certain"
       reproduction: "photographed"
-      notes: "Marked Ng in the list (Ngor)."
     - id: sahopalambhasiddhi
       item_no: 41
       page: 56
@@ -548,7 +520,6 @@ _works:
       match: "list-only"
       match_note: "Not in the catalogues; perhaps bound in Ngor XXXIII with the Nairātmyasiddhi of Jetāri (1935 no. 158)."
       reproduction: "photographed"
-      notes: "Marked Ng in the list (Ngor)."
     - id: samanyanirakarana
       item_no: 42
       page: 56
@@ -561,7 +532,6 @@ _works:
       manuscript: "sha-lu-viii"
       match: "certain"
       reproduction: "photographed"
-      notes: "Marked Sh in the list (Ṣha-lu)."
     - id: sthirasiddhidusana
       item_no: 43
       page: 56
@@ -574,7 +544,7 @@ _works:
       manuscript: "sha-lu-viii"
       match: "certain"
       reproduction: "photographed"
-      notes: "Marked Sh in the list (Ṣha-lu). Author printed as a ditto mark."
+      notes: "Author printed as a ditto mark."
     - id: hetubindu-anutika
       item_no: 44
       page: 56
@@ -587,7 +557,6 @@ _works:
       manuscript: "ngor-x"
       match: "certain"
       reproduction: "photographed"
-      notes: "Marked Ng in the list (Ngor)."
     - id: upasampadajnapti
       item_no: 45
       page: 56
@@ -600,7 +569,6 @@ _works:
       manuscript: "ngor-xix"
       match: "certain"
       reproduction: "photographed"
-      notes: "Marked Ng in the list (Ngor)."
     - id: pratimoksasutra
       item_no: 46
       page: 56
@@ -613,7 +581,7 @@ _works:
       manuscript: "ngor-xxxix"
       match: "certain"
       reproduction: "photographed"
-      notes: "Marked Ng in the list (Ngor). Author printed as a ditto mark."
+      notes: "Author printed as a ditto mark."
     - id: pratimoksasutratika
       item_no: 47
       page: 56
@@ -626,7 +594,7 @@ _works:
       manuscript: "chhag-pe-lha-khang-v"
       match: "certain"
       reproduction: "photographed"
-      notes: "Marked S in the list (Sa-skya). Name printed “” ṭīkā”."
+      notes: "Name printed “” ṭīkā”."
     - id: bhiksuvinaya-1937
       item_no: 48
       page: 57
@@ -639,7 +607,6 @@ _works:
       manuscript: "sa-skya-photographed-48"
       match: "list-only"
       reproduction: "photographed"
-      notes: "Marked S in the list (Sa-skya)."
     - id: vinayakarika
       item_no: 49
       page: 57
@@ -652,7 +619,6 @@ _works:
       manuscript: "chhag-pe-lha-khang-v"
       match: "certain"
       reproduction: "photographed"
-      notes: "Marked S in the list (Sa-skya)."
     - id: vinayaksudraka
       item_no: 50
       page: 57
@@ -666,7 +632,7 @@ _works:
       match: "probable"
       match_note: "Catalogue 1935 no. 12, Bhikṣuprakīrṇakavinaya, Ṣa-lu III: prakīrṇaka ≈ kṣudraka, same place. If accepted, the work vinayaksudraka is bhiksuprakirnakavinaya."
       reproduction: "photographed"
-      notes: "Marked Sh in the list (Ṣha-lu). Ditto marks stand under both Complete and Incomplete."
+      notes: "Ditto marks stand under both Complete and Incomplete."
       uncertain_fields: [status]
     - id: vinaya-lokottaravadin
       item_no: 51
@@ -681,7 +647,7 @@ _works:
       match: "possible"
       match_note: "Catalogue 1935 no. 177, Prātimokṣasūtra of the Mahāsāṃghika-Lokottaravādins, Ngor XXXIX: same school and place; but entry no. 46 is already a Prātimokṣasūtra at Ngor (certain, the same volume)."
       reproduction: "photographed"
-      notes: "Marked Ng in the list (Ngor). Author printed “( ” )”."
+      notes: "Author printed “( ” )”."
     - id: vinayasutra
       item_no: 52
       page: 57
@@ -694,7 +660,6 @@ _works:
       manuscript: "sha-lu-xiv"
       match: "certain"
       reproduction: "photographed"
-      notes: "Marked Sh in the list (Ṣha-lu)."
     - id: vinayasutravrtti
       item_no: 53
       page: 57
@@ -707,7 +672,7 @@ _works:
       manuscript: "sha-lu-xiv"
       match: "certain"
       reproduction: "photographed"
-      notes: "Marked Sh in the list (Ṣha-lu). Name printed “” vṛtti”; author as a ditto mark."
+      notes: "Name printed “” vṛtti”; author as a ditto mark."
     - id: sramanerakarika
       item_no: 55
       page: 57
@@ -721,7 +686,6 @@ _works:
       match: "probable"
       match_note: "Catalogue 1935 no. 102, Śrāmaṇerakārikāṭīkā of Jayarakṣita, Ngor XIX: same author and place; the list drops “ṭīkā”. If accepted, the work is sramanerakarika-tika (or the volume holds the kārikā with it)."
       reproduction: "photographed"
-      notes: "Marked Ng in the list (Ngor)."
   _includes-also:
     - id: vinayasutravrtti
       item_no: 54
@@ -735,5 +699,5 @@ _works:
       manuscript: "chhag-pe-lha-khang-v"
       match: "certain"
       reproduction: "photographed"
-      notes: "Marked S in the list (Sa-skya). Name and author printed as ditto marks."
+      notes: "Name and author printed as ditto marks."
 notes: "55 entries, grouped by subject (Poetry 1–3, Prosody 4, Philosophy 5–19, Logic 20–44, Vinaya 45–55). The list ends with no. 55 on p. 57, whose lower half is blank: it is complete. It lists works, not volumes: each entry is a link to a work, with the place (location) and the way it was reproduced. docs/photographed-1937-matches.md compares it with the catalogues."
