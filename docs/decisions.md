@@ -28,6 +28,25 @@ Open questions are in `progress.md`.
   9 → 1938 nos. 8, 363, 9; confirmed by the title page quoted in 1938); I no. 4 → no. 4 (the
   footnote cites 1935); II no. 6 → no. 7 (Parikathā) and no. 5 → no. 6: the “Commentary on some
   Sarvāstivāda Sūtras” of 1935 is most likely the Tridaṇḍamālā (owner), so that work was removed.
+
+  The correspondence of the two lists (owner, 2026-11-04):
+
+  | 1938: vol. | in vol. | no. | 1935: no. |
+  |---|---|---|---|
+  | I | 1 | 4 | 4 |
+  | I | 2 | 5 | — |
+  | I | 3 | 362 | — |
+  | II | 1 | 6 | 5 |
+  | II | 2 | 7 | 6 |
+  | III | 1 | 8 | 7 |
+  | III | 2 | 363 | 8 |
+  | III | 3 | 9 | 9 |
+
+  1938 nos. 5 and 362 have no entry in 1935 (perhaps among the “and others” of 1935 no. 4). The
+  same number does not mean the same entry: from vol. II to the first title of vol. III the numbers
+  of 1938 are one higher (6, 7, 8 for 1935's 5, 6, 7), 1935 no. 8 becomes the new no. 363, and only
+  nos. 4 and 9 agree. So 1938 no. 5 (a grammatical commentary, vol. I) is not 1935 no. 5.
+
 - In 1938 Spos-khang nos. 6–7 the Vol. column is empty (p. 157: only the number in the volume, 1,
   begins anew); most likely vol. II, its number left out by mistake (owner), where 1935 has nos.
   5–6.
