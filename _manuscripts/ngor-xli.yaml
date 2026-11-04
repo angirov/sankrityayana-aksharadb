@@ -1,0 +1,21 @@
+vol_no: XLI
+_locations:
+  _kept-in:
+    - id: ngor
+_publications:
+  _described-in:
+    - {id: sankrtyayana1937, pages: [53], heading: "IX. Ngor Monastery (Continued from JBORS., XXI, Part I)"}
+_works:
+  _contains:
+    - id: dohakosa
+      item_no: 336
+      no_in_volume: 1
+      no_in_volume_printed: false
+      name_as_printed: "Dohākośa"
+      author_as_printed: "Saraha"
+      tibetan_translation: true
+      script: "Kuṭilā"
+      size_inches: "10×2½"
+      status: "Complete"
+      notes: "Printed with vol. no. XL again, like no. 335; taken as a misprint for XLI (owner), because the list prints no number in the volume for the two entries and gives them different sizes (12×2½, 10×2½), so they are two volumes. Status printed as a ditto mark; leaves and lines blank. Compare p. 18: “a copy of Sarahapa’s Dohākośa”. Position 1 inferred (the table prints no number in the volume)."
+      uncertain_fields: [vol_no]

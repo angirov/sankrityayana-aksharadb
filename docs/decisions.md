@@ -14,7 +14,7 @@ Open questions are in `progress.md`.
 - `no_in_volume` is the identity of a `_contains` link (volume, work, position) and is required.
   Where the list does not print it, it is inferred and the link has `no_in_volume_printed: false`:
   1 for a volume of one work (68 volumes), the order of the list for the volumes of several works in
-  the Chhag-pe-lha-khang table and Ngor XL of 1937 (that table has no column for the number in the
+  the Chhag-pe-lha-khang table of 1937 (that table has no column for the number in the
   volume; Rta-nag Thub-stan, nos. 331–334, prints one), and 1 for the Pratyekabuddhabhūmi of Ṣhalu
   XL (the list prints 1 and 2 for nos. 350 and 351; the footnote puts it in the unit of no. 350).
   Not `item_no`: it is unique only within a publication (1937 repeats numbers of 1935), a volume
@@ -66,6 +66,10 @@ Open questions are in `progress.md`.
 - 1937: item numbers 180–184 of section VI (Chhag-pe-lha-khang, Sa-skya) repeat the numbers of
   1935 (Gu-rim-lha-khang, nos. 180–184): the list of 1937 restarts its count at 180. Numbers are
   only unique within a publication; `item_no` is read together with the publication.
+- (owner) 1937 Ngor nos. 335 and 336 both print vol. XL. No. 336 is taken as a misprint for XLI:
+  the list prints no number in the volume for either, and the sizes differ (12×2½, 10×2½). So
+  `ngor-xl` holds no. 335 and `ngor-xli` no. 336, each at position 1 (inferred); the Dohākośa of the
+  photographed list points to `ngor-xli`.
 - A volume without a printed vol. no. is keyed by location + its first item number.
   (owner) 1937 Chhag-pe-lha-khang: the IV printed between nos. 184 and 185 is the number of the
   volume of nos. 186–192 (counted 1–7), `chhag-pe-lha-khang-iv`; no. 185 is the unnumbered
