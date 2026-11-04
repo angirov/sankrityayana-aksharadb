@@ -59,7 +59,7 @@ Open questions are in `progress.md`.
 
 - In 1938 Spos-khang nos. 6–7 the Vol. column is empty (p. 157: only the number in the volume, 1,
   begins anew); most likely vol. II, its number left out by mistake (owner), where 1935 has nos.
-  5–6.
+  5–6. Confirmed by the owner (2026-11-04); the positions of Spos-khang II rest on it.
 - Madhyāntavibhaṅgakārikā and Madhyāntavibhaṅgasūtra (1935, Spos-khang III nos. 7, 8) are not told
   apart: one work `madhyantavibhaga` (owner, 2026-11-04). 1938 has the title once; in the place of
   the second it has the Dharmadharmatāvibhāga.
