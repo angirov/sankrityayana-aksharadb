@@ -31,8 +31,10 @@ Open questions are in `progress.md`.
 - 1937: item numbers 180–184 of section VI (Chhag-pe-lha-khang, Sa-skya) repeat the numbers of
   1935 (Gu-rim-lha-khang, nos. 180–184): the list of 1937 restarts its count at 180. Numbers are
   only unique within a publication; `item_no` is read together with the publication.
-- A run of numbered titles that starts a new count (1, 2, ...) without a printed vol. no. is an
-  unnumbered volume, keyed by location + first item number (`chhag-pe-lha-khang-186`).
+- A volume without a printed vol. no. is keyed by location + its first item number.
+  (owner) 1937 Chhag-pe-lha-khang: the IV printed between nos. 184 and 185 is the number of the
+  volume of nos. 186–192 (counted 1–7), `chhag-pe-lha-khang-iv`; no. 185 is the unnumbered
+  volume `chhag-pe-lha-khang-185`.
 - A footnote whose number points to one row but whose content clearly describes another (1937, p. 28) is assigned by its content, said so in the notes, and the notes are flagged.
 - A work in several physical volumes given one entry and a range of vol. nos. (1937 no. 216, vols. XX–XXIII) is one manuscript record, `vol_no: XX-XXIII`.
 - Unidentified titles printed as ditto marks of each other in one volume (1937 nos. 231–233, “saṃskṛtapustaka”) are separate works, since nothing shows they are one text (and a third copy could not go into `_contains-also`, issue #11).
