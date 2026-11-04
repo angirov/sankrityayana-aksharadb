@@ -1,5 +1,18 @@
 # Progress
 
+**State (2026-11-04):** all three articles are done: inventory, scans of every page, the text of
+every prose page, and every list (1935 nos. 1–184; 1938 nos. 4–9 and 337–363; 1937 nos. 180–336
+and the photographed list nos. 1–55). 185 manuscripts, 326 works, 97 authors, 8 locations,
+1 list. `scripts/doubts.py` lists the readings to check against the scans (41).
+What is left is listed under “Open questions” and “Not yet transcribed”.
+
+## Not yet transcribed
+
+- Long quotations in footnotes, given in the records as “not transcribed here” (1938 pp. 148–162;
+  1937 nos. 195, 200, 201, 251, 307, 310, 325 and others): their text belongs in the page texts
+  (`.md`) of the table pages, which do not exist yet.
+- The chart of figures (1937, `chart1`, `chart2`) and the plates are kept as images only.
+
 Inventory and scans: the `pages` list of each `_publications/<key>.yaml` is the inventory;
 `scripts/cut_pages.py` cuts the scans from it.
 

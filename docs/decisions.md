@@ -41,6 +41,12 @@ Open questions are in `progress.md`.
   since the library is not named; Ng, Sh), linked to the list with `item_no` and `reproduction`
   (x = copied). An entry is not merged with a catalogue volume even when it is evidently the same
   (same location and work); the note names the probable volume(s). Merging is for the owner.
+- One printed entry holding two works (1937 no. 248, “Abhidharmapradīpa with Vibhāṣā-prabhāvṛtti”)
+  gives two `_contains` links with the same `item_no`.
+- A work may exist without a manuscript when a list names it only as the text a commentary is
+  on (Tārāstuti of Candradāsa, 1937 no. 325). Persons who are not authors of a listed work
+  (Kīrtidhvaja, who had the Śatasāhasrikā no. 216 written and corrected it) are kept in
+  `_authors` with a note, since there is no persons collection.
 - Long quotations in footnotes (1938 Spos-khang, pp. 148–162: several pages of verse and prose)
   are not transcribed into the records; the records say where they are. Their text is to come
   with the page texts (`.md`) of those pages, a later step.
