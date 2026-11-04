@@ -82,10 +82,12 @@ Noted, no action:
 
 - Page texts (`.md`) for the table pages, to hold the long footnote quotations that the records
   mark “not transcribed here” (1938 pp. 148–162; 1937 nos. 195, 200, 201, 251, 307, 310, 325 …).
-- When AksharaDB has issue #11 (link discriminator) and #12 (reference attributes): replace
-  `_contains-also` and `_includes-also` by discriminated links (`item_no`, `source`, `location`),
-  make `location` and `manuscript` of list entries reference attributes, and drop the matching
-  checks from `scripts/check_pages.py`.
+- Position in the volume on every `_contains` link, required; Spos-khang I–III follow 1938
+  (issue #1 of this repository, decided 2026-11-04).
+- When AksharaDB has issue #11 (`linkDiscriminator`) and #12 (`refersTo`): `_contains` is keyed by
+  `no_in_volume` (not `item_no` or `source`), so `_contains-also` goes; `_includes` of the list of
+  1937 by `item_no`, so `_includes-also` goes; make `location` and `manuscript` of list entries
+  reference attributes, and drop the matching checks from `scripts/check_pages.py`.
 - GitHub Actions: no workflow yet. AksharaDB is private and this repository public, so
   `uses: angirov/AksharaDB@…` does not work yet. Planned: check AksharaDB out with a read-only
   token (secret `AKSHARADB_TOKEN`) into `.aksharadb/` (add it to `.gitignore`), run it as a local

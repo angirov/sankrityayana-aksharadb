@@ -1,7 +1,8 @@
 # Wishes for AksharaDB
 
-What this DB root needs from AksharaDB. Filed: angirov/AksharaDB #11 (link discriminator) and
-#12 (reference attributes). Not filed yet (2026-11-04): the issue below.
+What this DB root needs from AksharaDB. Filed: angirov/AksharaDB #11 (link discriminator, keyword
+`linkDiscriminator`), #12 (reference attributes, keyword `refersTo`), #13 (strict schemas, to land
+first) and, on 2026-11-04, the issue below as #15. Kept here as the record of what was asked.
 
 ## Viewer: images, tables of fields and links, collection tables
 
