@@ -6,7 +6,7 @@ Inventory and scans: the `pages` list of each `_publications/<key>.yaml` is the 
 | Publication | Inventory | Scans | Texts (.md) | Tables |
 |---|---|---|---|---|
 | sankrtyayana1935 | done (PDF pp. 1–15: 2 front, 6 text, 2 plates, 17 tables, 3 blanks) | done | done (pp. 21–26, front matter) | pp. 27–43 done |
-| sankrtyayana1937 | done (PDF pp. 1–36: contents, pp. 1–57, 6 plates, a chart in 2 parts) | done | not started (pp. 1–20) | pp. 21–57 done |
+| sankrtyayana1937 | done (PDF pp. 1–36: contents, pp. 1–57, 6 plates, a chart in 2 parts) | done | done (pp. 1–20, contents) | pp. 21–57 done |
 | sankrtyayana1938 | done (PDF pp. 1–14: contents p. vi, pp. 137–163) | done | done (pp. 137–142, contents) | pp. 143–163 done (long quotations pending) |
 
 ## Tables of 1935

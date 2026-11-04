@@ -1,0 +1,3 @@
+the truth of my friend’s remarks while passing the last pass La-chhen, though I had covered myself in lamb-skin clothing from head to foot, I was still shivering.
+
+With a thankful heart and many sweet memories I left Sa-skya on the 30th October and after taking one day’s rest at Ma-bja I crossed the boundary of Tibet on the 4th November. On the La-chhen pass, on both sides for miles and miles, the land was covered with white snow. Some days back there had been a heavy snow storm and the pass was closed for a few days. I was among the first batch of travellers who crossed it when it was opened again.
