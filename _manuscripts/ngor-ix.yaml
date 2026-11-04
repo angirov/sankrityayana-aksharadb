@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: satasahasrika-prajnaparamita
       item_no: 73
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: Śatasāhasrikā prajñā pāramitā T
       tibetan_translation: true
       script: Rañjana

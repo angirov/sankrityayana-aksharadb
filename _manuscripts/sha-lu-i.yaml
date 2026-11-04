@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: samadhirajasutra
       item_no: 10
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: Samādhirājasūtra
       tibetan_translation: true
       size_inches: 10×2⅓

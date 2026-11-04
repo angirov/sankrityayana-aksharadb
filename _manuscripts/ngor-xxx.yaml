@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: mahayanasutra-1935-154
       item_no: 154
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: ...(mahāyāna)sūtra
       script: Māgadhī
       size_inches: 7⅓×2

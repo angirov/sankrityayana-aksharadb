@@ -8,6 +8,8 @@ _works:
   _contains:
     - id: abhidharmasamuccayabhasya
       item_no: 10
+      no_in_volume: 1
+      no_in_volume_printed: false
       subject: "Philosophy"
       name_as_printed: "Abhidharmasamuccayabhāṣya"
       author_as_printed: "(Yaśomitra)"

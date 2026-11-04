@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: vimalaprabha
       item_no: 113
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: Kālacakraṭīkā T Vimalaprabhā
       author_as_printed: (Avalokiteśvara)
       tibetan_translation: true

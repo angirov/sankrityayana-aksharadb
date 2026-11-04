@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: balitattva
       item_no: 357
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: "Balitattva"
       author_as_printed: "Ratnaśīla"
       script: "Māgadhī"

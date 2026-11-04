@@ -8,6 +8,8 @@ _works:
   _contains:
     - id: vadarahasya
       item_no: 37
+      no_in_volume: 1
+      no_in_volume_printed: false
       subject: "Logic"
       name_as_printed: "Vādarahasya"
       author_as_printed: "Unknown"

@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: yogacarabhumi
       item_no: 199
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: "Yogacārabhūmi"
       author_as_printed: "(Asaṃga)"
       tibetan_translation: true

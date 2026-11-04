@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: pradipoddyotana
       item_no: 112
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: (Guhyasamāja-) pradīpodyotana ṭīkā T
       author_as_printed: Candrakīrti
       tibetan_translation: true

@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: miscellaneous-leaves
       item_no: 264
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: "(Vajrayānagrantha)"
       script: "Rañjana"
       size_inches: "14×1¼"

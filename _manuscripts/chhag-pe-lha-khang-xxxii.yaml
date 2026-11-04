@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: suddhacara
       item_no: 223
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: "Śuddhācāra"
       author_as_printed: "Vācaspatimiśra"
       script: "Maithilī"

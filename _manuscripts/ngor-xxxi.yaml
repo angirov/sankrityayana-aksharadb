@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: herukabhidhanamantroddhara
       item_no: 155
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: Herukābhidhānamaṃtroddhāra etc.
       script: Maithilī
       size_inches: 12×2

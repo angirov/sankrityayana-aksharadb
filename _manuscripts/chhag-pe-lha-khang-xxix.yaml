@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: satasahasrika-prajnaparamita
       item_no: 220
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: "Śatasāhastrikā prajñāpāramitā"
       script: "Rañjana (ordinary)"
       size_inches: "22×2"

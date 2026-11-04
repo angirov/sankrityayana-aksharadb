@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: saddharmapundarika-sutra
       item_no: 212
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: "Saddharmapuṇḍarīkasūtra"
       script: "Rañjana"
       size_inches: "22×2"

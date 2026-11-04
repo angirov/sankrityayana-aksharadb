@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: pancavimsatisahasrika-prajnaparamitopadesa
       item_no: 30
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: Pañcaviṃśatisāhasrikāprajñāpāramitopadeśa
       author_as_printed: Buddhadāsa (Ācārya)
       script: Vartula

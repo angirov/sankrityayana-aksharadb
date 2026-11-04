@@ -8,6 +8,8 @@ _works:
   _contains:
     - id: unidentified-1937-photo-12
       item_no: 12
+      no_in_volume: 1
+      no_in_volume_printed: false
       subject: "Philosophy"
       name_as_printed: "Darśana"
       author_as_printed: "Unknown"

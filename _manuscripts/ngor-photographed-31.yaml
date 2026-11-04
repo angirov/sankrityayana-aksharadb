@@ -8,6 +8,8 @@ _works:
   _contains:
     - id: unidentified-1937-photo-31
       item_no: 31
+      no_in_volume: 1
+      no_in_volume_printed: false
       subject: "Logic"
       name_as_printed: "Pramāṇavārttikaṭīkā"
       author_as_printed: "Unknown"

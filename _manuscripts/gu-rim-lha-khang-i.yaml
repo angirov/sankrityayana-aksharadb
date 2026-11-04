@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: varttikalankara
       item_no: 179
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: Vārtikālaṃkāra †
       author_as_printed: Prajñākaragupta
       script: Vartula

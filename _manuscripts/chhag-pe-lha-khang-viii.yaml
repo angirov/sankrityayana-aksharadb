@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: saratama
       item_no: 200
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: "Aṣṭasāhastrikāprajñāpāramitāpaṃjikā (Sāratamā)"
       author_as_printed: "Ratnākaraśānti"
       tibetan_translation: true

@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: herukasadhanapanjika
       item_no: 151
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: Herukasādhanapañjikā
       script: Māgadhī
       size_inches: 10⅓×2

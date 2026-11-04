@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: vadanyayatika
       item_no: 3
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: Vādanyāyaṭīkā (Vipañcitārthā)
       author_as_printed: Śāṃtarakṣita
       tibetan_translation: true

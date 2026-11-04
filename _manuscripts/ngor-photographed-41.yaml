@@ -8,6 +8,8 @@ _works:
   _contains:
     - id: sahopalambhasiddhi
       item_no: 41
+      no_in_volume: 1
+      no_in_volume_printed: false
       subject: "Logic"
       name_as_printed: "Sahopalambhasiddhi"
       author_as_printed: "Jitāri"

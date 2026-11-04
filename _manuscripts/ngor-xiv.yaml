@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: kalacakratantra
       item_no: 85
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: Kālacakrataṃtra T
       tibetan_translation: true
       size_inches: 12⅔×2

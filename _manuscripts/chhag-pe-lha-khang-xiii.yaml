@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: dasabhumikasutra
       item_no: 209
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: "Daśabhūmikasūtra"
       tibetan_translation: true
       script: "Kuṭilā"

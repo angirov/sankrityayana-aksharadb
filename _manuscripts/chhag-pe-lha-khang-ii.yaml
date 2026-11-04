@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: pramanavarttikabhasya
       item_no: 183
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: "Pramāṇavārttikabhāṣya*"
       author_as_printed: "Prajñākaragupta"
       script: "Māgadhī"

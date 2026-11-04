@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: gandavyuhasutra
       item_no: 210
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: "Gaṇḍavyūhasūtra"
       tibetan_translation: true
       size_inches: "24⅝×2¼"

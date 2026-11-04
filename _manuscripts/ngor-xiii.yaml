@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: kriyasamuccaya
       item_no: 84
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: Kriyāsamuccaya
       author_as_printed: Maṃjuga...
       script: Nevārī

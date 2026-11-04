@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: saddharmapundarika-sutra
       item_no: 2
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: Saddharmapuṇḍarīkasūtra
       tibetan_translation: true
       script: Māgadhī

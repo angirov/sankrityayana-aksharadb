@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: astasahasrika-prajnaparamita
       item_no: 60
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: Aṣṭasāhasrikā pra° pā° T
       tibetan_translation: true
       script: Māgadhī

@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: unidentified-1938-361
       item_no: 361
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: "(Astrology)"
       script: "Maiṃthilī"
       size_inches: "15×1"

@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: kavikamadhenu
       item_no: 150
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: Amarakośaṭīkā (Kavikāmadhenu)
       author_as_printed: Subhūticandra
       script: Māgadhī

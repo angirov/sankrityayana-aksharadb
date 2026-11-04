@@ -8,6 +8,8 @@ _works:
   _contains:
     - id: kavikamadhenu
       item_no: 185
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: "Amarakośaṭīkā (Kāmadhenu)"
       author_as_printed: "(Subhūticaṃdra)"
       tibetan_translation: true

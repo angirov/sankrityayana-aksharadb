@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: kavyaprakasa
       item_no: 263
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: "Kāvyaprakāśa"
       author_as_printed: "(Rājānakasammaṭa)"
       script: "Māgadhī"

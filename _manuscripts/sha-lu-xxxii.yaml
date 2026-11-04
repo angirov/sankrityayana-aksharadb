@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: pancavimsatisahasrika-prajnaparamita
       item_no: 292
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: "Paṃcaviṃśatisāhastrikā prajñāpāramitā"
       tibetan_translation: true
       script: "Māgadhī"

@@ -9,6 +9,8 @@ _works:
   _contains:
     - id: katantrapanjika
       item_no: 353
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: "Kātaṃtrapaṃjikā"
       author_as_printed: "Trilocanadāsa"
       script: "Māgadhī"
