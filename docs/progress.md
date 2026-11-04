@@ -8,7 +8,7 @@ What is left is listed under “Open questions” and “Not yet transcribed”.
 
 ## Not yet transcribed
 
-- Long quotations in footnotes, given in the records as “not transcribed here” (1938 pp. 148–162;
+- Long quotations in footnotes (see Next steps), given in the records as “not transcribed here” (1938 pp. 148–162;
   1937 nos. 195, 200, 201, 251, 307, 310, 325 and others): their text belongs in the page texts
   (`.md`) of the table pages, which do not exist yet.
 - The chart of figures (1937, `chart1`, `chart2`) and the plates are kept as images only.
@@ -46,17 +46,54 @@ Inventory and scans: the `pages` list of each `_publications/<key>.yaml` is the 
 
 ## Open questions
 
-- 1938 p. 139: the Parikathā (Spos-khang, 1935 no. 6, 1938 no. 7) is “by a later author”, not Aśvaghoṣa; the work is still linked to Aśvaghoṣa as in 1935. To decide.
-- Long quotations in the footnotes of 1938 (pp. 148–162) are not yet transcribed (decisions.md).
+To decide (owner):
 
-- 1938: the heading of Ṣhalu refers to “Vol. XXI, Part I, pp 8–10” and Spos-khang to “Page 8” for the list of 1935, which in our scan is on pp. 28–31: the reprint (offprint) pagination? Check against the issue.
-- 1938 Spos-khang corrects 1935 (no. 4 is a Sūtra-dhāraṇīsaṃgraha, not an Aṣṭasāhasrikā; no. 5 a grammatical commentary in vol. I; no. 8 a Dharmadharmatāvibhāga). Both are kept as printed; which is right is for the owner to judge.
+- The photographed list of 1937: accept or reject the probable and possible identifications
+  (nos. 24, 28, 50, 55; 51); on acceptance, merge the list's work into the volume's work
+  (e.g. vinayaksudraka → bhiksuprakirnakavinaya). Nos. 10, 19, 22 are list-only volumes at Ṣha-lu
+  whose candidate is at Ngor. Details: `photographed-1937-matches.md`.
+- Works kept apart for now (decisions.md): the two Hevajrasādhanas of Anaṅgavajra (Ngor XXVI),
+  the two Cakrasaṃvaravivṛtis, the Cāndravyākaraṇa commentaries (1935 no. 82, 1937 no. 295),
+  Madhyāntavibhaṅgasūtra and -kārikā (1935 nos. 7, 8).
+- 1938 p. 139: the Parikathā (Spos-khang, 1935 no. 6, 1938 no. 7) is “by a later author”, not
+  Aśvaghoṣa; the work is still linked to Aśvaghoṣa as in 1935.
+- 1938 Spos-khang corrects 1935 (no. 4 is a Sūtra-dhāraṇīsaṃgraha, not an Aṣṭasāhasrikā; no. 5 a
+  grammatical commentary in vol. I; no. 8 a Dharmadharmatāvibhāga). Both are kept as printed.
+- 1937 Chhag-pe-lha-khang vol. IV: taken (owner) as the volume of nos. 186–192. The layout of
+  p. 21 speaks rather for no. 185: the roman numbers and the data columns stand about half a line
+  above the titles (II by no. 183, III by 184, IV by 185). To confirm.
+- Ngor VIII holds two copies of the Aṣṭasāhasrikā (nos. 63, 64): kept in `_contains-also` until
+  AksharaDB issue #11; alternatively no. 64 as a separate manuscript.
 
-- Ngor VIII holds two copies of the Aṣṭasāhasrikā (nos. 63, 64). AksharaDB allows a work once per link list, so no. 64 is in `_contains-also`. To decide: keep this, or treat no. 64 as a separate manuscript.
+To check or find:
 
-- “Miscellaneous leaves” is kept as a work (`_works/miscellaneous-leaves`) so that a volume can link to it.
+- The 42 readings listed by `scripts/doubts.py` against the scans.
+- 1935: the scan ends with p. 43, but the article goes on (the footnote of no. 184 breaks off and
+  refers to footnotes 3–6). We need pp. 44 ff. of JBORS XXI, Pt. I.
+- 1938: the headings refer to “Vol. XXI, Part I, pp 8–10” (Ṣhalu) and “Page 8” (Spos-khang) for
+  the list of 1935, which in our scan is on pp. 28–31: an offprint pagination? Check the issue.
 
-- 1935: the scan ends with p. 43, but the article goes on (the footnote of no. 184 breaks off and refers to footnotes 3–6). We need pp. 44 ff. of JBORS XXI, Pt. I.
+Noted, no action:
+
+- “Miscellaneous leaves” is kept as a work (`_works/miscellaneous-leaves`) so that a volume can
+  link to it.
+
+## Next steps (not started)
+
+- Page texts (`.md`) for the table pages, to hold the long footnote quotations that the records
+  mark “not transcribed here” (1938 pp. 148–162; 1937 nos. 195, 200, 201, 251, 307, 310, 325 …).
+- When AksharaDB has issue #11 (link discriminator) and #12 (reference attributes): replace
+  `_contains-also` and `_includes-also` by discriminated links (`item_no`, `source`, `location`),
+  make `location` and `manuscript` of list entries reference attributes, and drop the matching
+  checks from `scripts/check_pages.py`.
+- GitHub Actions: no workflow yet. AksharaDB is private and this repository public, so
+  `uses: angirov/AksharaDB@…` does not work yet. Planned: check AksharaDB out with a read-only
+  token (secret `AKSHARADB_TOKEN`) into `.aksharadb/` (add it to `.gitignore`), run it as a local
+  action, then `python scripts/check_pages.py`. Alternatives: make AksharaDB public, or this
+  repository private and allow access in AksharaDB's Actions settings.
+- The viewer: `aksharadb build --out output` (output/ is ignored), served with
+  `python3 -m http.server 8000 --bind 127.0.0.1` in `output/viewer`. The schema page
+  (`schema.html`) needs the AksharaDB branch `schema-diagram`.
 
 ## Tables of 1938
 
@@ -71,13 +108,12 @@ Inventory and scans: the `pages` list of each `_publications/<key>.yaml` is the 
 
 | Page | Contents | Status | Notes |
 |---|---|---|---|
-| 21–22 | VI. Chhag-pe-lha-khang (Sa-skya), vols. I–V, nos. 180–194 | done | Nos. 186–192: unnumbered volume. No. 185 continues 1935 no. 150 (Ngor). |
+| 21–22 | VI. Chhag-pe-lha-khang (Sa-skya), vols. I–V, nos. 180–194 | done | (owner) Nos. 186–192 are vol. IV, no. 185 is unnumbered (see Open questions). No. 185 continues 1935 no. 150 (Ngor). |
 | 23 | Chhag-pe-lha-khang vol. V (end), no. 195 | done | Long quotation of leaf 62 not transcribed. |
 | 24–26 | Chhag-pe-lha-khang vols. VI–IX, nos. 196–202 | done | Footnote 3 of no. 200 gives 103 leaves, which is the count of no. 201; recorded as printed. Long verse quotations not transcribed. |
 | 27–29 | Chhag-pe-lha-khang vols. IX (end)–XIX, nos. 203–215 | done | Footnotes 1–2 of p. 28 seem shifted by one; assigned by content (decisions.md). |
 | 30 | Chhag-pe-lha-khang vols. XX–XXIII, no. 216 (Śatasāhasrikā, 4 vols.) | done | One record for the 4 volumes. |
 | 31 | Chhag-pe-lha-khang vols. XXIV–XXXIII, nos. 217–225 | done | Nos. 217–222: copies of the Śatasāhasrikā (ditto marks). |
-| 32 | Chhag-pe-lha-khang vols. XXXIV–XXXVIII, nos. 226–236 | done | Tamil Grantha and Sinhalese MSS.; dittos of no. 236 doubtful. |
 | 32 | Chhag-pe-lha-khang vols. XXXIV–XXXVIII, nos. 226–236 | done | Tamil Grantha and Sinhalese MSS.; dittos of no. 236 doubtful. |
 | 33–34 | VII. Ṣhalu vols. XII–XIV, nos. 237–244 | done | No. 240 (kroḍapatra) linked to the Pramāṇavārttika, flagged. |
 | 35–37 | Ṣhalu vol. XIV (end)–XVI, nos. 245–254 | done | Nos. 245, 251: footnote content does not match the title; flagged. |
