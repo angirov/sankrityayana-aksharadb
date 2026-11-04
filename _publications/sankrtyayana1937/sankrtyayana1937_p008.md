@@ -1,0 +1,7 @@
+and his simple courtesy. I reproduce his photograph in gratitude.
+
+We left Sa-skya at noon on the 23rd July. When we reached the foot of the hill my companion’s mule began to jump, and twice he was thrown on the ground. It was impossible to ride on it any longer. We transferred our loads on to it, but the second animal which was a pung-ḍe (cross between horse and she-ass) had also the same propensity. Fortunately some Sa-skya muleteers were returning to their home and we changed our pung-ḍe with theirs. Before we crossed the next pass Sho-nga-la there was a heavy down-pour of rain. Next day we were travelling close to the bank of a stream which had assumed the proportion of a mountain torrent owing to the fresh rain. In one place our mules fell down into the stream and it was a nerve-wrecking experience to witness the box which contained the precious copy of the MSS., my three months’ labour, thrown into the water. We hurried to bring it out and my mental agony was not over, till I examined and found nothing damaged.
+
+On the 25th we were to cross the Tsha-rong-Chhu which is a considerable river and in the rainy season, often for days, becomes difficult to cross. There are no hide-canoes, so one has to search for some fordable place. It took more than two hours to find some suitable place to cross over. The water was thigh-deep. While crossing it one corner of a box was under water, but here too no damage was done to the valuable contents.
+
+We reached Ngor on the 26th. The steward still did not arrive. I saw the other monk-officials of the
