@@ -71,7 +71,7 @@ To check or find:
   Ngor XL / XLI (1937 nos. 335, 336): both print vol. XL; taken as a misprint for XLI for no. 336
   (owner), so each is the only work of its volume, position 1. Ṣhalu XL, Pratyekabuddhabhūmi (1938 p. 144, footnote 3):
   position 1, the same as the Śrāvakabhūmi, from the footnote; the list prints no row for it.
-  The Spos-khang II positions rest on the inferred volume of 1938 nos. 6–7 (decisions.md). The rest
+  The rest
   (68 one-work volumes, the Chhag-pe-lha-khang volumes of several works) follow the order of the
   list, which prints no position there.
 - The 42 readings listed by `scripts/doubts.py` against the scans.
