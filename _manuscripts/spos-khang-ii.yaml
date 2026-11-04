@@ -8,21 +8,8 @@ _publications:
     - {id: sankrtyayana1935, pages: [28], heading: "II. Spos-khang monastery (near Gyantse)"}
 _works:
   _contains:
-    - id: sarvastivada-sutras-commentary
-      source: sankrtyayana1935
-      item_no: 5
-      name_as_printed: A Commentary on some Sarvāstivāda Sūtras
-      author_as_printed: Aśvaghoṣa
-      colophon: "sarvāstivādī śākyabhikṣu aśvaghoṣaḥ....|"
-      notes: "Footnote 1 (on the author) gives the colophon. The other columns are printed “..”."
-    - id: asvaghosa-parikatha
-      source: sankrtyayana1935
-      item_no: 6
-      name_as_printed: …parikathā
-      author_as_printed: Aśvaghoṣa
-      notes: "Author printed as a ditto mark; the other columns “..”. No vol. no. is printed: the title is taken to belong to vol. II."
-      uncertain_fields: [author_as_printed]
     - id: tridandamala
+      source: sankrtyayana1938
       item_no: 6
       no_in_volume: 1
       name_as_printed: "Tridaṇḍamālā"
@@ -32,9 +19,9 @@ _works:
       leaves: "115"
       lines_per_page: "5"
       status: "Leaf 107 missing"
-      notes: "Page 157. No vol. no. is printed; a new count (1) begins, so this is taken as vol. II, where the list of 1935 has its no. 6 (…parikathā of Aśvaghoṣa). Footnote 1: on the front page “Tridaṇḍamālā” in Sanskrit, and “Rgyud-gsum-phreṅ-ba” and “Rgyud-phyag-3-pahi-phreṅ-ba”; it begins “namoratnatrayāya || yasyedaṃ sakalāmalendukiraṇaprakhyairyaśobhirjagad vyāptaṃ …” and quotes more (pp. 157–160), not transcribed here."
-  _contains-also:
+      notes: "Page 157. The Vol. column is empty (only the number in the volume, 1, is printed); a new count begins, so this is most likely vol. II, its number left out by mistake; the list of 1935 has its no. 6 (…parikathā of Aśvaghoṣa) there. Footnote 1: on the front page “Tridaṇḍamālā” in Sanskrit, and “Rgyud-gsum-phreṅ-ba” and “Rgyud-phyag-3-pahi-phreṅ-ba”; it begins “namoratnatrayāya || yasyedaṃ sakalāmalendukiraṇaprakhyairyaśobhirjagad vyāptaṃ …” and quotes more (pp. 157–160), not transcribed here. 1935 (no. 5, p. 28): “A Commentary on some Sarvāstivāda Sūtras”, Aśvaghoṣa; footnote 1 gives the colophon “sarvāstivādī śākyabhikṣu aśvaghoṣaḥ....|”; the other columns “..”. Most likely this manuscript, the Tridaṇḍamālā, was recorded in 1935 under that description (decided 2026-11-04)."
     - id: asvaghosa-parikatha
+      source: sankrtyayana1938
       item_no: 7
       no_in_volume: 2
       name_as_printed: "Parikathā"
@@ -44,6 +31,6 @@ _works:
       leaves: "57"
       lines_per_page: "5"
       status: "complete"
-      notes: "Page 160. Author, script, size and lines printed as ditto marks. The list of 1935 has this title as no. 6 (“…parikathā”). Footnote 1 quotes the beginning (“… vakṣye parikathāścitrāḥ śaraṇādisamāśrayāḥ …”), names other Parikathās with their pages, among them “dānaparikathā” (p. 9a), “tadbhaktajanānugrahāya parikathā” (p. 36b), “tathāgatapratimācitrayituḥ saṃharṣaṇārthaṃ parikathā” (p. 42ab), “stūpasatkārādhikāre” (p. 45b), “śokavinodanārthaṃ … parikathā” (p. 49a), “tīrthābhiṣekaparīkṣā” (p. 54a), “agnipraveśādi dharmmaparīkṣā” (p. 55b), and the end (p. 57a); pp. 160–162, the long passages not transcribed here."
+      notes: "Page 160. Author, script, size and lines printed as ditto marks. The list of 1935 has this title as no. 6 (“…parikathā”). Footnote 1 quotes the beginning (“… vakṣye parikathāścitrāḥ śaraṇādisamāśrayāḥ …”), names other Parikathās with their pages, among them “dānaparikathā” (p. 9a), “tadbhaktajanānugrahāya parikathā” (p. 36b), “tathāgatapratimācitrayituḥ saṃharṣaṇārthaṃ parikathā” (p. 42ab), “stūpasatkārādhikāre” (p. 45b), “śokavinodanārthaṃ … parikathā” (p. 49a), “tīrthābhiṣekaparīkṣā” (p. 54a), “agnipraveśādi dharmmaparīkṣā” (p. 55b), and the end (p. 57a); pp. 160–162, the long passages not transcribed here. 1935 (no. 6, p. 28): “…parikathā”, author printed as a ditto mark (Aśvaghoṣa), the other columns “..”; no vol. no. printed there either."
       uncertain_fields: [author_as_printed]
-notes: "Described in 1935 and again, with corrections (“some correction and addition”), in 1938; the links say which list they come from (source). Where both lists name the same work, the entry of 1938 is in _contains-also."
+notes: "Described in 1935 and again, with corrections (“some correction and addition”), in 1938. The links follow 1938; the notes of each link give the reading of 1935 (decided 2026-11-04). The vol. no. is printed in neither list: in 1938 (p. 157) the Vol. column of nos. 6–7 is empty, only the number in the volume (1, 2) begins anew, so this is most likely vol. II, its number left out by mistake."
