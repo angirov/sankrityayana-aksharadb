@@ -42,10 +42,11 @@ Open questions are in `progress.md`.
   (`location`, the key of a `_locations` document; S = Sa-skya as a monastery, since the library
   is not named) and `reproduction` (x = copied). The 55 manuscript records made for it at first
   were removed. A work listed twice (Vinayasūtravṛtti, nos. 53 Sh and 54 S) has its second entry
-  in `_includes-also` (issue #11). `scripts/check_pages.py` checks that each `location` exists.
+  in `_includes-also` (issue #11). `scripts/check_pages.py` checks that each `location` exists;
+  AksharaDB issue #12 (reference attributes) would let AksharaDB check it, and with #11 make
+  `location` the discriminator, so that `_includes-also` goes.
   `docs/photographed-1937-matches.md` compares the list with the catalogue volumes.
-- The `_listed-in` relation of `_manuscripts` (volume → list) is kept, unused for now, for lists
-  that do name volumes (a catalogue with shelf marks, such as Göttingen may be).
+- (owner) No `_listed-in` relation from volumes to lists: lists link to works.
 - Long quotations in footnotes (1938 Spos-khang, pp. 148–162: several pages of verse and prose)
   are not transcribed into the records; the records say where they are. Their text is to come
   with the page texts (`.md`) of those pages, a later step.

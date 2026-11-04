@@ -19,7 +19,7 @@ python scripts/check_pages.py
 | `_publications` | an article; its printed pages are attachments (`<key>_p027.png` scan, `<key>_p027.md` text) | — |
 | `_locations` | a place where manuscripts are kept (a monastery) | — |
 | `_lists` | a list drawn up by someone: the photographed list of 1937 (of works), the Göttingen collection | `_publications` (`_published-in`), `_works` (`_includes`, with number, place and kind of reproduction) |
-| `_manuscripts` | one physical volume ("Vol. No.") | `_locations` (`_kept-in`), `_publications` (`_described-in`, with pages), `_lists` (`_listed-in`, with number and catalogue number), `_works` (`_contains`) |
+| `_manuscripts` | one physical volume ("Vol. No.") | `_locations` (`_kept-in`), `_publications` (`_described-in`, with pages), `_works` (`_contains`) |
 | `_works` | a text ("Name" in the tables) | `_authors` (`_composed-by`) |
 | `_authors` | an author | — |
 

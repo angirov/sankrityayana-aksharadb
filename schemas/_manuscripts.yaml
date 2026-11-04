@@ -28,17 +28,6 @@ $defs:
         minItems: 1
       heading: {type: string, description: "Section heading as printed"}
 
-  listLink:
-    type: object
-    additionalProperties: false
-    required: [id]
-    properties:
-      id: {type: string}
-      item_no: {type: integer, description: "Number in the list, as printed"}
-      catalogue_no: {type: string, description: "Shelf mark or number in the list's catalogue"}
-      reproduction: {enum: [photographed, copied]}
-      comment: {type: string}
-
   contentLink:
     type: object
     additionalProperties: false
@@ -93,14 +82,6 @@ properties:
       _described-in:
         type: array
         items: {$ref: "#/$defs/publicationLink"}
-        minItems: 1
-  _lists:
-    type: object
-    additionalProperties: false
-    properties:
-      _listed-in:
-        type: array
-        items: {$ref: "#/$defs/listLink"}
         minItems: 1
   _works:
     type: object
