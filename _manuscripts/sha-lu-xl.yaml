@@ -19,12 +19,14 @@ _works:
       status: "Incomplete"
       notes: "The author stands in the name column. Footnote 4: a chapter of the Yogācārabhūmi. Footnote 3: leaves 1 and 128 missing; there are two Bhūmis, Śrāvakabhūmi and Pratyekabuddhabhūmi. It quotes p. 15b “śrāvaka-bhūmāvāvatārabhūmiḥ samāptā ||0|| naiṣkramyabhūmiḥ katamā |”, p. 66a “yogācārabhūmau śrāvakabhūmisaṃgṛhītāyāṃ prathamayogasthānam ||” “laukikaṃ caiva vairāgyaṃ tathā lokottareṇa ca | tayoścaiva hi saṃbhāro bhūmirnaiṣkramya saṃjñitam |”, p. 129a “śrāvakabhūmau caturthayogasthānaṃ | samāptā śrāvakabhūmiḥ ||”."
     - id: pratyekabuddhabhumi
+      no_in_volume: 1
+      no_in_volume_printed: false
       name_as_printed: "pratyekabuddhabhūmiḥ"
       author_as_printed: "(Asaṃga)"
       script: "Kuṭilā"
       incipit: "pratyekabuddhabhūmiḥ katamā (|) sā pañcākārā"
       explicit: "samāptā ca pratyekabuddhabhūmiḥ |"
-      notes: "Not a numbered entry: named only in footnote 3 to no. 350, which quotes its beginning (p. 129a) and end (p. 129b)."
+      notes: "Not a numbered entry: named only in footnote 3 to no. 350, which quotes its beginning (p. 129a) and end (p. 129b). Position 1, inferred: the list (1938 pp. 144–145) prints 1 for no. 350 and 2 for no. 351, and the footnote puts the Pratyekabuddhabhūmi in the unit of no. 350 (it follows the Śrāvakabhūmi on leaves 129a–b), so it cannot be 2."
     - id: abhiprayika-gathanirdesa
       item_no: 351
       no_in_volume: 2
