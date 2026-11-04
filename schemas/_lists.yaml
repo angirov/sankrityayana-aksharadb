@@ -12,6 +12,28 @@ $defs:
       pages: {type: array, items: {type: integer}, minItems: 1}
       heading: {type: string, description: "The list's heading as printed"}
 
+  # An entry of a list that names a work (the photographed list of 1937 names works, not volumes).
+  entryLink:
+    type: object
+    additionalProperties: false
+    required: [id, item_no, name_as_printed]
+    properties:
+      id: {type: string}
+      item_no: {type: integer, description: "Number in the list, as printed"}
+      page: {type: integer, description: "Printed page of the entry in the list's publication"}
+      subject: {type: string, description: "Subject heading, e.g. Logic"}
+      name_as_printed: {type: string, description: "IAST; marks of the source kept"}
+      author_as_printed: {type: string}
+      size_slokas: {type: string}
+      status: {type: string, description: "As printed: Complete, Incomplete, ..."}
+      location:
+        type: string
+        description: "Key of the _locations document the list's sign names (checked by scripts/check_pages.py)"
+      reproduction: {enum: [photographed, copied]}
+      catalogue_no: {type: string, description: "Number or shelf mark in the list's own catalogue"}
+      notes: {type: string}
+      uncertain_fields: {type: array, items: {type: string}}
+
 properties:
   title: {type: string}
   description: {type: string}
@@ -26,5 +48,18 @@ properties:
       _published-in:
         type: array
         items: {$ref: "#/$defs/publicationLink"}
+        minItems: 1
+  _works:
+    type: object
+    additionalProperties: false
+    properties:
+      _includes:
+        type: array
+        items: {$ref: "#/$defs/entryLink"}
+        minItems: 1
+      _includes-also:
+        description: "A further entry for a work already in _includes (see _contains-also of _manuscripts)"
+        type: array
+        items: {$ref: "#/$defs/entryLink"}
         minItems: 1
   notes: {type: string}

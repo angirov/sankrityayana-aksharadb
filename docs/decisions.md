@@ -36,17 +36,16 @@ Open questions are in `progress.md`.
 - A footnote whose number points to one row but whose content clearly describes another (1937, p. 28) is assigned by its content, said so in the notes, and the notes are flagged.
 - A work in several physical volumes given one entry and a range of vol. nos. (1937 no. 216, vols. XX–XXIII) is one manuscript record, `vol_no: XX-XXIII`.
 - Unidentified titles printed as ditto marks of each other in one volume (1937 nos. 231–233, “saṃskṛtapustaka”) are separate works, since nothing shows they are one text (and a third copy could not go into `_contains-also`, issue #11).
-- The list “MSS. Photographed or copied” (1937): each entry is its own manuscript record
-  (`photographed-1937-NN`), kept in the location its sign gives (S = Sa-skya, as a monastery,
-  since the library is not named; Ng, Sh), linked to the list with `item_no` and `reproduction`
-  (x = copied). An entry is not merged with a catalogue volume even when it is evidently the same
-  (same location and work); the note names the probable volume(s). Merging is for the owner.
-- One printed entry holding two works (1937 no. 248, “Abhidharmapradīpa with Vibhāṣā-prabhāvṛtti”)
-  gives two `_contains` links with the same `item_no`.
-- A work may exist without a manuscript when a list names it only as the text a commentary is
-  on (Tārāstuti of Candradāsa, 1937 no. 325). Persons who are not authors of a listed work
-  (Kīrtidhvaja, who had the Śatasāhasrikā no. 216 written and corrected it) are kept in
-  `_authors` with a note, since there is no persons collection.
+- (owner) The list “MSS. Photographed or copied” (1937) lists works, not volumes. It is one
+  `_lists` document whose `_works._includes` links name the works; each link carries the entry
+  as printed (number, page, subject, name, author, size in ślokas, status), the place
+  (`location`, the key of a `_locations` document; S = Sa-skya as a monastery, since the library
+  is not named) and `reproduction` (x = copied). The 55 manuscript records made for it at first
+  were removed. A work listed twice (Vinayasūtravṛtti, nos. 53 Sh and 54 S) has its second entry
+  in `_includes-also` (issue #11). `scripts/check_pages.py` checks that each `location` exists.
+  `docs/photographed-1937-matches.md` compares the list with the catalogue volumes.
+- The `_listed-in` relation of `_manuscripts` (volume → list) is kept, unused for now, for lists
+  that do name volumes (a catalogue with shelf marks, such as Göttingen may be).
 - Long quotations in footnotes (1938 Spos-khang, pp. 148–162: several pages of verse and prose)
   are not transcribed into the records; the records say where they are. Their text is to come
   with the page texts (`.md`) of those pages, a later step.

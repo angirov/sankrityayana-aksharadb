@@ -2,7 +2,7 @@
 
 **State (2026-11-04):** all three articles are done: inventory, scans of every page, the text of
 every prose page, and every list (1935 nos. 1–184; 1938 nos. 4–9 and 337–363; 1937 nos. 180–336
-and the photographed list nos. 1–55). 185 manuscripts, 326 works, 97 authors, 8 locations,
+and the photographed list nos. 1–55). 130 manuscripts, 326 works, 97 authors, 8 locations,
 1 list. `scripts/doubts.py` lists the readings to check against the scans (41).
 What is left is listed under “Open questions” and “Not yet transcribed”.
 
@@ -94,4 +94,4 @@ Inventory and scans: the `pages` list of each `_publications/<key>.yaml` is the 
 | 49 | Ṣhalu vol. XXXVII (end), nos. 314–318 | done | |
 | 50 | Ṣhalu vols. XXXVII (end)–XXXVIII, nos. 319–324 | done | |
 | 51–53 | Ṣhalu vol. XXXVIII (end), nos. 325–330; VIII. Rta-nag Thub-stan, nos. 331–334; IX. Ngor vol. XL, nos. 335–336 | done | Ngor “XL” printed for both 335 and 336. |
-| 54–57 | MSS. Photographed or copied, nos. 1–55 | done | Complete list (p. 57 lower half blank). 42 entries point to a probable catalogue volume in their notes. |
+| 54–57 | MSS. Photographed or copied, nos. 1–55 | done | Complete list (p. 57 lower half blank). Links to works in `_lists/photographed-1937.yaml`; comparison in photographed-1937-matches.md. |

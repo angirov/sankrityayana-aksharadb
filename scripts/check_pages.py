@@ -1,4 +1,4 @@
-"""Check what AksharaDB cannot: that the pages an entry cites exist.
+"""Check what AksharaDB cannot: that cited pages and the locations of list entries exist.
 
 Reads the DB root (default: the current directory). Every page number in a
 _described-in or _published-in link must be in that publication's `pages` list,
@@ -38,6 +38,15 @@ def main():
         if page not in listed.get(publication, set()):
             print(f"{collection}/{key}: cites page {page} of {publication}, which is not in its pages list")
             errors += 1
+
+    # A list entry names its place by key in an attribute, which AksharaDB does not check.
+    locations = set(load_collection(root, "locations"))
+    for key, doc in load_collection(root, "lists").items():
+        for relation in ("_includes", "_includes-also"):
+            for link in (doc.get("_works") or {}).get(relation, []):
+                if "location" in link and link["location"] not in locations:
+                    print(f"_lists/{key}: entry {link.get('item_no')} names location {link['location']!r}, which does not exist")
+                    errors += 1
 
     scans = {p.stem for p in (root / "_publications").rglob("*.png")}
     missing = sorted(f"{key}_{p['tag']}" for key, doc in publications.items() for p in doc["pages"]

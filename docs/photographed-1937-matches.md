@@ -2,12 +2,12 @@
 
 Each entry of “MSS. Photographed or copied” (1937, pp. 54–57) compared with the catalogue
 volumes of 1935, 1937 and 1938: same work and same location (S = Sa-skya libraries, Ng, Sh).
-Nothing is merged; this is a worksheet for the owner (2026-11-04).
+The list names works, so it is linked to `_works` only; which volume an entry was
+photographed from is not recorded. This is a worksheet for the owner (2026-11-04).
 
 ## Found in the catalogues: 41 of 55
 
-40 entries match a catalogue volume of the same work in the same place (the note of each
-`photographed-1937-NN` names it). Points to look at among them:
+40 entries match a catalogue volume of the same work in the same place. Points to look at among them:
 
 - No. 14 Mahāyānottaratantra (Ng): Ngor 1935 no. 68; another copy is at Ṣha-lu (1935 no. 43).
 - No. 15 Mahāyānottaratantraṭīkā (Sh): author Yaśomitra here, “(Asaṃga ?)” in the catalogue (no. 242).
@@ -33,7 +33,7 @@ Probable matches under another name (to decide):
 | 10 | Abhidharmasamuccayabhāṣya, Yaśomitra, Sh | 1935 no. 86 Sāṃkathyaviniścaya “from Abhidharmasamuccayabhāṣya (Yaśomitra)” | same work named; but that MS. is at Ngor |
 | 22 | Āgamaprāmāṇyanirāsa, Sh | 1935 no. 175 Āgamaprāmāṇyakārikā | similar title; but that MS. is at Ngor |
 
-No candidate found; these occur only in this list:
+No candidate found; these works occur only in this list:
 
 | No. | Entry | Place | Remark |
 |---|---|---|---|

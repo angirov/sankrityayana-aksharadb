@@ -22,8 +22,9 @@ Both must pass before a commit.
 ## Transcribing a table page
 
 1. Find the next page in `docs/progress.md`. Look at the page's scan, not an OCR layer.
-2. One `_manuscripts` document per volume (key: location + roman vol. no., `ngor-xl`; a volume
-   from a list without vol. no.: list + number, `photographed-1937-12`). Each title is one
+2. One `_manuscripts` document per volume (key: location + roman vol. no., `ngor-xl`; an
+   unnumbered volume: location + its first item number). A list that names works, not volumes
+   (the photographed list of 1937), is a `_lists` document with `_works._includes` links. Each title is one
    `_contains` link with the attributes of `schemas/_manuscripts.yaml`; create the work and the
    author if they are new. Footnotes go to the entry they annotate.
 3. IAST for all Sanskrit; marks of the source kept; ditto marks expanded; blanks and `..` left

@@ -10,4 +10,611 @@ legend:
 _publications:
   _published-in:
     - {id: sankrtyayana1937, pages: [54, 55, 56, 57], heading: "MSS. Photographed or copied"}
-notes: "55 entries, grouped by subject (Poetry 1–3, Prosody 4, Philosophy 5–19, Logic 20–44, Vinaya 45–55). The list ends with no. 55 on p. 57, whose lower half is blank: it is complete. Each entry is a manuscript record photographed-1937-NN; most are probably volumes of the catalogues, noted but not merged."
+_works:
+  _includes:
+    - id: adhyardhasataka
+      item_no: 1
+      page: 54
+      subject: "Poetry"
+      name_as_printed: "Adhyardhaśataka"
+      author_as_printed: "Mātṛceṭa"
+      size_slokas: "153"
+      status: "Complete"
+      location: "sa-skya"
+      reproduction: "copied"
+      notes: "Marked S in the list (Sa-skya)."
+    - id: dohakosa
+      item_no: 2
+      page: 54
+      subject: "Poetry"
+      name_as_printed: "Dohākośa"
+      author_as_printed: "Saraha"
+      size_slokas: "60"
+      status: "Complete (?)"
+      location: "ngor"
+      reproduction: "photographed"
+      notes: "Marked Ng in the list (Ngor)."
+    - id: subhasitaratnakosa
+      item_no: 3
+      page: 54
+      subject: "Poetry"
+      name_as_printed: "Subhāṣitaratnakośa"
+      author_as_printed: "Bhīmārjunasoma"
+      size_slokas: "1,500"
+      status: "Complete"
+      location: "ngor"
+      reproduction: "photographed"
+      notes: "Marked Ng in the list (Ngor)."
+    - id: chandoratnakara
+      item_no: 4
+      page: 54
+      subject: "Prosody"
+      name_as_printed: "Chandoratnākara"
+      author_as_printed: "Ratnākaraśānti"
+      size_slokas: "700"
+      status: "Complete"
+      location: "ngor"
+      reproduction: "photographed"
+      notes: "Marked Ng in the list (Ngor)."
+    - id: unidentified-1937-photo-5
+      item_no: 5
+      page: 54
+      subject: "Philosophy"
+      name_as_printed: "(Darśana)"
+      author_as_printed: "Unknown"
+      size_slokas: "6,000"
+      status: "Incomplete"
+      location: "sa-skya"
+      reproduction: "photographed"
+      notes: "Marked S in the list (Sa-skya)."
+    - id: abhidharmakosakarika
+      item_no: 6
+      page: 54
+      subject: "Philosophy"
+      name_as_printed: "Abhidharmakośakārikā"
+      author_as_printed: "Vasubandhu"
+      size_slokas: "550"
+      status: "Complete (?)"
+      location: "ngor"
+      reproduction: "photographed"
+      notes: "Marked Ng in the list (Ngor)."
+    - id: abhidharmakosabhasya
+      item_no: 7
+      page: 54
+      subject: "Philosophy"
+      name_as_printed: "Abhidharmakośabhāṣya"
+      author_as_printed: "Vasubandhu"
+      size_slokas: "15,000"
+      status: "Complete"
+      location: "ngor"
+      reproduction: "photographed"
+      notes: "Marked Ng in the list (Ngor). Name printed “” bhāṣya”; author as a ditto mark."
+    - id: abhidharmadipa
+      item_no: 8
+      page: 54
+      subject: "Philosophy"
+      name_as_printed: "Abhidharmapradīpa"
+      author_as_printed: "Unknown"
+      size_slokas: "1,500"
+      status: "Incomplete"
+      location: "sha-lu"
+      reproduction: "photographed"
+      notes: "Marked Sh in the list (Ṣha-lu)."
+    - id: abhidharmasamuccaya
+      item_no: 9
+      page: 54
+      subject: "Philosophy"
+      name_as_printed: "Abhidharmasamuccaya"
+      author_as_printed: "Asaṅga"
+      size_slokas: "250"
+      status: "Incomplete"
+      location: "sha-lu"
+      reproduction: "photographed"
+      notes: "Marked Sh in the list (Ṣha-lu)."
+    - id: abhidharmasamuccayabhasya
+      item_no: 10
+      page: 55
+      subject: "Philosophy"
+      name_as_printed: "Abhidharmasamuccayabhāṣya"
+      author_as_printed: "(Yaśomitra)"
+      size_slokas: "4,000"
+      status: "Complete"
+      location: "sha-lu"
+      reproduction: "photographed"
+      notes: "Marked Sh in the list (Ṣha-lu). Name printed “” bhāṣya”."
+    - id: madhyamakahrdaya
+      item_no: 11
+      page: 55
+      subject: "Philosophy"
+      name_as_printed: "Tarkajvālā"
+      author_as_printed: "Bhavya"
+      size_slokas: "1,000"
+      status: "Incomplete"
+      location: "sha-lu"
+      reproduction: "copied"
+      notes: "Marked Sh in the list (Ṣha-lu)."
+    - id: unidentified-1937-photo-12
+      item_no: 12
+      page: 55
+      subject: "Philosophy"
+      name_as_printed: "Darśana"
+      author_as_printed: "Unknown"
+      status: "Incomplete"
+      location: "sha-lu"
+      reproduction: "photographed"
+      notes: "Marked Sh in the list (Ṣha-lu). Size blank."
+    - id: madhyantavibhangakarikabhasya
+      item_no: 13
+      page: 55
+      subject: "Philosophy"
+      name_as_printed: "Madhyāntavibhaṅgabhāṣya"
+      author_as_printed: "Vasubandhu"
+      size_slokas: "1,000"
+      status: "Complete"
+      location: "ngor"
+      reproduction: "photographed"
+      notes: "Marked Ng in the list (Ngor)."
+    - id: mahayanottaratantra
+      item_no: 14
+      page: 55
+      subject: "Philosophy"
+      name_as_printed: "Mahāyānottaratantra"
+      author_as_printed: "Maitreya"
+      size_slokas: "500"
+      status: "Incomplete"
+      location: "ngor"
+      reproduction: "photographed"
+      notes: "Marked Ng in the list (Ngor)."
+    - id: mahayanottaratantratika
+      item_no: 15
+      page: 55
+      subject: "Philosophy"
+      name_as_printed: "Mahāyānottaratantraṭīkā"
+      author_as_printed: "Yaśomitra"
+      size_slokas: "200"
+      status: "Incomplete"
+      location: "sha-lu"
+      reproduction: "photographed"
+      notes: "Marked Sh in the list (Ṣha-lu). Name printed “” ṭīkā”. The catalogue (no. 242, Ṣha-lu) gives the author as “(Asaṃga ?)”; here Yaśomitra."
+      uncertain_fields: [author_as_printed]
+    - id: yogacarabhumi
+      item_no: 16
+      page: 55
+      subject: "Philosophy"
+      name_as_printed: "Yogācārabhūmi"
+      author_as_printed: "Asaṅga"
+      size_slokas: "8,000"
+      status: "Incomplete"
+      location: "sa-skya"
+      reproduction: "copied"
+      notes: "Marked S in the list (Sa-skya)."
+    - id: vajrasuci
+      item_no: 17
+      page: 55
+      subject: "Philosophy"
+      name_as_printed: "Vajrasūcī"
+      author_as_printed: "Aśvaghoṣa"
+      size_slokas: "150"
+      status: "Complete"
+      location: "ngor"
+      reproduction: "photographed"
+      notes: "Marked Ng in the list (Ngor). The catalogue of 1935 (no. 166) names no author."
+    - id: vigrahavyavartani
+      item_no: 18
+      page: 55
+      subject: "Philosophy"
+      name_as_printed: "Vigrahavyāvarttanī"
+      author_as_printed: "Nāgārjuna"
+      size_slokas: "450"
+      status: "Complete"
+      location: "sha-lu"
+      reproduction: "copied"
+      notes: "Marked Sh in the list (Ṣha-lu)."
+    - id: vimsikavivrti
+      item_no: 19
+      page: 55
+      subject: "Philosophy"
+      name_as_printed: "Viṃśikāvivṛti"
+      author_as_printed: "Unknown"
+      size_slokas: "150"
+      status: "Complete"
+      location: "sha-lu"
+      reproduction: "photographed"
+      notes: "Marked Sh in the list (Ṣha-lu)."
+    - id: apohasiddhi
+      item_no: 20
+      page: 55
+      subject: "Logic"
+      name_as_printed: "Apohasiddhi"
+      author_as_printed: "Ratnakīrti"
+      size_slokas: "1,200"
+      status: "Complete"
+      location: "sha-lu"
+      reproduction: "photographed"
+      notes: "Marked Sh in the list (Ṣha-lu)."
+    - id: avayavinirakarana
+      item_no: 21
+      page: 55
+      subject: "Logic"
+      name_as_printed: "Avayavinirākaraṇa"
+      author_as_printed: "Ratnakīrti"
+      size_slokas: "200 (?)"
+      status: "Complete"
+      location: "sha-lu"
+      reproduction: "photographed"
+      notes: "Marked Sh in the list (Ṣha-lu). Author printed as a ditto mark."
+    - id: agamapramanyanirasa
+      item_no: 22
+      page: 55
+      subject: "Logic"
+      name_as_printed: "Āgamaprāmāṇyanirāsa"
+      author_as_printed: "Unknown"
+      size_slokas: "50"
+      status: "Complete"
+      location: "sha-lu"
+      reproduction: "photographed"
+      notes: "Marked Sh in the list (Ṣha-lu)."
+    - id: ksanabhangasiddhi
+      item_no: 23
+      page: 55
+      subject: "Logic"
+      name_as_printed: "Kṣaṇabhaṅgasiddhi"
+      author_as_printed: "Ratnakīrti"
+      size_slokas: "1,000"
+      status: "Complete"
+      location: "sha-lu"
+      reproduction: "photographed"
+      notes: "Marked Sh in the list (Ṣha-lu)."
+    - id: ksanabhangadhyaya
+      item_no: 24
+      page: 55
+      subject: "Logic"
+      name_as_printed: "Kṣaṇabhaṅgādhyāya"
+      author_as_printed: "Jñānaśrī"
+      size_slokas: "3,000"
+      status: "Complete"
+      location: "sha-lu"
+      reproduction: "copied"
+      notes: "Marked Sh in the list (Ṣha-lu)."
+    - id: cittadvaitaprakaranavada
+      item_no: 25
+      page: 55
+      subject: "Logic"
+      name_as_printed: "Cittādvaitaprakaraṇa"
+      author_as_printed: "Ratnakīrti"
+      size_slokas: "700"
+      status: "Complete"
+      location: "sha-lu"
+      reproduction: "photographed"
+      notes: "Marked Sh in the list (Ṣha-lu)."
+    - id: tarkarahasya
+      item_no: 26
+      page: 55
+      subject: "Logic"
+      name_as_printed: "Tarkarahasya"
+      author_as_printed: "Unkown"
+      size_slokas: "2,000"
+      status: "Complete"
+      location: "ngor"
+      reproduction: "photographed"
+      notes: "Marked Ng in the list (Ngor). “Unkown” printed so."
+    - id: nairatmyasiddhi
+      item_no: 27
+      page: 55
+      subject: "Logic"
+      name_as_printed: "Nairātmyasiddhi"
+      author_as_printed: "Jitāri"
+      size_slokas: "50"
+      status: "Complete"
+      location: "ngor"
+      reproduction: "photographed"
+      notes: "Marked Ng in the list (Ngor)."
+    - id: unidentified-1937-photo-28
+      item_no: 28
+      page: 55
+      subject: "Logic"
+      name_as_printed: "(Nyāyaṭīkā)"
+      author_as_printed: "Unknown"
+      status: "Incomplete"
+      location: "ngor"
+      reproduction: "photographed"
+      notes: "Marked Ng in the list (Ngor). Size blank."
+    - id: dharmottarapradipa
+      item_no: 29
+      page: 56
+      subject: "Logic"
+      name_as_printed: "Nyāyabindvanuṭīkā"
+      author_as_printed: "Durvekamiśra"
+      size_slokas: "5,000"
+      status: "Complete"
+      location: "ngor"
+      reproduction: "photographed"
+      notes: "Marked Ng in the list (Ngor)."
+    - id: prajnalankarakarika
+      item_no: 30
+      page: 56
+      subject: "Logic"
+      name_as_printed: "Prajñālaṅkāra"
+      author_as_printed: "Unkown"
+      size_slokas: "60"
+      status: "Complete"
+      location: "ngor"
+      reproduction: "photographed"
+      notes: "Marked Ng in the list (Ngor). “Unkown” printed so."
+    - id: unidentified-1937-photo-31
+      item_no: 31
+      page: 56
+      subject: "Logic"
+      name_as_printed: "Pramāṇavārttikaṭīkā"
+      author_as_printed: "Unknown"
+      size_slokas: ".."
+      status: "Incomplete"
+      location: "ngor"
+      reproduction: "photographed"
+      notes: "Marked Ng in the list (Ngor). Author printed as a ditto mark; size “..”."
+    - id: pramanavarttikabhasya
+      item_no: 32
+      page: 56
+      subject: "Logic"
+      name_as_printed: "Pramāṇavārttikabhāṣya"
+      author_as_printed: "Prajñākaragupta"
+      size_slokas: "15,000"
+      status: "Complete"
+      location: "sa-skya"
+      reproduction: "copied"
+      notes: "Marked S in the list (Sa-skya)."
+    - id: pramanavarttikavrtti-manorathanandin
+      item_no: 33
+      page: 56
+      subject: "Logic"
+      name_as_printed: "Pra° vā° vṛtti"
+      author_as_printed: "Manorathanandī"
+      size_slokas: "10,000"
+      status: "Complete"
+      location: "sha-lu"
+      reproduction: "copied"
+      notes: "Marked Sh in the list (Ṣha-lu)."
+    - id: pramanavarttikavrtti
+      item_no: 34
+      page: 56
+      subject: "Logic"
+      name_as_printed: "Pra° vā° svavṛtti"
+      author_as_printed: "Dharmakīrti"
+      size_slokas: "800"
+      status: "Incomplete"
+      location: "sa-skya"
+      reproduction: "copied"
+      notes: "Marked S in the list (Sa-skya)."
+    - id: pramanavarttikavrttitika
+      item_no: 35
+      page: 56
+      subject: "Logic"
+      name_as_printed: "Pra° vā° sva° ṭīkā"
+      author_as_printed: "Karṇakagomī"
+      size_slokas: "8,000"
+      status: "Complete"
+      location: "sa-skya"
+      reproduction: "copied"
+      notes: "Marked S in the list (Sa-skya)."
+    - id: pramanantarbhavaprakarana
+      item_no: 36
+      page: 56
+      subject: "Logic"
+      name_as_printed: "Pramāṇāntarbhāvaprakaraṇa"
+      author_as_printed: "Ratnakīrti"
+      size_slokas: "200"
+      location: "sha-lu"
+      reproduction: "photographed"
+      notes: "Marked Sh in the list (Ṣha-lu). Neither Complete nor Incomplete marked."
+    - id: vadarahasya
+      item_no: 37
+      page: 56
+      subject: "Logic"
+      name_as_printed: "Vādarahasya"
+      author_as_printed: "Unknown"
+      size_slokas: "3,000"
+      status: "Complete"
+      location: "sha-lu"
+      reproduction: "photographed"
+      notes: "Marked Sh in the list (Ṣha-lu)."
+    - id: vyaptinirnaya
+      item_no: 38
+      page: 56
+      subject: "Logic"
+      name_as_printed: "Vyāptinirṇaya"
+      author_as_printed: "Ratnakīrti"
+      size_slokas: "1,000"
+      status: "Complete"
+      location: "sha-lu"
+      reproduction: "photographed"
+      notes: "Marked Sh in the list (Ṣha-lu)."
+    - id: sarvajnasiddhi
+      item_no: 39
+      page: 56
+      subject: "Logic"
+      name_as_printed: "Sarvajñasiddhi"
+      author_as_printed: "Ratnakīrti"
+      size_slokas: "1,000"
+      status: "Complete"
+      location: "sha-lu"
+      reproduction: "photographed"
+      notes: "Marked Sh in the list (Ṣha-lu). Author printed as a ditto mark."
+    - id: sarvajnasiddhisamksepa
+      item_no: 40
+      page: 56
+      subject: "Logic"
+      name_as_printed: "Sarvajñasiddhisaṃkṣepa"
+      author_as_printed: "Śaṅkaranandana"
+      size_slokas: "100"
+      status: "Complete"
+      location: "ngor"
+      reproduction: "photographed"
+      notes: "Marked Ng in the list (Ngor)."
+    - id: sahopalambhasiddhi
+      item_no: 41
+      page: 56
+      subject: "Logic"
+      name_as_printed: "Sahopalambhasiddhi"
+      author_as_printed: "Jitāri"
+      size_slokas: "100"
+      status: "Complete"
+      location: "ngor"
+      reproduction: "photographed"
+      notes: "Marked Ng in the list (Ngor)."
+    - id: samanyanirakarana
+      item_no: 42
+      page: 56
+      subject: "Logic"
+      name_as_printed: "Sāmānyanirākaraṇa"
+      author_as_printed: "Ratnakīrti"
+      size_slokas: "750"
+      status: "Complete"
+      location: "sha-lu"
+      reproduction: "photographed"
+      notes: "Marked Sh in the list (Ṣha-lu)."
+    - id: sthirasiddhidusana
+      item_no: 43
+      page: 56
+      subject: "Logic"
+      name_as_printed: "Sthirasiddhi dūṣaṇa"
+      author_as_printed: "Ratnakīrti"
+      size_slokas: "800"
+      status: "Complete"
+      location: "sha-lu"
+      reproduction: "photographed"
+      notes: "Marked Sh in the list (Ṣha-lu). Author printed as a ditto mark."
+    - id: hetubindu-anutika
+      item_no: 44
+      page: 56
+      subject: "Logic"
+      name_as_printed: "Hetubindvanuṭīkā"
+      author_as_printed: "Durvekamiśra"
+      size_slokas: "5,000"
+      status: "Complete"
+      location: "ngor"
+      reproduction: "photographed"
+      notes: "Marked Ng in the list (Ngor)."
+    - id: upasampadajnapti
+      item_no: 45
+      page: 56
+      subject: "Vinaya"
+      name_as_printed: "Upasampadājñapti"
+      author_as_printed: "(Vinaya)"
+      size_slokas: "70"
+      status: "Complete"
+      location: "ngor"
+      reproduction: "photographed"
+      notes: "Marked Ng in the list (Ngor)."
+    - id: pratimoksasutra
+      item_no: 46
+      page: 56
+      subject: "Vinaya"
+      name_as_printed: "Prātimokṣasūtra"
+      author_as_printed: "(Vinaya)"
+      size_slokas: "400"
+      status: "Complete"
+      location: "ngor"
+      reproduction: "photographed"
+      notes: "Marked Ng in the list (Ngor). Author printed as a ditto mark."
+    - id: pratimoksasutratika
+      item_no: 47
+      page: 56
+      subject: "Vinaya"
+      name_as_printed: "Prātimokṣasūtraṭīkā"
+      author_as_printed: "Unknown"
+      size_slokas: "100"
+      status: "Incomplete"
+      location: "sa-skya"
+      reproduction: "photographed"
+      notes: "Marked S in the list (Sa-skya). Name printed “” ṭīkā”."
+    - id: bhiksuvinaya-1937
+      item_no: 48
+      page: 57
+      subject: "Vinaya"
+      name_as_printed: "Bhikṣuvinaya"
+      author_as_printed: "Unknown"
+      size_slokas: "200"
+      status: "Incomplete"
+      location: "sa-skya"
+      reproduction: "photographed"
+      notes: "Marked S in the list (Sa-skya)."
+    - id: vinayakarika
+      item_no: 49
+      page: 57
+      subject: "Vinaya"
+      name_as_printed: "Vinayakārikā"
+      author_as_printed: "Viśākha"
+      size_slokas: "150"
+      status: "Incomplete"
+      location: "sa-skya"
+      reproduction: "photographed"
+      notes: "Marked S in the list (Sa-skya)."
+    - id: vinayaksudraka
+      item_no: 50
+      page: 57
+      subject: "Vinaya"
+      name_as_printed: "Vinayakṣudraka"
+      author_as_printed: "(Vinaya)"
+      size_slokas: "3,000"
+      status: "Complete; Incomplete"
+      location: "sha-lu"
+      reproduction: "photographed"
+      notes: "Marked Sh in the list (Ṣha-lu). Ditto marks stand under both Complete and Incomplete."
+      uncertain_fields: [status]
+    - id: vinaya-lokottaravadin
+      item_no: 51
+      page: 57
+      subject: "Vinaya"
+      name_as_printed: "Vinaya (Lokottaravādi-)"
+      author_as_printed: "(Vinaya)"
+      size_slokas: "1,200"
+      status: "Complete"
+      location: "ngor"
+      reproduction: "photographed"
+      notes: "Marked Ng in the list (Ngor). Author printed “( ” )”."
+    - id: vinayasutra
+      item_no: 52
+      page: 57
+      subject: "Vinaya"
+      name_as_printed: "Vinayasūtra"
+      author_as_printed: "Guṇaprabha"
+      size_slokas: "500"
+      status: "Complete"
+      location: "sha-lu"
+      reproduction: "photographed"
+      notes: "Marked Sh in the list (Ṣha-lu)."
+    - id: vinayasutravrtti
+      item_no: 53
+      page: 57
+      subject: "Vinaya"
+      name_as_printed: "Vinayasūtravṛtti"
+      author_as_printed: "Guṇaprabha"
+      size_slokas: "300"
+      status: "Complete"
+      location: "sha-lu"
+      reproduction: "photographed"
+      notes: "Marked Sh in the list (Ṣha-lu). Name printed “” vṛtti”; author as a ditto mark."
+    - id: sramanerakarika
+      item_no: 55
+      page: 57
+      subject: "Vinaya"
+      name_as_printed: "Śrāmaṇerakārikā"
+      author_as_printed: "Jayarakṣita"
+      size_slokas: "300"
+      status: "Incomplete"
+      location: "ngor"
+      reproduction: "photographed"
+      notes: "Marked Ng in the list (Ngor)."
+  _includes-also:
+    - id: vinayasutravrtti
+      item_no: 54
+      page: 57
+      subject: "Vinaya"
+      name_as_printed: "Vinayasūtravṛtti"
+      author_as_printed: "Guṇaprabha"
+      size_slokas: "300"
+      status: "Incomplete"
+      location: "sa-skya"
+      reproduction: "photographed"
+      notes: "Marked S in the list (Sa-skya). Name and author printed as ditto marks."
+notes: "55 entries, grouped by subject (Poetry 1–3, Prosody 4, Philosophy 5–19, Logic 20–44, Vinaya 45–55). The list ends with no. 55 on p. 57, whose lower half is blank: it is complete. It lists works, not volumes: each entry is a link to a work, with the place (location) and the way it was reproduced. docs/photographed-1937-matches.md compares it with the catalogues."
