@@ -19,7 +19,6 @@ _works:
       lines_per_page: "7"
       status: "Incomplete"
       notes: "Footnote 1: begins from leaf 24, and the last leaf is numbered 58."
-  _contains-also:
     - id: varttikalankara
       item_no: 253
       no_in_volume: 2

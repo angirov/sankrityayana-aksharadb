@@ -43,22 +43,21 @@ def main():
     locations = set(load_collection(root, "locations"))
     manuscripts = load_collection(root, "manuscripts")
     for key, doc in load_collection(root, "lists").items():
-        for relation in ("_includes", "_includes-also"):
-            for link in (doc.get("_works") or {}).get(relation, []):
-                if "location" in link and link["location"] not in locations:
-                    print(f"_lists/{key}: entry {link.get('item_no')} names location {link['location']!r}, which does not exist")
+        for link in (doc.get("_works") or {}).get("_includes", []):
+            if "location" in link and link["location"] not in locations:
+                print(f"_lists/{key}: entry {link.get('item_no')} names location {link['location']!r}, which does not exist")
+                errors += 1
+            if "manuscript" in link:
+                volume = manuscripts.get(link["manuscript"])
+                if volume is None:
+                    print(f"_lists/{key}: entry {link.get('item_no')} names manuscript {link['manuscript']!r}, which does not exist")
                     errors += 1
-                if "manuscript" in link:
-                    volume = manuscripts.get(link["manuscript"])
-                    if volume is None:
-                        print(f"_lists/{key}: entry {link.get('item_no')} names manuscript {link['manuscript']!r}, which does not exist")
-                        errors += 1
-                    # only a certain match must name the very work of the volume; a probable or
-                    # possible one may name it otherwise (that is what makes it uncertain)
-                    elif link.get("match") == "certain" and not any(w["id"] == link["id"] for r in ("_contains", "_contains-also")
-                                 for w in volume["_works"].get(r, [])):
-                        print(f"_lists/{key}: entry {link.get('item_no')}: {link['manuscript']} does not contain {link['id']}")
-                        errors += 1
+                # only a certain match must name the very work of the volume; a probable or
+                # possible one may name it otherwise (that is what makes it uncertain)
+                elif link.get("match") == "certain" and not any(w["id"] == link["id"]
+                                                                for w in volume["_works"].get("_contains", [])):
+                    print(f"_lists/{key}: entry {link.get('item_no')}: {link['manuscript']} does not contain {link['id']}")
+                    errors += 1
 
     scans = {p.stem for p in (root / "_publications").rglob("*.png")}
     missing = sorted(f"{key}_{p['tag']}" for key, doc in publications.items() for p in doc["pages"]

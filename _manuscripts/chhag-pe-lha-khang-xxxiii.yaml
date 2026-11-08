@@ -16,7 +16,6 @@ _works:
       leaves: "32"
       status: "Incomplete"
       notes: "Author “..”; size and lines blank."
-  _contains-also:
     - id: prajnaparamita-unspecified
       item_no: 225
       no_in_volume: 2

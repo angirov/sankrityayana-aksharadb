@@ -65,12 +65,9 @@ properties:
     additionalProperties: false
     properties:
       _includes:
+        description: "A link is the list, the work and the number of the entry: a work listed twice is two links."
         type: array
-        items: {$ref: "#/$defs/entryLink"}
-        minItems: 1
-      _includes-also:
-        description: "A further entry for a work already in _includes (see _contains-also of _manuscripts)"
-        type: array
+        linkDiscriminator: [item_no]
         items: {$ref: "#/$defs/entryLink"}
         minItems: 1
   notes: {type: string}

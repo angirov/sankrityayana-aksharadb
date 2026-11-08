@@ -90,14 +90,11 @@ properties:
     required: [_contains]
     properties:
       _contains:
-        type: array
-        items: {$ref: "#/$defs/contentLink"}
-        minItems: 1
-      _contains-also:
         description: >
-          A further copy of a work already in _contains of the same volume (a link may
-          name a work only once per list).
+          A link is the volume, the work and its position in the volume: two copies of one
+          work in one volume are two links at two positions.
         type: array
+        linkDiscriminator: [no_in_volume]
         items: {$ref: "#/$defs/contentLink"}
         minItems: 1
   notes: {type: string}

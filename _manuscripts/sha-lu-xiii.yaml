@@ -18,6 +18,16 @@ _works:
       leaves: "31"
       lines_per_page: "7"
       status: "Ch. 2, 3, 4"
+    - id: pramanavarttika
+      item_no: 240
+      no_in_volume: 2
+      name_as_printed: "Pramāṇavārttika (kroḍapatra)"
+      script: "Kuṭilā"
+      size_inches: "12¾×2¼"
+      leaves: "16"
+      lines_per_page: "7,9"
+      notes: "Page 34. Footnote 1: except 3 leaves all on paper; it is an appendix to XII, 1 (no. 237, Manorathanandin's Vṛtti), so the leaves may belong to that commentary rather than to the Pramāṇavārttika. Script printed as a ditto mark; status blank."
+      uncertain_fields: [id]
     - id: ksanabhangadhyaya
       item_no: 241
       no_in_volume: 3
@@ -41,14 +51,3 @@ _works:
       lines_per_page: "6"
       status: "Incomplete"
       notes: "Page 34. Script printed as a ditto mark."
-  _contains-also:
-    - id: pramanavarttika
-      item_no: 240
-      no_in_volume: 2
-      name_as_printed: "Pramāṇavārttika (kroḍapatra)"
-      script: "Kuṭilā"
-      size_inches: "12¾×2¼"
-      leaves: "16"
-      lines_per_page: "7,9"
-      notes: "Page 34. Footnote 1: except 3 leaves all on paper; it is an appendix to XII, 1 (no. 237, Manorathanandin's Vṛtti), so the leaves may belong to that commentary rather than to the Pramāṇavārttika. Script printed as a ditto mark; status blank."
-      uncertain_fields: [id]
