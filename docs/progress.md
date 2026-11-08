@@ -62,8 +62,8 @@ To decide (owner):
 - 1937 Chhag-pe-lha-khang vol. IV: taken (owner) as the volume of nos. 186–192. The layout of
   p. 21 speaks rather for no. 185: the roman numbers and the data columns stand about half a line
   above the titles (II by no. 183, III by 184, IV by 185). To confirm.
-- Ngor VIII holds two copies of the Aṣṭasāhasrikā (nos. 63, 64): kept in `_contains-also` until
-  AksharaDB issue #11; alternatively no. 64 as a separate manuscript.
+- Ngor VIII holds two copies of the Aṣṭasāhasrikā (nos. 63, 64): two `_contains` links at positions
+  1 and 2 (AksharaDB #11); alternatively no. 64 as a separate manuscript.
 
 To check or find:
 
@@ -90,10 +90,11 @@ Noted, no action:
 - Page texts (`.md`) for the table pages, to hold the long footnote quotations that the records
   mark “not transcribed here” (1938 pp. 148–162; 1937 nos. 195, 200, 201, 251, 307, 310, 325 …).
 - Position in the volume on every `_contains` link: done (issue #1); `no_in_volume` is required.
-- When AksharaDB has issue #11 (`linkDiscriminator`) and #12 (`refersTo`): `_contains` is keyed by
-  `no_in_volume` (not `item_no` or `source`), so `_contains-also` goes; `_includes` of the list of
-  1937 by `item_no`, so `_includes-also` goes; make `location` and `manuscript` of list entries
-  reference attributes, and drop the matching checks from `scripts/check_pages.py`.
+- Done 2026-11-09 with AksharaDB #11 (`linkDiscriminator`, needs AksharaDB with #11): `_contains` is
+  keyed by `no_in_volume`, `_includes` of the list of 1937 by `item_no`; `_contains-also` (7 volumes)
+  and `_includes-also` are gone.
+- When AksharaDB has #12 (`refersTo`): make `location` and `manuscript` of list entries reference
+  attributes, and drop the matching checks from `scripts/check_pages.py`.
 - GitHub Actions: no workflow yet. AksharaDB is private and this repository public, so
   `uses: angirov/AksharaDB@…` does not work yet. Planned: check AksharaDB out with a read-only
   token (secret `AKSHARADB_TOKEN`) into `.aksharadb/` (add it to `.gitignore`), run it as a local

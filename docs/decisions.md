@@ -21,8 +21,10 @@ Open questions are in `progress.md`.
   described twice has two numbers, and one number can hold two works. Not `source`: it says where
   a description comes from, not what the link is. Two works at one position are allowed (a text
   with its commentary).
-- A second copy of a work in one volume goes to `_contains-also`, because AksharaDB allows a work
-  once per link list. To be replaced by a link discriminator (AksharaDB issue #11).
+- A second copy of a work in one volume is an ordinary `_contains` link at its own position: the
+  relation declares `linkDiscriminator: [no_in_volume]` (AksharaDB #11), so a link is (volume, work,
+  position). `_contains-also`, the earlier workaround, is gone (2026-11-09); its entries stand in
+  `_contains` in the order of their positions.
 - Titles that are only descriptions (“(darśanagrantha)”, “Vyākaraṇa (?)”) are works with keys
   `unidentified-<year>-<no>`; untitled or fragmentary titles likewise get a work of their own.
 - Works of the same title by different authors are separate works (`hevajrasadhana-<author>`); a
@@ -76,16 +78,17 @@ Open questions are in `progress.md`.
   volume `chhag-pe-lha-khang-185`.
 - A footnote whose number points to one row but whose content clearly describes another (1937, p. 28) is assigned by its content, said so in the notes, and the notes are flagged.
 - A work in several physical volumes given one entry and a range of vol. nos. (1937 no. 216, vols. XX–XXIII) is one manuscript record, `vol_no: XX-XXIII`.
-- Unidentified titles printed as ditto marks of each other in one volume (1937 nos. 231–233, “saṃskṛtapustaka”) are separate works, since nothing shows they are one text (and a third copy could not go into `_contains-also`, issue #11).
+- Unidentified titles printed as ditto marks of each other in one volume (1937 nos. 231–233, “saṃskṛtapustaka”) are separate works, since nothing shows they are one text.
 - (owner) The list “MSS. Photographed or copied” (1937) lists works, not volumes. It is one
   `_lists` document whose `_works._includes` links name the works; each link carries the entry
   as printed (number, page, subject, name, author, size in ślokas, status), the place
   (`location`, the key of a `_locations` document; S = Sa-skya as a monastery, since the library
   is not named) and `reproduction` (x = copied). The 55 manuscript records made for it at first
   were removed. A work listed twice (Vinayasūtravṛtti, nos. 53 Sh and 54 S) has its second entry
-  in `_includes-also` (issue #11). `scripts/check_pages.py` checks that each `location` exists;
-  AksharaDB issue #12 (reference attributes) would let AksharaDB check it, and with #11 make
-  `location` the discriminator, so that `_includes-also` goes.
+  as a second `_includes` link: the relation declares `linkDiscriminator: [item_no]` (AksharaDB
+  #11), the number of the entry, which is required and unique in the list (`_includes-also` is gone,
+  2026-11-09). `scripts/check_pages.py` checks that each `location` exists; AksharaDB issue #12
+  (reference attributes) would let AksharaDB check it.
   `docs/photographed-1937-matches.md` compares the list with the catalogue volumes.
 - (owner) Each entry of the photographed list names the volume it is identified with
   (`manuscript`) and how sure that is (`match`: certain, probable, possible, list-only; reasons in
