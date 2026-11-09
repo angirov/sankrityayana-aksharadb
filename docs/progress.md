@@ -93,8 +93,10 @@ Noted, no action:
 - Done 2026-11-09 with AksharaDB #11 (`linkDiscriminator`, needs AksharaDB with #11): `_contains` is
   keyed by `no_in_volume`, `_includes` of the list of 1937 by `item_no`; `_contains-also` (7 volumes)
   and `_includes-also` are gone.
-- When AksharaDB has #12 (`refersTo`): make `location` and `manuscript` of list entries reference
-  attributes, and drop the matching checks from `scripts/check_pages.py`.
+- When AksharaDB has #12 (`refersTo`): make `location` (`refersTo: _locations`) and `manuscript`
+  (`refersTo: _manuscripts`) of list entries reference attributes, and drop from
+  `scripts/check_pages.py` the checks that they exist. The check that a certain match names a work
+  the volume contains stays in the script: a reference attribute cannot say it.
 - GitHub Actions: no workflow yet. AksharaDB is private and this repository public, so
   `uses: angirov/AksharaDB@…` does not work yet. Planned: check AksharaDB out with a read-only
   token (secret `AKSHARADB_TOKEN`) into `.aksharadb/` (add it to `.gitignore`), run it as a local
